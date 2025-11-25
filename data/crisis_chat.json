@@ -1,0 +1,4632 @@
+[
+  {
+    "id": 1,
+    "author": "Leo",
+    "timestamp": "2024-02-24T05:38:00",
+    "phase": "shock",
+    "categories": [
+      "SI"
+    ],
+    "text": "Can someone update on Old Town? No signal here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 2,
+    "author": "Ana",
+    "timestamp": "2024-02-24T06:05:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "our building, 7th floor, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 3,
+    "author": "Tarek",
+    "timestamp": "2024-02-24T06:15:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "block C, courtyard side, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 4,
+    "author": "Sara",
+    "timestamp": "2024-02-24T07:01:00",
+    "phase": "shock",
+    "categories": [
+      "SI"
+    ],
+    "text": "Did something hit close to the small park by the river?",
+    "reply_to_id": null
+  },
+  {
+    "id": 5,
+    "author": "Sara",
+    "timestamp": "2024-02-24T08:14:00",
+    "phase": "shock",
+    "categories": [
+      "CC"
+    ],
+    "text": "Stop shouting at each other, we all see the same fear.",
+    "reply_to_id": null
+  },
+  {
+    "id": 6,
+    "author": "Tarek",
+    "timestamp": "2024-02-24T08:29:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near North Station entrance.",
+    "reply_to_id": null
+  },
+  {
+    "id": 7,
+    "author": "Tarek",
+    "timestamp": "2024-02-24T09:34:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "the playground behind the school, heavy damage.",
+    "reply_to_id": null
+  },
+  {
+    "id": 8,
+    "author": "Mom",
+    "timestamp": "2024-02-24T09:57:00",
+    "phase": "shock",
+    "categories": [
+      "SI"
+    ],
+    "text": "Can someone update on Industrial Park? No signal here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 9,
+    "author": "Sara",
+    "timestamp": "2024-02-24T10:39:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "North Station, smoke rising.",
+    "reply_to_id": null
+  },
+  {
+    "id": 10,
+    "author": "Tarek",
+    "timestamp": "2024-02-24T12:06:00",
+    "phase": "shock",
+    "categories": [
+      "SI"
+    ],
+    "text": "Can someone update on North Station? No signal here.",
+    "reply_to_id": 6
+  },
+  {
+    "id": 11,
+    "author": "Lena",
+    "timestamp": "2024-02-24T12:34:00",
+    "phase": "shock",
+    "categories": [
+      "SI",
+      "SA"
+    ],
+    "text": "Did something hit close to the playground behind the school? Strike near Central Station entrance.",
+    "reply_to_id": 7
+  },
+  {
+    "id": 12,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-24T13:38:00",
+    "phase": "shock",
+    "categories": [
+      "SI"
+    ],
+    "text": "Can someone update on Old Town? No signal here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 13,
+    "author": "Leo",
+    "timestamp": "2024-02-24T14:46:00",
+    "phase": "shock",
+    "categories": [
+      "SI",
+      "SA"
+    ],
+    "text": "Is the metro at North Station still running? Industrial Park, smoke rising.",
+    "reply_to_id": null
+  },
+  {
+    "id": 14,
+    "author": "Omar",
+    "timestamp": "2024-02-24T15:53:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "the bus depot, heavy damage.",
+    "reply_to_id": null
+  },
+  {
+    "id": 15,
+    "author": "Leo",
+    "timestamp": "2024-02-24T17:17:00",
+    "phase": "shock",
+    "categories": [
+      "SI",
+      "SA"
+    ],
+    "text": "Is the metro at Museum still running? the bus depot, heavy damage.",
+    "reply_to_id": null
+  },
+  {
+    "id": 16,
+    "author": "Ana",
+    "timestamp": "2024-02-24T18:14:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "Old Town, smoke rising.",
+    "reply_to_id": null
+  },
+  {
+    "id": 17,
+    "author": "Lena",
+    "timestamp": "2024-02-24T19:41:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "roof of our building, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 18,
+    "author": "Lena",
+    "timestamp": "2024-02-24T19:54:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "River St – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 19,
+    "author": "Tarek",
+    "timestamp": "2024-02-24T20:18:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near Central Station entrance.",
+    "reply_to_id": null
+  },
+  {
+    "id": 20,
+    "author": "Ana",
+    "timestamp": "2024-02-24T21:22:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "Riverside, smoke rising.",
+    "reply_to_id": null
+  },
+  {
+    "id": 21,
+    "author": "Ana",
+    "timestamp": "2024-02-24T21:56:00",
+    "phase": "shock",
+    "categories": [
+      "SI"
+    ],
+    "text": "Anyone knows what happened near Market St?",
+    "reply_to_id": null
+  },
+  {
+    "id": 22,
+    "author": "Tarek",
+    "timestamp": "2024-02-24T23:08:00",
+    "phase": "shock",
+    "categories": [
+      "SI"
+    ],
+    "text": "Any news from Old Town? My relatives live there.",
+    "reply_to_id": null
+  },
+  {
+    "id": 23,
+    "author": "Tarek",
+    "timestamp": "2024-02-25T00:18:00",
+    "phase": "shock",
+    "categories": [
+      "SI"
+    ],
+    "text": "Can someone update on Old Town? No signal here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 24,
+    "author": "Lena",
+    "timestamp": "2024-02-25T01:45:00",
+    "phase": "shock",
+    "categories": [
+      "SI"
+    ],
+    "text": "Did something hit close to the small park by the river?",
+    "reply_to_id": null
+  },
+  {
+    "id": 25,
+    "author": "Omar",
+    "timestamp": "2024-02-25T03:13:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "garage level under our block, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 26,
+    "author": "Ana",
+    "timestamp": "2024-02-25T04:16:00",
+    "phase": "shock",
+    "categories": [
+      "SI"
+    ],
+    "text": "Did something hit close to the playground behind the school?",
+    "reply_to_id": null
+  },
+  {
+    "id": 27,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-25T05:02:00",
+    "phase": "shock",
+    "categories": [
+      "SA"
+    ],
+    "text": "block C, courtyard side, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 28,
+    "author": "Leo",
+    "timestamp": "2024-02-25T05:27:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Any news from Industrial Park? My relatives live there.",
+    "reply_to_id": 19
+  },
+  {
+    "id": 29,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-25T06:02:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Please no exact troop positions here.",
+    "reply_to_id": 15
+  },
+  {
+    "id": 30,
+    "author": "Leo",
+    "timestamp": "2024-02-25T07:08:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "Alameda Ave – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 31,
+    "author": "Mom",
+    "timestamp": "2024-02-25T08:08:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA",
+      "CC"
+    ],
+    "text": "the orange pharmacy, heavy damage. Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 32,
+    "author": "Ana",
+    "timestamp": "2024-02-25T08:26:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Is the metro at North Station still running?",
+    "reply_to_id": 22
+  },
+  {
+    "id": 33,
+    "author": "Tarek",
+    "timestamp": "2024-02-25T09:03:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Can someone update on Riverside? No signal here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 34,
+    "author": "Sara",
+    "timestamp": "2024-02-25T09:16:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Is the metro at Central Station still running?",
+    "reply_to_id": null
+  },
+  {
+    "id": 35,
+    "author": "Omar",
+    "timestamp": "2024-02-25T09:49:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "If you share rumors, mark them as unverified.",
+    "reply_to_id": null
+  },
+  {
+    "id": 36,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-25T10:27:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "the orange pharmacy, heavy damage.",
+    "reply_to_id": null
+  },
+  {
+    "id": 37,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-25T10:39:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA",
+      "CC"
+    ],
+    "text": "the small park by the river, heavy damage. If you share rumors, mark them as unverified.",
+    "reply_to_id": 29
+  },
+  {
+    "id": 38,
+    "author": "Lena",
+    "timestamp": "2024-02-25T11:10:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI",
+      "CC"
+    ],
+    "text": "Anyone knows what happened near River St? Stop shouting at each other, we all see the same fear.",
+    "reply_to_id": 24
+  },
+  {
+    "id": 39,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-25T12:04:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Try to blur faces if you post photos.",
+    "reply_to_id": null
+  },
+  {
+    "id": 40,
+    "author": "Ana",
+    "timestamp": "2024-02-25T13:12:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near Riverside entrance.",
+    "reply_to_id": null
+  },
+  {
+    "id": 41,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-25T13:48:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI",
+      "CC"
+    ],
+    "text": "Can someone update on Hilltop? No signal here. Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 42,
+    "author": "Miguel",
+    "timestamp": "2024-02-25T14:46:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 43,
+    "author": "Leo",
+    "timestamp": "2024-02-25T15:42:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA",
+      "CC"
+    ],
+    "text": "our building, 7th floor, glass everywhere. Stop shouting at each other, we all see the same fear.",
+    "reply_to_id": 20
+  },
+  {
+    "id": 44,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-25T16:11:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Any news from Riverside? My relatives live there.",
+    "reply_to_id": null
+  },
+  {
+    "id": 45,
+    "author": "Tarek",
+    "timestamp": "2024-02-25T16:56:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Stop shouting at each other, we all see the same fear.",
+    "reply_to_id": null
+  },
+  {
+    "id": 46,
+    "author": "Miguel",
+    "timestamp": "2024-02-25T17:38:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Try to blur faces if you post photos.",
+    "reply_to_id": null
+  },
+  {
+    "id": 47,
+    "author": "Omar",
+    "timestamp": "2024-02-25T18:36:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Did something hit close to the bakery on Market?",
+    "reply_to_id": 15
+  },
+  {
+    "id": 48,
+    "author": "Lena",
+    "timestamp": "2024-02-25T18:58:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Did something hit close to the bus depot?",
+    "reply_to_id": 3
+  },
+  {
+    "id": 49,
+    "author": "Ana",
+    "timestamp": "2024-02-25T19:00:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near Riverside entrance.",
+    "reply_to_id": null
+  },
+  {
+    "id": 50,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-25T20:30:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI",
+      "CC"
+    ],
+    "text": "Any news from Riverside? My relatives live there. If you share rumors, mark them as unverified.",
+    "reply_to_id": null
+  },
+  {
+    "id": 51,
+    "author": "Omar",
+    "timestamp": "2024-02-25T21:36:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Anyone knows what happened near Alameda Ave?",
+    "reply_to_id": null
+  },
+  {
+    "id": 52,
+    "author": "Sara",
+    "timestamp": "2024-02-25T22:20:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near North Station entrance.",
+    "reply_to_id": 2
+  },
+  {
+    "id": 53,
+    "author": "Lena",
+    "timestamp": "2024-02-25T23:25:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near Riverside entrance.",
+    "reply_to_id": null
+  },
+  {
+    "id": 54,
+    "author": "Ana",
+    "timestamp": "2024-02-25T23:50:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "River St – windows blown out.",
+    "reply_to_id": 36
+  },
+  {
+    "id": 55,
+    "author": "Ana",
+    "timestamp": "2024-02-26T00:14:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA",
+      "CC"
+    ],
+    "text": "Strike near Riverside entrance. Try to blur faces if you post photos.",
+    "reply_to_id": null
+  },
+  {
+    "id": 56,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-26T00:27:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Stop shouting at each other, we all see the same fear.",
+    "reply_to_id": 36
+  },
+  {
+    "id": 57,
+    "author": "Sara",
+    "timestamp": "2024-02-26T00:40:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "If you share rumors, mark them as unverified.",
+    "reply_to_id": null
+  },
+  {
+    "id": 58,
+    "author": "Miguel",
+    "timestamp": "2024-02-26T00:51:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "If you share rumors, mark them as unverified.",
+    "reply_to_id": 11
+  },
+  {
+    "id": 59,
+    "author": "Sara",
+    "timestamp": "2024-02-26T02:21:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Stop shouting at each other, we all see the same fear.",
+    "reply_to_id": null
+  },
+  {
+    "id": 60,
+    "author": "Sara",
+    "timestamp": "2024-02-26T03:38:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Try to blur faces if you post photos.",
+    "reply_to_id": 48
+  },
+  {
+    "id": 61,
+    "author": "Mom",
+    "timestamp": "2024-02-26T03:46:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Try to blur faces if you post photos.",
+    "reply_to_id": null
+  },
+  {
+    "id": 62,
+    "author": "Omar",
+    "timestamp": "2024-02-26T05:02:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Mods, maybe delete videos showing addresses.",
+    "reply_to_id": null
+  },
+  {
+    "id": 63,
+    "author": "Tarek",
+    "timestamp": "2024-02-26T05:36:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Anyone knows what happened near Station Road?",
+    "reply_to_id": null
+  },
+  {
+    "id": 64,
+    "author": "Omar",
+    "timestamp": "2024-02-26T06:46:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI",
+      "CC"
+    ],
+    "text": "Did something hit close to the bakery on Market? Mods, maybe delete videos showing addresses.",
+    "reply_to_id": null
+  },
+  {
+    "id": 65,
+    "author": "Ana",
+    "timestamp": "2024-02-26T08:05:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Mods, maybe delete videos showing addresses.",
+    "reply_to_id": null
+  },
+  {
+    "id": 66,
+    "author": "Ana",
+    "timestamp": "2024-02-26T09:30:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Try to blur faces if you post photos.",
+    "reply_to_id": 27
+  },
+  {
+    "id": 67,
+    "author": "Miguel",
+    "timestamp": "2024-02-26T10:59:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Anyone knows what happened near Market St?",
+    "reply_to_id": 46
+  },
+  {
+    "id": 68,
+    "author": "Ana",
+    "timestamp": "2024-02-26T11:24:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Any news from North Station? My relatives live there.",
+    "reply_to_id": null
+  },
+  {
+    "id": 69,
+    "author": "Ana",
+    "timestamp": "2024-02-26T12:00:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 70,
+    "author": "Mom",
+    "timestamp": "2024-02-26T12:46:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "Central Blvd – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 71,
+    "author": "Omar",
+    "timestamp": "2024-02-26T13:26:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "Central Blvd – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 72,
+    "author": "Miguel",
+    "timestamp": "2024-02-26T14:02:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI",
+      "CC"
+    ],
+    "text": "Can someone update on Riverside? No signal here. Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 73,
+    "author": "Mom",
+    "timestamp": "2024-02-26T14:24:00",
+    "phase": "negotiation",
+    "categories": [
+      "CC"
+    ],
+    "text": "Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 74,
+    "author": "Mom",
+    "timestamp": "2024-02-26T15:14:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA",
+      "CC"
+    ],
+    "text": "Strike near North Station entrance. If you share rumors, mark them as unverified.",
+    "reply_to_id": null
+  },
+  {
+    "id": 75,
+    "author": "Lena",
+    "timestamp": "2024-02-26T15:36:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Did something hit close to the small park by the river?",
+    "reply_to_id": null
+  },
+  {
+    "id": 76,
+    "author": "Leo",
+    "timestamp": "2024-02-26T16:55:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "North Station, smoke rising.",
+    "reply_to_id": 19
+  },
+  {
+    "id": 77,
+    "author": "Miguel",
+    "timestamp": "2024-02-26T18:02:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Can someone update on Riverside? No signal here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 78,
+    "author": "Sara",
+    "timestamp": "2024-02-26T19:21:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "roof of our building, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 79,
+    "author": "Omar",
+    "timestamp": "2024-02-26T20:14:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA",
+      "CC"
+    ],
+    "text": "Strike near Museum entrance. Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 80,
+    "author": "Leo",
+    "timestamp": "2024-02-26T20:16:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "our building, 7th floor, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 81,
+    "author": "Mom",
+    "timestamp": "2024-02-26T20:39:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI",
+      "CC"
+    ],
+    "text": "Any news from North Station? My relatives live there. Try to blur faces if you post photos.",
+    "reply_to_id": null
+  },
+  {
+    "id": 82,
+    "author": "Tarek",
+    "timestamp": "2024-02-26T21:05:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Any news from North Station? My relatives live there.",
+    "reply_to_id": 22
+  },
+  {
+    "id": 83,
+    "author": "Sara",
+    "timestamp": "2024-02-26T22:13:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI",
+      "CC"
+    ],
+    "text": "Anyone knows what happened near River St? Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 84,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-26T23:10:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "roof of our building, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 85,
+    "author": "Sara",
+    "timestamp": "2024-02-26T23:17:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Is the metro at Museum still running?",
+    "reply_to_id": 64
+  },
+  {
+    "id": 86,
+    "author": "Mom",
+    "timestamp": "2024-02-27T00:16:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "the playground behind the school, heavy damage.",
+    "reply_to_id": null
+  },
+  {
+    "id": 87,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-27T00:27:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Did something hit close to the bus depot?",
+    "reply_to_id": null
+  },
+  {
+    "id": 88,
+    "author": "Omar",
+    "timestamp": "2024-02-27T00:47:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Any news from Old Town? My relatives live there.",
+    "reply_to_id": null
+  },
+  {
+    "id": 89,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-27T01:29:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "block C, courtyard side, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 90,
+    "author": "Tarek",
+    "timestamp": "2024-02-27T01:41:00",
+    "phase": "negotiation",
+    "categories": [
+      "SI"
+    ],
+    "text": "Any news from North Station? My relatives live there.",
+    "reply_to_id": null
+  },
+  {
+    "id": 91,
+    "author": "Lena",
+    "timestamp": "2024-02-27T02:52:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "the bus depot, heavy damage.",
+    "reply_to_id": 51
+  },
+  {
+    "id": 92,
+    "author": "Ana",
+    "timestamp": "2024-02-27T03:06:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "Central Blvd – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 93,
+    "author": "Mom",
+    "timestamp": "2024-02-27T04:28:00",
+    "phase": "negotiation",
+    "categories": [
+      "SA"
+    ],
+    "text": "the small park by the river, heavy damage.",
+    "reply_to_id": null
+  },
+  {
+    "id": 94,
+    "author": "Miguel",
+    "timestamp": "2024-02-27T05:38:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m so tired of being scared. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 95,
+    "author": "Tarek",
+    "timestamp": "2024-02-27T06:04:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 16
+  },
+  {
+    "id": 96,
+    "author": "Omar",
+    "timestamp": "2024-02-27T06:32:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Our building group chat used to be about lost packages, now it’s about who survived.",
+    "reply_to_id": null
+  },
+  {
+    "id": 97,
+    "author": "Leo",
+    "timestamp": "2024-02-27T07:57:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Remember when Station Road was just traffic noise and kids on bikes?",
+    "reply_to_id": null
+  },
+  {
+    "id": 98,
+    "author": "Mom",
+    "timestamp": "2024-02-27T08:02:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "My chest hurts every time my phone rings now. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 99,
+    "author": "Mom",
+    "timestamp": "2024-02-27T08:15:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "They had years to prevent this and did nothing.",
+    "reply_to_id": 14
+  },
+  {
+    "id": 100,
+    "author": "Tarek",
+    "timestamp": "2024-02-27T09:01:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again.",
+    "reply_to_id": 10
+  },
+  {
+    "id": 101,
+    "author": "Miguel",
+    "timestamp": "2024-02-27T09:02:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 102,
+    "author": "Leo",
+    "timestamp": "2024-02-27T09:42:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m so tired of being scared.",
+    "reply_to_id": null
+  },
+  {
+    "id": 103,
+    "author": "Mom",
+    "timestamp": "2024-02-27T10:47:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 28
+  },
+  {
+    "id": 104,
+    "author": "Sara",
+    "timestamp": "2024-02-27T11:30:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now.",
+    "reply_to_id": 36
+  },
+  {
+    "id": 105,
+    "author": "Sara",
+    "timestamp": "2024-02-27T12:13:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": null
+  },
+  {
+    "id": 106,
+    "author": "Miguel",
+    "timestamp": "2024-02-27T13:34:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Our building group chat used to be about lost packages, now it’s about who survived.",
+    "reply_to_id": null
+  },
+  {
+    "id": 107,
+    "author": "Tarek",
+    "timestamp": "2024-02-27T14:20:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens.",
+    "reply_to_id": null
+  },
+  {
+    "id": 108,
+    "author": "Ana",
+    "timestamp": "2024-02-27T15:12:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m so tired of being scared.",
+    "reply_to_id": 37
+  },
+  {
+    "id": 109,
+    "author": "Mom",
+    "timestamp": "2024-02-27T15:39:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now.",
+    "reply_to_id": null
+  },
+  {
+    "id": 110,
+    "author": "Mom",
+    "timestamp": "2024-02-27T16:27:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 111,
+    "author": "Leo",
+    "timestamp": "2024-02-27T16:31:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Our building group chat used to be about lost packages, now it’s about who survived.",
+    "reply_to_id": 71
+  },
+  {
+    "id": 112,
+    "author": "Leo",
+    "timestamp": "2024-02-27T18:00:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 71
+  },
+  {
+    "id": 113,
+    "author": "Mom",
+    "timestamp": "2024-02-27T19:03:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 51
+  },
+  {
+    "id": 114,
+    "author": "Mom",
+    "timestamp": "2024-02-27T20:26:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 115,
+    "author": "Ana",
+    "timestamp": "2024-02-27T21:35:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back.",
+    "reply_to_id": null
+  },
+  {
+    "id": 116,
+    "author": "Mom",
+    "timestamp": "2024-02-27T21:57:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Last year we met at the bakery on Market for coffee. Now it’s rubble.",
+    "reply_to_id": null
+  },
+  {
+    "id": 117,
+    "author": "Omar",
+    "timestamp": "2024-02-27T23:22:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 118,
+    "author": "Miguel",
+    "timestamp": "2024-02-28T00:29:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Our building group chat used to be about lost packages, now it’s about who survived.",
+    "reply_to_id": null
+  },
+  {
+    "id": 119,
+    "author": "Sara",
+    "timestamp": "2024-02-28T01:25:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m so tired of being scared. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 3
+  },
+  {
+    "id": 120,
+    "author": "Sara",
+    "timestamp": "2024-02-28T02:55:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m so tired of being scared. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": null
+  },
+  {
+    "id": 121,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-28T03:37:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "My chest hurts every time my phone rings now. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 122,
+    "author": "Omar",
+    "timestamp": "2024-02-28T04:27:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 123,
+    "author": "Leo",
+    "timestamp": "2024-02-28T05:31:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 124,
+    "author": "Leo",
+    "timestamp": "2024-02-28T06:56:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m so tired of being scared. They had years to prevent this and did nothing.",
+    "reply_to_id": 22
+  },
+  {
+    "id": 125,
+    "author": "Mom",
+    "timestamp": "2024-02-28T08:18:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 126,
+    "author": "Omar",
+    "timestamp": "2024-02-28T08:51:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Every statement they make sounds like a bad script.",
+    "reply_to_id": 44
+  },
+  {
+    "id": 127,
+    "author": "Miguel",
+    "timestamp": "2024-02-28T09:43:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 128,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-28T10:31:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 129,
+    "author": "Sara",
+    "timestamp": "2024-02-28T11:38:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 130,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-28T12:50:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Our building group chat used to be about lost packages, now it’s about who survived.",
+    "reply_to_id": 76
+  },
+  {
+    "id": 131,
+    "author": "Omar",
+    "timestamp": "2024-02-28T13:05:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 132,
+    "author": "Leo",
+    "timestamp": "2024-02-28T13:34:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m so tired of being scared. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 133,
+    "author": "Sara",
+    "timestamp": "2024-02-28T14:12:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "They had years to prevent this and did nothing.",
+    "reply_to_id": 121
+  },
+  {
+    "id": 134,
+    "author": "Ana",
+    "timestamp": "2024-02-28T15:25:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 135,
+    "author": "Ana",
+    "timestamp": "2024-02-28T15:47:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Our building group chat used to be about lost packages, now it’s about who survived.",
+    "reply_to_id": 17
+  },
+  {
+    "id": 136,
+    "author": "Tarek",
+    "timestamp": "2024-02-28T16:15:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again.",
+    "reply_to_id": null
+  },
+  {
+    "id": 137,
+    "author": "Mom",
+    "timestamp": "2024-02-28T17:41:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 138,
+    "author": "Tarek",
+    "timestamp": "2024-02-28T18:57:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 139,
+    "author": "Miguel",
+    "timestamp": "2024-02-28T20:08:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 140,
+    "author": "Omar",
+    "timestamp": "2024-02-28T21:17:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m so tired of being scared. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 141,
+    "author": "Ana",
+    "timestamp": "2024-02-28T22:03:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "This used to be the quiet part of town, now it’s all checkpoints.",
+    "reply_to_id": 73
+  },
+  {
+    "id": 142,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-28T22:21:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again.",
+    "reply_to_id": null
+  },
+  {
+    "id": 143,
+    "author": "Tarek",
+    "timestamp": "2024-02-28T23:47:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "This used to be the quiet part of town, now it’s all checkpoints.",
+    "reply_to_id": null
+  },
+  {
+    "id": 144,
+    "author": "Mom",
+    "timestamp": "2024-02-29T01:03:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": 122
+  },
+  {
+    "id": 145,
+    "author": "Mom",
+    "timestamp": "2024-02-29T01:43:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens.",
+    "reply_to_id": null
+  },
+  {
+    "id": 146,
+    "author": "Ana",
+    "timestamp": "2024-02-29T02:09:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens.",
+    "reply_to_id": 25
+  },
+  {
+    "id": 147,
+    "author": "Tarek",
+    "timestamp": "2024-02-29T02:18:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 148,
+    "author": "Leo",
+    "timestamp": "2024-02-29T02:25:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again. Every statement they make sounds like a bad script.",
+    "reply_to_id": 134
+  },
+  {
+    "id": 149,
+    "author": "Lena",
+    "timestamp": "2024-02-29T03:45:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": 106
+  },
+  {
+    "id": 150,
+    "author": "Ana",
+    "timestamp": "2024-02-29T03:51:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": null
+  },
+  {
+    "id": 151,
+    "author": "Lena",
+    "timestamp": "2024-02-29T04:41:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now.",
+    "reply_to_id": null
+  },
+  {
+    "id": 152,
+    "author": "Leo",
+    "timestamp": "2024-02-29T05:28:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. They had years to prevent this and did nothing.",
+    "reply_to_id": 41
+  },
+  {
+    "id": 153,
+    "author": "Sara",
+    "timestamp": "2024-02-29T05:38:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 154,
+    "author": "Sara",
+    "timestamp": "2024-02-29T05:40:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m so tired of being scared.",
+    "reply_to_id": null
+  },
+  {
+    "id": 155,
+    "author": "Leo",
+    "timestamp": "2024-02-29T06:47:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m so tired of being scared.",
+    "reply_to_id": null
+  },
+  {
+    "id": 156,
+    "author": "Lena",
+    "timestamp": "2024-02-29T07:35:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 157,
+    "author": "Mom",
+    "timestamp": "2024-02-29T08:29:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "This used to be the quiet part of town, now it’s all checkpoints.",
+    "reply_to_id": 153
+  },
+  {
+    "id": 158,
+    "author": "Sara",
+    "timestamp": "2024-02-29T08:31:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Every statement they make sounds like a bad script.",
+    "reply_to_id": 14
+  },
+  {
+    "id": 159,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-29T09:56:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Our building group chat used to be about lost packages, now it’s about who survived.",
+    "reply_to_id": null
+  },
+  {
+    "id": 160,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-29T11:06:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Our building group chat used to be about lost packages, now it’s about who survived.",
+    "reply_to_id": 80
+  },
+  {
+    "id": 161,
+    "author": "Miguel",
+    "timestamp": "2024-02-29T11:09:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 51
+  },
+  {
+    "id": 162,
+    "author": "Omar",
+    "timestamp": "2024-02-29T12:39:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 163,
+    "author": "Ana",
+    "timestamp": "2024-02-29T12:49:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": null
+  },
+  {
+    "id": 164,
+    "author": "Mom",
+    "timestamp": "2024-02-29T13:32:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again.",
+    "reply_to_id": null
+  },
+  {
+    "id": 165,
+    "author": "Sara",
+    "timestamp": "2024-02-29T13:56:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 166,
+    "author": "Omar",
+    "timestamp": "2024-02-29T15:00:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m so tired of being scared.",
+    "reply_to_id": 55
+  },
+  {
+    "id": 167,
+    "author": "Ana",
+    "timestamp": "2024-02-29T15:18:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "This used to be the quiet part of town, now it’s all checkpoints.",
+    "reply_to_id": 92
+  },
+  {
+    "id": 168,
+    "author": "Mom",
+    "timestamp": "2024-02-29T15:57:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 169,
+    "author": "Ana",
+    "timestamp": "2024-02-29T16:21:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again.",
+    "reply_to_id": 85
+  },
+  {
+    "id": 170,
+    "author": "Ana",
+    "timestamp": "2024-02-29T16:54:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Last year we met at the bakery on Market for coffee. Now it’s rubble.",
+    "reply_to_id": null
+  },
+  {
+    "id": 171,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-02-29T16:55:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 172,
+    "author": "Sara",
+    "timestamp": "2024-02-29T18:20:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Our local officials disappeared the moment it got serious.",
+    "reply_to_id": 115
+  },
+  {
+    "id": 173,
+    "author": "Omar",
+    "timestamp": "2024-02-29T19:16:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 174,
+    "author": "Leo",
+    "timestamp": "2024-02-29T20:23:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "We started keeping shoes by the bed, just in case we have to run.",
+    "reply_to_id": null
+  },
+  {
+    "id": 175,
+    "author": "Sara",
+    "timestamp": "2024-02-29T21:51:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 176,
+    "author": "Leo",
+    "timestamp": "2024-02-29T22:53:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": 49
+  },
+  {
+    "id": 177,
+    "author": "Mom",
+    "timestamp": "2024-03-01T00:18:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens.",
+    "reply_to_id": null
+  },
+  {
+    "id": 178,
+    "author": "Tarek",
+    "timestamp": "2024-03-01T01:05:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 179,
+    "author": "Sara",
+    "timestamp": "2024-03-01T01:40:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Last year we met at the small park by the river for coffee. Now it’s rubble.",
+    "reply_to_id": 6
+  },
+  {
+    "id": 180,
+    "author": "Ana",
+    "timestamp": "2024-03-01T02:41:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 181,
+    "author": "Sara",
+    "timestamp": "2024-03-01T03:31:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 182,
+    "author": "Lena",
+    "timestamp": "2024-03-01T04:39:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m so tired of being scared. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 183,
+    "author": "Miguel",
+    "timestamp": "2024-03-01T05:11:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 184,
+    "author": "Omar",
+    "timestamp": "2024-03-01T05:37:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 185,
+    "author": "Lena",
+    "timestamp": "2024-03-01T05:39:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": 141
+  },
+  {
+    "id": 186,
+    "author": "Leo",
+    "timestamp": "2024-03-01T06:47:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m so tired of being scared. They had years to prevent this and did nothing.",
+    "reply_to_id": 39
+  },
+  {
+    "id": 187,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-01T07:44:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 188,
+    "author": "Ana",
+    "timestamp": "2024-03-01T08:58:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 189,
+    "author": "Sara",
+    "timestamp": "2024-03-01T09:32:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 190,
+    "author": "Mom",
+    "timestamp": "2024-03-01T10:28:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 191,
+    "author": "Ana",
+    "timestamp": "2024-03-01T10:32:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m so tired of being scared.",
+    "reply_to_id": null
+  },
+  {
+    "id": 192,
+    "author": "Leo",
+    "timestamp": "2024-03-01T11:07:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Last year we met at the bus depot for coffee. Now it’s rubble.",
+    "reply_to_id": null
+  },
+  {
+    "id": 193,
+    "author": "Sara",
+    "timestamp": "2024-03-01T11:54:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 194,
+    "author": "Leo",
+    "timestamp": "2024-03-01T12:29:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Remember when Alameda Ave was just traffic noise and kids on bikes?",
+    "reply_to_id": 106
+  },
+  {
+    "id": 195,
+    "author": "Omar",
+    "timestamp": "2024-03-01T13:15:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": 94
+  },
+  {
+    "id": 196,
+    "author": "Mom",
+    "timestamp": "2024-03-01T14:16:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens.",
+    "reply_to_id": null
+  },
+  {
+    "id": 197,
+    "author": "Omar",
+    "timestamp": "2024-03-01T14:46:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 58
+  },
+  {
+    "id": 198,
+    "author": "Miguel",
+    "timestamp": "2024-03-01T15:18:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "My chest hurts every time my phone rings now. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 199,
+    "author": "Tarek",
+    "timestamp": "2024-03-01T16:25:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 200,
+    "author": "Tarek",
+    "timestamp": "2024-03-01T17:46:00",
+    "phase": "emotional",
+    "categories": [
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now.",
+    "reply_to_id": null
+  },
+  {
+    "id": 201,
+    "author": "Miguel",
+    "timestamp": "2024-03-01T18:44:00",
+    "phase": "emotional",
+    "categories": [
+      "MN"
+    ],
+    "text": "Remember when River St was just traffic noise and kids on bikes?",
+    "reply_to_id": 76
+  },
+  {
+    "id": 202,
+    "author": "Omar",
+    "timestamp": "2024-03-01T19:25:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m so tired of being scared. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 203,
+    "author": "Tarek",
+    "timestamp": "2024-03-01T20:00:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 204,
+    "author": "Ana",
+    "timestamp": "2024-03-01T21:09:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 205,
+    "author": "Tarek",
+    "timestamp": "2024-03-01T21:32:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m losing it. I just want our old life back. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": 140
+  },
+  {
+    "id": 206,
+    "author": "Omar",
+    "timestamp": "2024-03-01T22:54:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. Every statement they make sounds like a bad script.",
+    "reply_to_id": 143
+  },
+  {
+    "id": 207,
+    "author": "Ana",
+    "timestamp": "2024-03-01T23:58:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again. They had years to prevent this and did nothing.",
+    "reply_to_id": 189
+  },
+  {
+    "id": 208,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-02T01:08:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 209,
+    "author": "Lena",
+    "timestamp": "2024-03-02T02:02:00",
+    "phase": "emotional",
+    "categories": [
+      "C"
+    ],
+    "text": "Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 210,
+    "author": "Leo",
+    "timestamp": "2024-03-02T03:23:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "My chest hurts every time my phone rings now. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 211,
+    "author": "Sara",
+    "timestamp": "2024-03-02T04:04:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 212,
+    "author": "Leo",
+    "timestamp": "2024-03-02T05:04:00",
+    "phase": "emotional",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "My chest hurts every time my phone rings now. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": 133
+  },
+  {
+    "id": 213,
+    "author": "Miguel",
+    "timestamp": "2024-03-02T05:54:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Can someone update on Old Town? No signal here. North Station, smoke rising.",
+    "reply_to_id": null
+  },
+  {
+    "id": 214,
+    "author": "Ana",
+    "timestamp": "2024-03-02T06:26:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m so tired of being scared. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 215,
+    "author": "Miguel",
+    "timestamp": "2024-03-02T07:24:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Can someone update on Riverside? No signal here. River St – windows blown out.",
+    "reply_to_id": 197
+  },
+  {
+    "id": 216,
+    "author": "Tarek",
+    "timestamp": "2024-03-02T08:03:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Is the metro at Central Station still running? Station Road – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 217,
+    "author": "Ana",
+    "timestamp": "2024-03-02T08:24:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Did something hit close to the bus depot? the playground behind the school, heavy damage.",
+    "reply_to_id": null
+  },
+  {
+    "id": 218,
+    "author": "Tarek",
+    "timestamp": "2024-03-02T09:13:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m so tired of being scared. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 219,
+    "author": "Omar",
+    "timestamp": "2024-03-02T09:17:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Mods, maybe delete videos showing addresses.",
+    "reply_to_id": null
+  },
+  {
+    "id": 220,
+    "author": "Leo",
+    "timestamp": "2024-03-02T09:20:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens.",
+    "reply_to_id": 65
+  },
+  {
+    "id": 221,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-02T09:41:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Can someone update on Riverside? No signal here. block C, courtyard side, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 222,
+    "author": "Leo",
+    "timestamp": "2024-03-02T09:55:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 223,
+    "author": "Leo",
+    "timestamp": "2024-03-02T10:50:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. They had years to prevent this and did nothing.",
+    "reply_to_id": 216
+  },
+  {
+    "id": 224,
+    "author": "Sara",
+    "timestamp": "2024-03-02T11:22:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Is the metro at Riverside still running?",
+    "reply_to_id": null
+  },
+  {
+    "id": 225,
+    "author": "Leo",
+    "timestamp": "2024-03-02T12:40:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": null
+  },
+  {
+    "id": 226,
+    "author": "Omar",
+    "timestamp": "2024-03-02T13:59:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Old Town, smoke rising.",
+    "reply_to_id": 173
+  },
+  {
+    "id": 227,
+    "author": "Tarek",
+    "timestamp": "2024-03-02T15:00:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": null
+  },
+  {
+    "id": 228,
+    "author": "Leo",
+    "timestamp": "2024-03-02T15:19:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m so tired of being scared.",
+    "reply_to_id": null
+  },
+  {
+    "id": 229,
+    "author": "Leo",
+    "timestamp": "2024-03-02T16:08:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. Every statement they make sounds like a bad script.",
+    "reply_to_id": 34
+  },
+  {
+    "id": 230,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-02T17:17:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "stairwell B, 3rd floor, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 231,
+    "author": "Omar",
+    "timestamp": "2024-03-02T17:53:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Any news from Industrial Park? My relatives live there. Hilltop, smoke rising.",
+    "reply_to_id": 106
+  },
+  {
+    "id": 232,
+    "author": "Miguel",
+    "timestamp": "2024-03-02T19:00:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Anyone knows what happened near Station Road?",
+    "reply_to_id": null
+  },
+  {
+    "id": 233,
+    "author": "Omar",
+    "timestamp": "2024-03-02T19:57:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Try to blur faces if you post photos.",
+    "reply_to_id": null
+  },
+  {
+    "id": 234,
+    "author": "Lena",
+    "timestamp": "2024-03-02T21:14:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Riverside, smoke rising.",
+    "reply_to_id": 79
+  },
+  {
+    "id": 235,
+    "author": "Sara",
+    "timestamp": "2024-03-02T22:37:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now.",
+    "reply_to_id": 218
+  },
+  {
+    "id": 236,
+    "author": "Sara",
+    "timestamp": "2024-03-02T22:44:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Any news from Riverside? My relatives live there.",
+    "reply_to_id": null
+  },
+  {
+    "id": 237,
+    "author": "Sara",
+    "timestamp": "2024-03-03T00:01:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Station Road – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 238,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-03T00:04:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 239,
+    "author": "Omar",
+    "timestamp": "2024-03-03T00:52:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again.",
+    "reply_to_id": null
+  },
+  {
+    "id": 240,
+    "author": "Mom",
+    "timestamp": "2024-03-03T02:17:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 241,
+    "author": "Sara",
+    "timestamp": "2024-03-03T03:34:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens.",
+    "reply_to_id": null
+  },
+  {
+    "id": 242,
+    "author": "Lena",
+    "timestamp": "2024-03-03T04:07:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Is the metro at Riverside still running? garage level under our block, glass everywhere.",
+    "reply_to_id": 92
+  },
+  {
+    "id": 243,
+    "author": "Sara",
+    "timestamp": "2024-03-03T04:18:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m so tired of being scared. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 244,
+    "author": "Omar",
+    "timestamp": "2024-03-03T05:19:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "If you share rumors, mark them as unverified.",
+    "reply_to_id": 221
+  },
+  {
+    "id": 245,
+    "author": "Tarek",
+    "timestamp": "2024-03-03T06:09:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Stop shouting at each other, we all see the same fear.",
+    "reply_to_id": null
+  },
+  {
+    "id": 246,
+    "author": "Miguel",
+    "timestamp": "2024-03-03T06:56:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 247,
+    "author": "Tarek",
+    "timestamp": "2024-03-03T07:45:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near Riverside entrance.",
+    "reply_to_id": 172
+  },
+  {
+    "id": 248,
+    "author": "Miguel",
+    "timestamp": "2024-03-03T08:53:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens.",
+    "reply_to_id": null
+  },
+  {
+    "id": 249,
+    "author": "Tarek",
+    "timestamp": "2024-03-03T09:14:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m losing it. I just want our old life back. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": 6
+  },
+  {
+    "id": 250,
+    "author": "Miguel",
+    "timestamp": "2024-03-03T09:40:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 251,
+    "author": "Leo",
+    "timestamp": "2024-03-03T11:07:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 252,
+    "author": "Omar",
+    "timestamp": "2024-03-03T11:10:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Can someone update on Riverside? No signal here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 253,
+    "author": "Mom",
+    "timestamp": "2024-03-03T11:27:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again.",
+    "reply_to_id": null
+  },
+  {
+    "id": 254,
+    "author": "Leo",
+    "timestamp": "2024-03-03T11:48:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Please no exact troop positions here.",
+    "reply_to_id": 5
+  },
+  {
+    "id": 255,
+    "author": "Omar",
+    "timestamp": "2024-03-03T12:12:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "My chest hurts every time my phone rings now. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 256,
+    "author": "Miguel",
+    "timestamp": "2024-03-03T13:10:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "If you share rumors, mark them as unverified.",
+    "reply_to_id": 42
+  },
+  {
+    "id": 257,
+    "author": "Lena",
+    "timestamp": "2024-03-03T14:26:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Anyone knows what happened near Market St?",
+    "reply_to_id": null
+  },
+  {
+    "id": 258,
+    "author": "Sara",
+    "timestamp": "2024-03-03T15:24:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "My chest hurts every time my phone rings now. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 207
+  },
+  {
+    "id": 259,
+    "author": "Lena",
+    "timestamp": "2024-03-03T16:52:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "My chest hurts every time my phone rings now. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 260,
+    "author": "Miguel",
+    "timestamp": "2024-03-03T18:16:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m so tired of being scared.",
+    "reply_to_id": 56
+  },
+  {
+    "id": 261,
+    "author": "Mom",
+    "timestamp": "2024-03-03T18:55:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Central Blvd – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 262,
+    "author": "Tarek",
+    "timestamp": "2024-03-03T20:07:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Central Blvd – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 263,
+    "author": "Tarek",
+    "timestamp": "2024-03-03T20:17:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "If you share rumors, mark them as unverified.",
+    "reply_to_id": null
+  },
+  {
+    "id": 264,
+    "author": "Lena",
+    "timestamp": "2024-03-03T21:26:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": 103
+  },
+  {
+    "id": 265,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-03T22:44:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m losing it. I just want our old life back. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 266,
+    "author": "Sara",
+    "timestamp": "2024-03-03T23:11:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Can someone update on Riverside? No signal here. Old Town, smoke rising.",
+    "reply_to_id": null
+  },
+  {
+    "id": 267,
+    "author": "Lena",
+    "timestamp": "2024-03-04T00:05:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 268,
+    "author": "Omar",
+    "timestamp": "2024-03-04T00:16:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 269,
+    "author": "Miguel",
+    "timestamp": "2024-03-04T00:19:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Try to blur faces if you post photos.",
+    "reply_to_id": null
+  },
+  {
+    "id": 270,
+    "author": "Sara",
+    "timestamp": "2024-03-04T01:01:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Market St – windows blown out.",
+    "reply_to_id": 218
+  },
+  {
+    "id": 271,
+    "author": "Tarek",
+    "timestamp": "2024-03-04T01:24:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 272,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-04T02:15:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 273,
+    "author": "Leo",
+    "timestamp": "2024-03-04T03:18:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Mods, maybe delete videos showing addresses.",
+    "reply_to_id": null
+  },
+  {
+    "id": 274,
+    "author": "Omar",
+    "timestamp": "2024-03-04T03:48:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "North Station, smoke rising.",
+    "reply_to_id": null
+  },
+  {
+    "id": 275,
+    "author": "Omar",
+    "timestamp": "2024-03-04T04:59:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 276,
+    "author": "Mom",
+    "timestamp": "2024-03-04T05:02:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 277,
+    "author": "Ana",
+    "timestamp": "2024-03-04T05:47:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "the playground behind the school, heavy damage.",
+    "reply_to_id": null
+  },
+  {
+    "id": 278,
+    "author": "Leo",
+    "timestamp": "2024-03-04T06:59:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Riverside, smoke rising.",
+    "reply_to_id": null
+  },
+  {
+    "id": 279,
+    "author": "Miguel",
+    "timestamp": "2024-03-04T07:00:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "our building, 7th floor, glass everywhere.",
+    "reply_to_id": 23
+  },
+  {
+    "id": 280,
+    "author": "Sara",
+    "timestamp": "2024-03-04T08:00:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 281,
+    "author": "Leo",
+    "timestamp": "2024-03-04T09:04:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Try to blur faces if you post photos.",
+    "reply_to_id": null
+  },
+  {
+    "id": 282,
+    "author": "Omar",
+    "timestamp": "2024-03-04T10:04:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "If you share rumors, mark them as unverified.",
+    "reply_to_id": 108
+  },
+  {
+    "id": 283,
+    "author": "Omar",
+    "timestamp": "2024-03-04T10:06:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "the bakery on Market, heavy damage.",
+    "reply_to_id": 276
+  },
+  {
+    "id": 284,
+    "author": "Lena",
+    "timestamp": "2024-03-04T11:00:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Did something hit close to the orange pharmacy?",
+    "reply_to_id": null
+  },
+  {
+    "id": 285,
+    "author": "Tarek",
+    "timestamp": "2024-03-04T11:13:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Any news from Riverside? My relatives live there. Station Road – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 286,
+    "author": "Mom",
+    "timestamp": "2024-03-04T12:36:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 287,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-04T13:11:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m so tired of being scared. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 288,
+    "author": "Miguel",
+    "timestamp": "2024-03-04T13:13:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Can someone update on North Station? No signal here. stairwell B, 3rd floor, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 289,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-04T14:38:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "the small park by the river, heavy damage.",
+    "reply_to_id": null
+  },
+  {
+    "id": 290,
+    "author": "Omar",
+    "timestamp": "2024-03-04T15:52:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m so tired of being scared. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 141
+  },
+  {
+    "id": 291,
+    "author": "Omar",
+    "timestamp": "2024-03-04T16:28:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Anyone knows what happened near Market St? Market St – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 292,
+    "author": "Ana",
+    "timestamp": "2024-03-04T16:34:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m so tired of being scared. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": 103
+  },
+  {
+    "id": 293,
+    "author": "Tarek",
+    "timestamp": "2024-03-04T16:38:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 294,
+    "author": "Sara",
+    "timestamp": "2024-03-04T16:54:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Try to blur faces if you post photos.",
+    "reply_to_id": 64
+  },
+  {
+    "id": 295,
+    "author": "Omar",
+    "timestamp": "2024-03-04T17:09:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Any news from Riverside? My relatives live there.",
+    "reply_to_id": null
+  },
+  {
+    "id": 296,
+    "author": "Omar",
+    "timestamp": "2024-03-04T18:17:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Riverside, smoke rising.",
+    "reply_to_id": 131
+  },
+  {
+    "id": 297,
+    "author": "Tarek",
+    "timestamp": "2024-03-04T19:40:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again.",
+    "reply_to_id": null
+  },
+  {
+    "id": 298,
+    "author": "Leo",
+    "timestamp": "2024-03-04T20:38:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens.",
+    "reply_to_id": 228
+  },
+  {
+    "id": 299,
+    "author": "Leo",
+    "timestamp": "2024-03-04T20:51:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Riverside, smoke rising.",
+    "reply_to_id": 27
+  },
+  {
+    "id": 300,
+    "author": "Omar",
+    "timestamp": "2024-03-04T21:10:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Did something hit close to the small park by the river? garage level under our block, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 301,
+    "author": "Ana",
+    "timestamp": "2024-03-04T21:35:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Can someone update on Riverside? No signal here. Market St – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 302,
+    "author": "Tarek",
+    "timestamp": "2024-03-04T22:54:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Anyone knows what happened near Alameda Ave? North Station, smoke rising.",
+    "reply_to_id": null
+  },
+  {
+    "id": 303,
+    "author": "Lena",
+    "timestamp": "2024-03-05T00:17:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Try to blur faces if you post photos.",
+    "reply_to_id": null
+  },
+  {
+    "id": 304,
+    "author": "Sara",
+    "timestamp": "2024-03-05T00:32:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Anyone knows what happened near River St? garage level under our block, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 305,
+    "author": "Ana",
+    "timestamp": "2024-03-05T00:52:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": 253
+  },
+  {
+    "id": 306,
+    "author": "Miguel",
+    "timestamp": "2024-03-05T01:13:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again.",
+    "reply_to_id": null
+  },
+  {
+    "id": 307,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-05T02:15:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Old Town, smoke rising.",
+    "reply_to_id": null
+  },
+  {
+    "id": 308,
+    "author": "Lena",
+    "timestamp": "2024-03-05T02:53:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m losing it. I just want our old life back. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 309,
+    "author": "Tarek",
+    "timestamp": "2024-03-05T03:46:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 310,
+    "author": "Sara",
+    "timestamp": "2024-03-05T05:03:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 221
+  },
+  {
+    "id": 311,
+    "author": "Omar",
+    "timestamp": "2024-03-05T06:00:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": null
+  },
+  {
+    "id": 312,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-05T07:03:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now.",
+    "reply_to_id": 189
+  },
+  {
+    "id": 313,
+    "author": "Miguel",
+    "timestamp": "2024-03-05T08:25:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "block C, courtyard side, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 314,
+    "author": "Mom",
+    "timestamp": "2024-03-05T09:06:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Hilltop, smoke rising.",
+    "reply_to_id": 160
+  },
+  {
+    "id": 315,
+    "author": "Leo",
+    "timestamp": "2024-03-05T10:07:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "garage level under our block, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 316,
+    "author": "Leo",
+    "timestamp": "2024-03-05T10:52:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Did something hit close to the bakery on Market? the playground behind the school, heavy damage.",
+    "reply_to_id": 57
+  },
+  {
+    "id": 317,
+    "author": "Tarek",
+    "timestamp": "2024-03-05T11:00:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now.",
+    "reply_to_id": null
+  },
+  {
+    "id": 318,
+    "author": "Sara",
+    "timestamp": "2024-03-05T11:03:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Try to blur faces if you post photos.",
+    "reply_to_id": 18
+  },
+  {
+    "id": 319,
+    "author": "Lena",
+    "timestamp": "2024-03-05T12:24:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Any news from Hilltop? My relatives live there. Strike near Museum entrance.",
+    "reply_to_id": null
+  },
+  {
+    "id": 320,
+    "author": "Ana",
+    "timestamp": "2024-03-05T12:39:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back.",
+    "reply_to_id": null
+  },
+  {
+    "id": 321,
+    "author": "Tarek",
+    "timestamp": "2024-03-05T13:39:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m so tired of being scared. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 322,
+    "author": "Omar",
+    "timestamp": "2024-03-05T14:55:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Did something hit close to the orange pharmacy?",
+    "reply_to_id": 212
+  },
+  {
+    "id": 323,
+    "author": "Mom",
+    "timestamp": "2024-03-05T15:26:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Can someone update on Industrial Park? No signal here.",
+    "reply_to_id": 22
+  },
+  {
+    "id": 324,
+    "author": "Miguel",
+    "timestamp": "2024-03-05T16:48:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near Central Station entrance.",
+    "reply_to_id": null
+  },
+  {
+    "id": 325,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-05T18:17:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens.",
+    "reply_to_id": null
+  },
+  {
+    "id": 326,
+    "author": "Omar",
+    "timestamp": "2024-03-05T19:10:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Is the metro at Museum still running?",
+    "reply_to_id": null
+  },
+  {
+    "id": 327,
+    "author": "Mom",
+    "timestamp": "2024-03-05T20:31:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Is the metro at Museum still running?",
+    "reply_to_id": null
+  },
+  {
+    "id": 328,
+    "author": "Ana",
+    "timestamp": "2024-03-05T21:55:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back.",
+    "reply_to_id": null
+  },
+  {
+    "id": 329,
+    "author": "Sara",
+    "timestamp": "2024-03-05T22:59:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": null
+  },
+  {
+    "id": 330,
+    "author": "Ana",
+    "timestamp": "2024-03-05T23:35:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Is the metro at University still running?",
+    "reply_to_id": null
+  },
+  {
+    "id": 331,
+    "author": "Tarek",
+    "timestamp": "2024-03-05T23:46:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now.",
+    "reply_to_id": null
+  },
+  {
+    "id": 332,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-06T01:04:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Try to blur faces if you post photos.",
+    "reply_to_id": null
+  },
+  {
+    "id": 333,
+    "author": "Tarek",
+    "timestamp": "2024-03-06T01:34:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Can someone update on Industrial Park? No signal here.",
+    "reply_to_id": 29
+  },
+  {
+    "id": 334,
+    "author": "Mom",
+    "timestamp": "2024-03-06T02:16:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 117
+  },
+  {
+    "id": 335,
+    "author": "Omar",
+    "timestamp": "2024-03-06T03:41:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near Central Station entrance.",
+    "reply_to_id": 49
+  },
+  {
+    "id": 336,
+    "author": "Mom",
+    "timestamp": "2024-03-06T04:34:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "My chest hurts every time my phone rings now. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 337,
+    "author": "Tarek",
+    "timestamp": "2024-03-06T05:38:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again.",
+    "reply_to_id": null
+  },
+  {
+    "id": 338,
+    "author": "Ana",
+    "timestamp": "2024-03-06T06:51:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m so tired of being scared.",
+    "reply_to_id": null
+  },
+  {
+    "id": 339,
+    "author": "Omar",
+    "timestamp": "2024-03-06T07:35:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": null
+  },
+  {
+    "id": 340,
+    "author": "Tarek",
+    "timestamp": "2024-03-06T08:54:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": 312
+  },
+  {
+    "id": 341,
+    "author": "Tarek",
+    "timestamp": "2024-03-06T09:25:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Hilltop, smoke rising.",
+    "reply_to_id": 317
+  },
+  {
+    "id": 342,
+    "author": "Leo",
+    "timestamp": "2024-03-06T10:09:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now.",
+    "reply_to_id": 201
+  },
+  {
+    "id": 343,
+    "author": "Leo",
+    "timestamp": "2024-03-06T11:23:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Can someone update on Industrial Park? No signal here. River St – windows blown out.",
+    "reply_to_id": 175
+  },
+  {
+    "id": 344,
+    "author": "Omar",
+    "timestamp": "2024-03-06T11:40:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Can someone update on Industrial Park? No signal here.",
+    "reply_to_id": 120
+  },
+  {
+    "id": 345,
+    "author": "Sara",
+    "timestamp": "2024-03-06T12:20:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m so tired of being scared. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 346,
+    "author": "Sara",
+    "timestamp": "2024-03-06T13:45:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 347,
+    "author": "Leo",
+    "timestamp": "2024-03-06T14:44:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m so tired of being scared.",
+    "reply_to_id": null
+  },
+  {
+    "id": 348,
+    "author": "Tarek",
+    "timestamp": "2024-03-06T15:14:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "block C, courtyard side, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 349,
+    "author": "Mom",
+    "timestamp": "2024-03-06T15:45:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Any news from Hilltop? My relatives live there. Old Town, smoke rising.",
+    "reply_to_id": 26
+  },
+  {
+    "id": 350,
+    "author": "Mom",
+    "timestamp": "2024-03-06T17:09:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Anyone knows what happened near River St? stairwell B, 3rd floor, glass everywhere.",
+    "reply_to_id": 11
+  },
+  {
+    "id": 351,
+    "author": "Tarek",
+    "timestamp": "2024-03-06T18:09:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 352,
+    "author": "Miguel",
+    "timestamp": "2024-03-06T18:13:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 353,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-06T19:13:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near North Station entrance.",
+    "reply_to_id": null
+  },
+  {
+    "id": 354,
+    "author": "Omar",
+    "timestamp": "2024-03-06T20:06:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": 59
+  },
+  {
+    "id": 355,
+    "author": "Tarek",
+    "timestamp": "2024-03-06T21:01:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 356,
+    "author": "Omar",
+    "timestamp": "2024-03-06T21:46:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Is the metro at Riverside still running?",
+    "reply_to_id": 310
+  },
+  {
+    "id": 357,
+    "author": "Sara",
+    "timestamp": "2024-03-06T23:05:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 200
+  },
+  {
+    "id": 358,
+    "author": "Lena",
+    "timestamp": "2024-03-06T23:48:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Alameda Ave – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 359,
+    "author": "Sara",
+    "timestamp": "2024-03-07T01:12:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 360,
+    "author": "Mom",
+    "timestamp": "2024-03-07T02:09:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 361,
+    "author": "Miguel",
+    "timestamp": "2024-03-07T02:52:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 362,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-07T02:53:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Any news from North Station? My relatives live there. block C, courtyard side, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 363,
+    "author": "Miguel",
+    "timestamp": "2024-03-07T04:12:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. They had years to prevent this and did nothing.",
+    "reply_to_id": null
+  },
+  {
+    "id": 364,
+    "author": "Leo",
+    "timestamp": "2024-03-07T04:25:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "stairwell B, 3rd floor, glass everywhere.",
+    "reply_to_id": null
+  },
+  {
+    "id": 365,
+    "author": "Tarek",
+    "timestamp": "2024-03-07T05:07:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Mods, maybe delete videos showing addresses.",
+    "reply_to_id": null
+  },
+  {
+    "id": 366,
+    "author": "Miguel",
+    "timestamp": "2024-03-07T06:25:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again.",
+    "reply_to_id": null
+  },
+  {
+    "id": 367,
+    "author": "Omar",
+    "timestamp": "2024-03-07T06:47:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 224
+  },
+  {
+    "id": 368,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-07T08:17:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 369,
+    "author": "Lena",
+    "timestamp": "2024-03-07T09:42:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Can someone update on Hilltop? No signal here. Old Town, smoke rising.",
+    "reply_to_id": null
+  },
+  {
+    "id": 370,
+    "author": "Omar",
+    "timestamp": "2024-03-07T10:23:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near University entrance.",
+    "reply_to_id": null
+  },
+  {
+    "id": 371,
+    "author": "Miguel",
+    "timestamp": "2024-03-07T11:19:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m losing it. I just want our old life back. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": 255
+  },
+  {
+    "id": 372,
+    "author": "Mom",
+    "timestamp": "2024-03-07T11:40:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "the bus depot, heavy damage.",
+    "reply_to_id": null
+  },
+  {
+    "id": 373,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-07T12:36:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back. They had years to prevent this and did nothing.",
+    "reply_to_id": 217
+  },
+  {
+    "id": 374,
+    "author": "Neighbor_3A",
+    "timestamp": "2024-03-07T13:25:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Stop saying everything is under control. It clearly isn’t.",
+    "reply_to_id": null
+  },
+  {
+    "id": 375,
+    "author": "Omar",
+    "timestamp": "2024-03-07T14:22:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Any news from Old Town? My relatives live there.",
+    "reply_to_id": null
+  },
+  {
+    "id": 376,
+    "author": "Omar",
+    "timestamp": "2024-03-07T14:45:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I’m so tired of being scared.",
+    "reply_to_id": null
+  },
+  {
+    "id": 377,
+    "author": "Lena",
+    "timestamp": "2024-03-07T16:01:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Stop shouting at each other, we all see the same fear.",
+    "reply_to_id": null
+  },
+  {
+    "id": 378,
+    "author": "Sara",
+    "timestamp": "2024-03-07T16:23:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "My chest hurts every time my phone rings now. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 379,
+    "author": "Omar",
+    "timestamp": "2024-03-07T17:41:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Alameda Ave – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 380,
+    "author": "Tarek",
+    "timestamp": "2024-03-07T17:46:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near Riverside entrance.",
+    "reply_to_id": null
+  },
+  {
+    "id": 381,
+    "author": "Ana",
+    "timestamp": "2024-03-07T17:50:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI"
+    ],
+    "text": "Can someone update on Riverside? No signal here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 382,
+    "author": "Tarek",
+    "timestamp": "2024-03-07T18:46:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Anyone knows what happened near River St? garage level under our block, glass everywhere.",
+    "reply_to_id": 341
+  },
+  {
+    "id": 383,
+    "author": "Sara",
+    "timestamp": "2024-03-07T19:27:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Anyone knows what happened near Market St? Strike near Central Station entrance.",
+    "reply_to_id": 47
+  },
+  {
+    "id": 384,
+    "author": "Leo",
+    "timestamp": "2024-03-07T19:58:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Station Road – windows blown out.",
+    "reply_to_id": null
+  },
+  {
+    "id": 385,
+    "author": "Leo",
+    "timestamp": "2024-03-07T20:17:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now.",
+    "reply_to_id": null
+  },
+  {
+    "id": 386,
+    "author": "Lena",
+    "timestamp": "2024-03-07T21:08:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Riverside, smoke rising.",
+    "reply_to_id": null
+  },
+  {
+    "id": 387,
+    "author": "Sara",
+    "timestamp": "2024-03-07T21:46:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 388,
+    "author": "Miguel",
+    "timestamp": "2024-03-07T23:02:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Anyone knows what happened near River St? Strike near North Station entrance.",
+    "reply_to_id": 12
+  },
+  {
+    "id": 389,
+    "author": "Lena",
+    "timestamp": "2024-03-07T23:39:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "the orange pharmacy, heavy damage.",
+    "reply_to_id": null
+  },
+  {
+    "id": 390,
+    "author": "Tarek",
+    "timestamp": "2024-03-08T00:58:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "My chest hurts every time my phone rings now.",
+    "reply_to_id": null
+  },
+  {
+    "id": 391,
+    "author": "Lena",
+    "timestamp": "2024-03-08T02:21:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 392,
+    "author": "Sara",
+    "timestamp": "2024-03-08T02:43:00",
+    "phase": "polyvocal",
+    "categories": [
+      "CC"
+    ],
+    "text": "Please no exact troop positions here.",
+    "reply_to_id": null
+  },
+  {
+    "id": 393,
+    "author": "Mom",
+    "timestamp": "2024-03-08T02:55:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SI",
+      "SA",
+      "EM"
+    ],
+    "text": "Did something hit close to the orange pharmacy? garage level under our block, glass everywhere.",
+    "reply_to_id": 32
+  },
+  {
+    "id": 394,
+    "author": "Mom",
+    "timestamp": "2024-03-08T02:57:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM"
+    ],
+    "text": "I’m losing it. I just want our old life back. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 352
+  },
+  {
+    "id": 395,
+    "author": "Omar",
+    "timestamp": "2024-03-08T03:55:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. Our local officials disappeared the moment it got serious.",
+    "reply_to_id": null
+  },
+  {
+    "id": 396,
+    "author": "Ana",
+    "timestamp": "2024-03-08T04:01:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I can’t stop shaking when I hear sirens. No one is responsible, apparently. Just us stuck here.",
+    "reply_to_id": 307
+  },
+  {
+    "id": 397,
+    "author": "Mom",
+    "timestamp": "2024-03-08T04:05:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I’m losing it. I just want our old life back. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 398,
+    "author": "Miguel",
+    "timestamp": "2024-03-08T04:18:00",
+    "phase": "polyvocal",
+    "categories": [
+      "C",
+      "EM",
+      "MN"
+    ],
+    "text": "I feel like this street will never be calm again. Every statement they make sounds like a bad script.",
+    "reply_to_id": null
+  },
+  {
+    "id": 399,
+    "author": "Tarek",
+    "timestamp": "2024-03-08T04:47:00",
+    "phase": "polyvocal",
+    "categories": [
+      "SA"
+    ],
+    "text": "Strike near Museum entrance.",
+    "reply_to_id": 125
+  },
+  {
+    "id": 400,
+    "author": "Omar",
+    "timestamp": "2024-03-08T05:48:00",
+    "phase": "polyvocal",
+    "categories": [
+      "EM"
+    ],
+    "text": "I feel like this street will never be calm again.",
+    "reply_to_id": null
+  }
+]

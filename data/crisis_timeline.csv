@@ -1,0 +1,1001 @@
+id,author,timestamp,phase,text,reply_to_id
+1,Omar,2024-02-24T05:40:00,shock,Is it safe to go near University? Sirens again.,
+2,Miguel,2024-02-24T06:03:00,shock,"River St, windows blown out.",
+3,Neighbor_3A,2024-02-24T06:14:00,shock,Anyone knows what happened near the small park by the river?,
+4,Tarek,2024-02-24T06:58:00,shock,Is it safe to go near University? Sirens again.,
+5,Omar,2024-02-24T07:20:00,shock,"No signal from my parents in Riverside, any news?",
+6,Leo,2024-02-24T07:56:00,shock,Anyone knows what happened near the bus depot?,
+7,Lena,2024-02-24T08:36:00,shock,"Station Road, windows blown out.",
+8,Lena,2024-02-24T08:45:00,shock,Is it safe to go near Riverside? Sirens again.,7.0
+9,Miguel,2024-02-24T09:17:00,shock,Anyone knows what happened near the playground behind the school?,6.0
+10,Neighbor_3A,2024-02-24T09:56:00,shock,"River St, windows blown out.",
+11,Tarek,2024-02-24T10:24:00,shock,Is it safe to go near Riverside? Sirens again.,
+12,Ana,2024-02-24T10:42:00,shock,"Station Road, windows blown out.",2.0
+13,Omar,2024-02-24T11:09:00,shock,Is it safe to go near Central Station? Sirens again.,
+14,Ana,2024-02-24T11:28:00,shock,"No signal from my parents in Industrial Park, any news?",
+15,Mom,2024-02-24T11:34:00,shock,Is it safe to go near North Station? Sirens again.,
+16,Miguel,2024-02-24T11:46:00,shock,Is it safe to go near Museum? Sirens again.,
+17,Sara,2024-02-24T12:17:00,shock,"River St, windows blown out.",
+18,Lena,2024-02-24T12:32:00,shock,"No signal from my parents in Riverside, any news?",
+19,Lena,2024-02-24T13:12:00,shock,"No signal from my parents in Industrial Park, any news?",
+20,Omar,2024-02-24T13:47:00,shock,"No signal from my parents in North Station, any news?",
+21,Omar,2024-02-24T14:14:00,shock,North Station – smoke in the distance.,
+22,Leo,2024-02-24T14:20:00,shock,Hilltop – smoke in the distance.,1.0
+23,Mom,2024-02-24T14:34:00,shock,"No signal from my parents in Riverside, any news?",
+24,Sara,2024-02-24T14:51:00,shock,Anyone knows what happened near the small park by the river?,
+25,Lena,2024-02-24T15:06:00,shock,Is it safe to go near North Station? Sirens again.,
+26,Mom,2024-02-24T15:18:00,shock,"No signal from my parents in Industrial Park, any news?",
+27,Sara,2024-02-24T16:00:00,shock,"Central Blvd, windows blown out.",
+28,Omar,2024-02-24T16:06:00,shock,Anyone knows what happened near the small park by the river?,
+29,Lena,2024-02-24T16:19:00,shock,"No signal from my parents in Hilltop, any news?",
+30,Tarek,2024-02-24T16:47:00,shock,Is it safe to go near Riverside? Sirens again.,
+31,Leo,2024-02-24T16:55:00,shock,Is it safe to go near Museum? Sirens again.,
+32,Mom,2024-02-24T17:04:00,shock,Is it safe to go near North Station? Sirens again.,
+33,Tarek,2024-02-24T17:23:00,shock,Riverside – smoke in the distance.,
+34,Leo,2024-02-24T17:44:00,shock,"No signal from my parents in Industrial Park, any news?",
+35,Tarek,2024-02-24T18:25:00,shock,"Alameda Ave, windows blown out.",2.0
+36,Ana,2024-02-24T18:33:00,shock,Old Town – smoke in the distance.,
+37,Ana,2024-02-24T18:45:00,shock,Riverside – smoke in the distance.,4.0
+38,Leo,2024-02-24T18:53:00,shock,"No signal from my parents in Riverside, any news?",
+39,Miguel,2024-02-24T19:23:00,shock,Hilltop – smoke in the distance.,
+40,Sara,2024-02-24T19:59:00,shock,"No signal from my parents in North Station, any news?",16.0
+41,Neighbor_3A,2024-02-24T20:12:00,shock,Anyone knows what happened near the playground behind the school?,1.0
+42,Mom,2024-02-24T20:40:00,shock,"Market St, windows blown out.",
+43,Tarek,2024-02-24T21:17:00,shock,Anyone knows what happened near the small park by the river?,
+44,Omar,2024-02-24T21:30:00,shock,North Station – smoke in the distance.,30.0
+45,Tarek,2024-02-24T22:01:00,shock,Is it safe to go near University? Sirens again.,37.0
+46,Sara,2024-02-24T22:07:00,shock,Is it safe to go near University? Sirens again.,
+47,Leo,2024-02-24T22:32:00,shock,Is it safe to go near Museum? Sirens again.,
+48,Mom,2024-02-24T23:04:00,shock,"No signal from my parents in Old Town, any news?",4.0
+49,Lena,2024-02-24T23:44:00,shock,Is it safe to go near Museum? Sirens again.,
+50,Neighbor_3A,2024-02-24T23:50:00,shock,"River St, windows blown out.",
+51,Tarek,2024-02-25T00:18:00,shock,"River St, windows blown out.",
+52,Omar,2024-02-25T00:29:00,shock,"Central Blvd, windows blown out.",
+53,Mom,2024-02-25T00:42:00,shock,"No signal from my parents in Industrial Park, any news?",
+54,Miguel,2024-02-25T01:20:00,shock,Is it safe to go near Riverside? Sirens again.,
+55,Omar,2024-02-25T01:43:00,shock,"River St, windows blown out.",
+56,Neighbor_3A,2024-02-25T01:51:00,shock,Anyone knows what happened near the orange pharmacy?,
+57,Mom,2024-02-25T02:35:00,shock,"Market St, windows blown out.",45.0
+58,Mom,2024-02-25T03:10:00,shock,Is it safe to go near University? Sirens again.,
+59,Lena,2024-02-25T03:26:00,shock,North Station – smoke in the distance.,
+60,Lena,2024-02-25T03:43:00,shock,"Market St, windows blown out.",
+61,Mom,2024-02-25T03:53:00,shock,Anyone knows what happened near the orange pharmacy?,
+62,Leo,2024-02-25T04:04:00,shock,"No signal from my parents in Hilltop, any news?",
+63,Lena,2024-02-25T04:45:00,shock,"No signal from my parents in Hilltop, any news?",2.0
+64,Ana,2024-02-25T04:54:00,shock,"No signal from my parents in Hilltop, any news?",
+65,Sara,2024-02-25T05:25:00,shock,Anyone knows what happened near the playground behind the school?,
+66,Leo,2024-02-25T06:06:00,shock,"No signal from my parents in Old Town, any news?",
+67,Ana,2024-02-25T06:36:00,shock,Is it safe to go near Central Station? Sirens again.,
+68,Omar,2024-02-25T06:53:00,shock,Hilltop – smoke in the distance.,23.0
+69,Neighbor_3A,2024-02-25T06:59:00,shock,Anyone knows what happened near the bakery on Market?,
+70,Neighbor_3A,2024-02-25T07:10:00,shock,Hilltop – smoke in the distance.,
+71,Leo,2024-02-25T07:53:00,shock,Anyone knows what happened near the orange pharmacy?,
+72,Miguel,2024-02-25T08:09:00,shock,Is it safe to go near Central Station? Sirens again.,53.0
+73,Miguel,2024-02-25T08:22:00,shock,Anyone knows what happened near the playground behind the school?,
+74,Mom,2024-02-25T09:03:00,shock,Anyone knows what happened near the bakery on Market?,
+75,Neighbor_3A,2024-02-25T09:47:00,shock,Anyone knows what happened near the playground behind the school?,
+76,Omar,2024-02-25T09:57:00,shock,"Station Road, windows blown out.",32.0
+77,Lena,2024-02-25T10:30:00,shock,Hilltop – smoke in the distance.,
+78,Tarek,2024-02-25T11:10:00,shock,Is it safe to go near Museum? Sirens again.,
+79,Tarek,2024-02-25T11:21:00,shock,"Station Road, windows blown out.",
+80,Neighbor_3A,2024-02-25T11:48:00,shock,"Central Blvd, windows blown out.",
+81,Neighbor_3A,2024-02-25T12:04:00,shock,Anyone knows what happened near the small park by the river?,
+82,Neighbor_3A,2024-02-25T12:12:00,shock,"No signal from my parents in Old Town, any news?",
+83,Ana,2024-02-25T12:21:00,shock,"No signal from my parents in Hilltop, any news?",
+84,Neighbor_3A,2024-02-25T12:32:00,shock,"No signal from my parents in Hilltop, any news?",36.0
+85,Neighbor_3A,2024-02-25T13:09:00,shock,"Station Road, windows blown out.",28.0
+86,Neighbor_3A,2024-02-25T13:54:00,shock,"No signal from my parents in Hilltop, any news?",
+87,Lena,2024-02-25T14:31:00,shock,Hilltop – smoke in the distance.,
+88,Tarek,2024-02-25T15:13:00,shock,"No signal from my parents in Riverside, any news?",
+89,Ana,2024-02-25T15:27:00,shock,"Station Road, windows blown out.",63.0
+90,Sara,2024-02-25T15:49:00,shock,Anyone knows what happened near the bus depot?,26.0
+91,Neighbor_3A,2024-02-25T16:07:00,shock,Anyone knows what happened near the playground behind the school?,14.0
+92,Leo,2024-02-25T16:16:00,shock,"No signal from my parents in Hilltop, any news?",35.0
+93,Lena,2024-02-25T16:53:00,shock,"No signal from my parents in Old Town, any news?",
+94,Tarek,2024-02-25T17:15:00,shock,Hilltop – smoke in the distance.,
+95,Mom,2024-02-25T17:57:00,shock,Is it safe to go near Central Station? Sirens again.,80.0
+96,Neighbor_3A,2024-02-25T18:20:00,shock,Is it safe to go near Riverside? Sirens again.,
+97,Omar,2024-02-25T18:36:00,shock,Anyone knows what happened near the small park by the river?,
+98,Ana,2024-02-25T18:44:00,shock,"No signal from my parents in Industrial Park, any news?",
+99,Miguel,2024-02-25T18:57:00,shock,"Station Road, windows blown out.",
+100,Tarek,2024-02-25T19:34:00,shock,Industrial Park – smoke in the distance.,60.0
+101,Neighbor_3A,2024-02-25T19:51:00,shock,Riverside – smoke in the distance.,
+102,Ana,2024-02-25T19:57:00,shock,"No signal from my parents in Hilltop, any news?",
+103,Leo,2024-02-25T20:38:00,shock,"No signal from my parents in Industrial Park, any news?",90.0
+104,Leo,2024-02-25T21:02:00,shock,Old Town – smoke in the distance.,
+105,Ana,2024-02-25T21:42:00,shock,Anyone knows what happened near the bus depot?,
+106,Neighbor_3A,2024-02-25T22:17:00,shock,Anyone knows what happened near the bus depot?,
+107,Neighbor_3A,2024-02-25T22:26:00,shock,Is it safe to go near Museum? Sirens again.,
+108,Lena,2024-02-25T22:32:00,shock,"Alameda Ave, windows blown out.",96.0
+109,Tarek,2024-02-25T22:49:00,shock,Is it safe to go near North Station? Sirens again.,
+110,Miguel,2024-02-25T22:59:00,shock,North Station – smoke in the distance.,
+111,Leo,2024-02-25T23:07:00,shock,"Station Road, windows blown out.",
+112,Lena,2024-02-25T23:22:00,shock,"River St, windows blown out.",
+113,Mom,2024-02-25T23:40:00,shock,Old Town – smoke in the distance.,
+114,Omar,2024-02-26T00:14:00,shock,Is it safe to go near Central Station? Sirens again.,110.0
+115,Sara,2024-02-26T00:35:00,shock,Anyone knows what happened near the bus depot?,
+116,Tarek,2024-02-26T00:48:00,shock,Anyone knows what happened near the bus depot?,25.0
+117,Ana,2024-02-26T00:56:00,shock,"Market St, windows blown out.",
+118,Ana,2024-02-26T01:04:00,shock,Anyone knows what happened near the playground behind the school?,
+119,Tarek,2024-02-26T01:34:00,shock,North Station – smoke in the distance.,
+120,Miguel,2024-02-26T02:10:00,shock,Is it safe to go near Central Station? Sirens again.,91.0
+121,Neighbor_3A,2024-02-26T02:50:00,shock,"No signal from my parents in Hilltop, any news?",
+122,Miguel,2024-02-26T03:10:00,shock,Anyone knows what happened near the orange pharmacy?,
+123,Neighbor_3A,2024-02-26T03:48:00,shock,"No signal from my parents in Old Town, any news?",
+124,Neighbor_3A,2024-02-26T04:19:00,shock,"Station Road, windows blown out.",
+125,Miguel,2024-02-26T05:02:00,shock,"Central Blvd, windows blown out.",80.0
+126,Leo,2024-02-26T05:09:00,shock,Is it safe to go near Riverside? Sirens again.,
+127,Omar,2024-02-26T05:42:00,shock,Is it safe to go near Riverside? Sirens again.,
+128,Lena,2024-02-26T06:00:00,shock,"No signal from my parents in Hilltop, any news?",91.0
+129,Mom,2024-02-26T06:31:00,shock,"No signal from my parents in Industrial Park, any news?",4.0
+130,Mom,2024-02-26T06:56:00,shock,Is it safe to go near Central Station? Sirens again.,
+131,Tarek,2024-02-26T07:36:00,shock,Anyone knows what happened near the bus depot?,
+132,Sara,2024-02-26T08:18:00,shock,Anyone knows what happened near the bakery on Market?,
+133,Tarek,2024-02-26T08:55:00,shock,Is it safe to go near Riverside? Sirens again.,68.0
+134,Omar,2024-02-26T09:40:00,shock,"Central Blvd, windows blown out.",
+135,Sara,2024-02-26T10:09:00,shock,Is it safe to go near University? Sirens again.,
+136,Tarek,2024-02-26T10:29:00,shock,Anyone knows what happened near the small park by the river?,
+137,Mom,2024-02-26T11:14:00,shock,Is it safe to go near Riverside? Sirens again.,
+138,Miguel,2024-02-26T11:37:00,shock,Is it safe to go near University? Sirens again.,
+139,Neighbor_3A,2024-02-26T12:12:00,shock,Is it safe to go near University? Sirens again.,
+140,Sara,2024-02-26T12:43:00,shock,"Station Road, windows blown out.",70.0
+141,Leo,2024-02-26T12:59:00,shock,"No signal from my parents in Hilltop, any news?",
+142,Tarek,2024-02-26T13:07:00,shock,Old Town – smoke in the distance.,
+143,Neighbor_3A,2024-02-26T13:44:00,shock,Industrial Park – smoke in the distance.,
+144,Neighbor_3A,2024-02-26T14:13:00,shock,Is it safe to go near North Station? Sirens again.,7.0
+145,Leo,2024-02-26T14:21:00,shock,North Station – smoke in the distance.,15.0
+146,Mom,2024-02-26T14:59:00,shock,"Station Road, windows blown out.",
+147,Miguel,2024-02-26T15:35:00,shock,Is it safe to go near North Station? Sirens again.,47.0
+148,Mom,2024-02-26T16:19:00,shock,Is it safe to go near Riverside? Sirens again.,
+149,Tarek,2024-02-26T16:45:00,shock,Is it safe to go near Museum? Sirens again.,
+150,Sara,2024-02-26T17:28:00,shock,Anyone knows what happened near the small park by the river?,64.0
+151,Ana,2024-02-26T17:43:00,shock,Anyone knows what happened near the small park by the river?,
+152,Lena,2024-02-26T18:10:00,shock,"Station Road, windows blown out.",
+153,Omar,2024-02-26T18:48:00,shock,Is it safe to go near Museum? Sirens again.,
+154,Tarek,2024-02-26T19:00:00,shock,"Alameda Ave, windows blown out.",32.0
+155,Tarek,2024-02-26T19:26:00,shock,Anyone knows what happened near the orange pharmacy?,60.0
+156,Lena,2024-02-26T19:43:00,shock,Hilltop – smoke in the distance.,
+157,Ana,2024-02-26T20:14:00,shock,Anyone knows what happened near the small park by the river?,
+158,Neighbor_3A,2024-02-26T20:37:00,shock,Hilltop – smoke in the distance.,
+159,Omar,2024-02-26T21:06:00,shock,Anyone knows what happened near the orange pharmacy?,
+160,Sara,2024-02-26T21:17:00,shock,Anyone knows what happened near the bus depot?,
+161,Omar,2024-02-26T21:27:00,shock,Anyone knows what happened near the orange pharmacy?,
+162,Miguel,2024-02-26T22:12:00,shock,Is it safe to go near Central Station? Sirens again.,
+163,Lena,2024-02-26T22:26:00,shock,Is it safe to go near Museum? Sirens again.,
+164,Leo,2024-02-26T23:02:00,shock,"Station Road, windows blown out.",163.0
+165,Lena,2024-02-26T23:42:00,shock,"No signal from my parents in Industrial Park, any news?",111.0
+166,Mom,2024-02-27T00:11:00,shock,"No signal from my parents in Old Town, any news?",36.0
+167,Ana,2024-02-27T00:30:00,shock,"Market St, windows blown out.",149.0
+168,Lena,2024-02-27T01:01:00,shock,Industrial Park – smoke in the distance.,
+169,Mom,2024-02-27T01:22:00,shock,Anyone knows what happened near the orange pharmacy?,
+170,Sara,2024-02-27T02:00:00,shock,Anyone knows what happened near the bakery on Market?,
+171,Miguel,2024-02-27T02:08:00,shock,Anyone knows what happened near the bakery on Market?,146.0
+172,Omar,2024-02-27T02:32:00,shock,Anyone knows what happened near the small park by the river?,47.0
+173,Ana,2024-02-27T02:43:00,shock,Is it safe to go near Central Station? Sirens again.,
+174,Omar,2024-02-27T03:18:00,shock,"River St, windows blown out.",
+175,Ana,2024-02-27T03:48:00,shock,Is it safe to go near Central Station? Sirens again.,
+176,Tarek,2024-02-27T04:27:00,shock,Anyone knows what happened near the small park by the river?,
+177,Miguel,2024-02-27T04:58:00,shock,North Station – smoke in the distance.,
+178,Tarek,2024-02-27T05:25:00,shock,Anyone knows what happened near the playground behind the school?,
+179,Tarek,2024-02-27T05:40:00,shock,"No signal from my parents in Old Town, any news?",13.0
+180,Miguel,2024-02-27T06:14:00,shock,Anyone knows what happened near the small park by the river?,
+181,Miguel,2024-02-27T06:44:00,shock,Anyone knows what happened near the bakery on Market?,146.0
+182,Miguel,2024-02-27T06:54:00,shock,"No signal from my parents in Hilltop, any news?",
+183,Mom,2024-02-27T07:03:00,shock,"Central Blvd, windows blown out.",
+184,Ana,2024-02-27T07:45:00,shock,Is it safe to go near Riverside? Sirens again.,
+185,Ana,2024-02-27T08:03:00,shock,Anyone knows what happened near the orange pharmacy?,
+186,Sara,2024-02-27T08:12:00,shock,Is it safe to go near North Station? Sirens again.,
+187,Ana,2024-02-27T08:55:00,shock,Is it safe to go near University? Sirens again.,
+188,Mom,2024-02-27T09:08:00,shock,"Market St, windows blown out.",
+189,Ana,2024-02-27T09:14:00,shock,Is it safe to go near University? Sirens again.,
+190,Ana,2024-02-27T09:19:00,shock,"River St, windows blown out.",
+191,Tarek,2024-02-27T09:42:00,shock,Old Town – smoke in the distance.,
+192,Miguel,2024-02-27T10:26:00,shock,"No signal from my parents in Old Town, any news?",
+193,Lena,2024-02-27T10:54:00,shock,"Market St, windows blown out.",
+194,Leo,2024-02-27T11:29:00,shock,Is it safe to go near Riverside? Sirens again.,
+195,Tarek,2024-02-27T12:00:00,shock,"River St, windows blown out.",
+196,Sara,2024-02-27T12:45:00,shock,Anyone knows what happened near the bus depot?,
+197,Neighbor_3A,2024-02-27T13:14:00,shock,Anyone knows what happened near the bakery on Market?,
+198,Neighbor_3A,2024-02-27T13:57:00,shock,Anyone knows what happened near the playground behind the school?,
+199,Omar,2024-02-27T14:38:00,shock,Industrial Park – smoke in the distance.,
+200,Tarek,2024-02-27T15:05:00,shock,Anyone knows what happened near the bakery on Market?,182.0
+201,Ana,2024-02-27T15:50:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+202,Miguel,2024-02-27T16:04:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+203,Neighbor_3A,2024-02-27T16:23:00,negotiation,"We need this chat for real alerts, not for panic.",123.0
+204,Miguel,2024-02-27T16:30:00,negotiation,"We need this chat for real alerts, not for panic.",85.0
+205,Sara,2024-02-27T17:12:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+206,Tarek,2024-02-27T17:26:00,negotiation,"We need this chat for real alerts, not for panic.",34.0
+207,Leo,2024-02-27T18:11:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+208,Lena,2024-02-27T18:20:00,negotiation,"We need this chat for real alerts, not for panic.",
+209,Neighbor_3A,2024-02-27T18:59:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+210,Ana,2024-02-27T19:20:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+211,Ana,2024-02-27T19:38:00,negotiation,"Stop reposting that clip, it's from last year, not today.",207.0
+212,Omar,2024-02-27T19:46:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",55.0
+213,Tarek,2024-02-27T20:12:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+214,Sara,2024-02-27T20:22:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+215,Miguel,2024-02-27T20:27:00,negotiation,"We need this chat for real alerts, not for panic.",
+216,Sara,2024-02-27T20:54:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",8.0
+217,Lena,2024-02-27T21:14:00,negotiation,"We need this chat for real alerts, not for panic.",
+218,Miguel,2024-02-27T21:51:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+219,Neighbor_3A,2024-02-27T22:19:00,negotiation,"Stop reposting that clip, it's from last year, not today.",38.0
+220,Neighbor_3A,2024-02-27T22:44:00,negotiation,"We need this chat for real alerts, not for panic.",
+221,Tarek,2024-02-27T23:09:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+222,Miguel,2024-02-27T23:23:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+223,Tarek,2024-02-28T00:04:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+224,Lena,2024-02-28T00:32:00,negotiation,"We need this chat for real alerts, not for panic.",
+225,Lena,2024-02-28T00:43:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+226,Ana,2024-02-28T00:59:00,negotiation,"We need this chat for real alerts, not for panic.",
+227,Neighbor_3A,2024-02-28T01:16:00,negotiation,"Stop reposting that clip, it's from last year, not today.",41.0
+228,Tarek,2024-02-28T01:56:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",166.0
+229,Miguel,2024-02-28T02:23:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+230,Leo,2024-02-28T03:04:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+231,Leo,2024-02-28T03:46:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",42.0
+232,Miguel,2024-02-28T03:51:00,negotiation,"We need this chat for real alerts, not for panic.",
+233,Ana,2024-02-28T04:04:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+234,Tarek,2024-02-28T04:39:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+235,Leo,2024-02-28T04:56:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+236,Tarek,2024-02-28T05:29:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+237,Mom,2024-02-28T06:06:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+238,Mom,2024-02-28T06:14:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",219.0
+239,Lena,2024-02-28T06:47:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+240,Leo,2024-02-28T06:59:00,negotiation,"We need this chat for real alerts, not for panic.",151.0
+241,Miguel,2024-02-28T07:23:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+242,Tarek,2024-02-28T08:07:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+243,Ana,2024-02-28T08:35:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+244,Mom,2024-02-28T09:00:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+245,Miguel,2024-02-28T09:19:00,negotiation,"We need this chat for real alerts, not for panic.",
+246,Leo,2024-02-28T09:29:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+247,Tarek,2024-02-28T10:05:00,negotiation,"Stop reposting that clip, it's from last year, not today.",66.0
+248,Omar,2024-02-28T10:27:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+249,Miguel,2024-02-28T10:46:00,negotiation,"Stop reposting that clip, it's from last year, not today.",138.0
+250,Ana,2024-02-28T11:22:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+251,Leo,2024-02-28T12:00:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",69.0
+252,Neighbor_3A,2024-02-28T12:22:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+253,Neighbor_3A,2024-02-28T13:06:00,negotiation,"We need this chat for real alerts, not for panic.",
+254,Omar,2024-02-28T13:40:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+255,Neighbor_3A,2024-02-28T13:54:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+256,Sara,2024-02-28T14:01:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+257,Tarek,2024-02-28T14:37:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+258,Lena,2024-02-28T15:11:00,negotiation,"Admins: delete videos with street signs, it's not safe.",13.0
+259,Mom,2024-02-28T15:37:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+260,Lena,2024-02-28T16:16:00,negotiation,"We need this chat for real alerts, not for panic.",
+261,Neighbor_3A,2024-02-28T16:33:00,negotiation,"Admins: delete videos with street signs, it's not safe.",127.0
+262,Leo,2024-02-28T17:02:00,negotiation,"Stop reposting that clip, it's from last year, not today.",112.0
+263,Lena,2024-02-28T17:31:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+264,Ana,2024-02-28T18:02:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+265,Lena,2024-02-28T18:28:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+266,Leo,2024-02-28T19:08:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+267,Neighbor_3A,2024-02-28T19:53:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+268,Mom,2024-02-28T19:58:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+269,Omar,2024-02-28T20:34:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+270,Omar,2024-02-28T21:04:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+271,Ana,2024-02-28T21:17:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+272,Ana,2024-02-28T22:02:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+273,Omar,2024-02-28T22:09:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+274,Leo,2024-02-28T22:21:00,negotiation,"We need this chat for real alerts, not for panic.",
+275,Mom,2024-02-28T22:55:00,negotiation,"We need this chat for real alerts, not for panic.",
+276,Leo,2024-02-28T23:20:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+277,Miguel,2024-02-28T23:39:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+278,Lena,2024-02-29T00:22:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+279,Miguel,2024-02-29T00:57:00,negotiation,"Stop reposting that clip, it's from last year, not today.",174.0
+280,Miguel,2024-02-29T01:22:00,negotiation,"Admins: delete videos with street signs, it's not safe.",216.0
+281,Neighbor_3A,2024-02-29T02:01:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+282,Ana,2024-02-29T02:37:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+283,Lena,2024-02-29T03:21:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+284,Ana,2024-02-29T03:27:00,negotiation,"We need this chat for real alerts, not for panic.",
+285,Ana,2024-02-29T04:06:00,negotiation,"We need this chat for real alerts, not for panic.",
+286,Leo,2024-02-29T04:43:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+287,Leo,2024-02-29T05:15:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+288,Lena,2024-02-29T05:29:00,negotiation,"Stop reposting that clip, it's from last year, not today.",171.0
+289,Lena,2024-02-29T05:47:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+290,Sara,2024-02-29T06:04:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+291,Mom,2024-02-29T06:19:00,negotiation,"We need this chat for real alerts, not for panic.",
+292,Tarek,2024-02-29T06:51:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+293,Miguel,2024-02-29T07:06:00,negotiation,"If you share info, mark it as verified or rumor, please.",158.0
+294,Miguel,2024-02-29T07:38:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+295,Ana,2024-02-29T08:00:00,negotiation,"Stop reposting that clip, it's from last year, not today.",68.0
+296,Leo,2024-02-29T08:39:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",162.0
+297,Lena,2024-02-29T09:08:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+298,Mom,2024-02-29T09:53:00,negotiation,"If you share info, mark it as verified or rumor, please.",181.0
+299,Sara,2024-02-29T10:25:00,negotiation,"We need this chat for real alerts, not for panic.",
+300,Miguel,2024-02-29T10:56:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+301,Omar,2024-02-29T11:02:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",200.0
+302,Sara,2024-02-29T11:30:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+303,Tarek,2024-02-29T12:02:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+304,Leo,2024-02-29T12:29:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+305,Sara,2024-02-29T13:05:00,negotiation,"We need this chat for real alerts, not for panic.",272.0
+306,Mom,2024-02-29T13:28:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+307,Mom,2024-02-29T13:42:00,negotiation,"We need this chat for real alerts, not for panic.",
+308,Neighbor_3A,2024-02-29T13:54:00,negotiation,"We need this chat for real alerts, not for panic.",
+309,Leo,2024-02-29T14:00:00,negotiation,"We need this chat for real alerts, not for panic.",
+310,Lena,2024-02-29T14:13:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+311,Tarek,2024-02-29T14:32:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+312,Mom,2024-02-29T14:52:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+313,Neighbor_3A,2024-02-29T15:16:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+314,Leo,2024-02-29T15:28:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+315,Miguel,2024-02-29T15:47:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+316,Mom,2024-02-29T16:16:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+317,Leo,2024-02-29T16:49:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+318,Sara,2024-02-29T17:30:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+319,Lena,2024-02-29T18:06:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+320,Omar,2024-02-29T18:44:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+321,Mom,2024-02-29T18:58:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+322,Tarek,2024-02-29T19:15:00,negotiation,"Stop reposting that clip, it's from last year, not today.",12.0
+323,Leo,2024-02-29T19:58:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+324,Mom,2024-02-29T20:30:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+325,Sara,2024-02-29T21:08:00,negotiation,"If you share info, mark it as verified or rumor, please.",207.0
+326,Miguel,2024-02-29T21:19:00,negotiation,"Admins: delete videos with street signs, it's not safe.",5.0
+327,Sara,2024-02-29T21:37:00,negotiation,"If you share info, mark it as verified or rumor, please.",161.0
+328,Omar,2024-02-29T22:19:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+329,Mom,2024-02-29T22:47:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+330,Omar,2024-02-29T23:09:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+331,Ana,2024-02-29T23:54:00,negotiation,"We need this chat for real alerts, not for panic.",
+332,Leo,2024-03-01T00:26:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+333,Neighbor_3A,2024-03-01T00:44:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+334,Lena,2024-03-01T01:14:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+335,Neighbor_3A,2024-03-01T01:37:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+336,Neighbor_3A,2024-03-01T02:18:00,negotiation,"Admins: delete videos with street signs, it's not safe.",
+337,Sara,2024-03-01T02:56:00,negotiation,"Stop reposting that clip, it's from last year, not today.",228.0
+338,Mom,2024-03-01T03:07:00,negotiation,"Stop reposting that clip, it's from last year, not today.",168.0
+339,Omar,2024-03-01T03:20:00,negotiation,"Stop reposting that clip, it's from last year, not today.",317.0
+340,Lena,2024-03-01T03:43:00,negotiation,"We need this chat for real alerts, not for panic.",223.0
+341,Lena,2024-03-01T03:55:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+342,Tarek,2024-03-01T04:22:00,negotiation,"We need this chat for real alerts, not for panic.",
+343,Neighbor_3A,2024-03-01T04:59:00,negotiation,"If you share info, mark it as verified or rumor, please.",
+344,Ana,2024-03-01T05:42:00,negotiation,"We need this chat for real alerts, not for panic.",111.0
+345,Ana,2024-03-01T05:50:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+346,Miguel,2024-03-01T05:57:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",196.0
+347,Ana,2024-03-01T06:37:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+348,Mom,2024-03-01T06:52:00,negotiation,"If you share info, mark it as verified or rumor, please.",345.0
+349,Miguel,2024-03-01T07:08:00,negotiation,"Stop reposting that clip, it's from last year, not today.",
+350,Mom,2024-03-01T07:23:00,negotiation,"Please don't post exact locations, they can adjust fire from this.",
+351,Sara,2024-03-01T08:03:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",144.0
+352,Leo,2024-03-01T08:14:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",231.0
+353,Leo,2024-03-01T08:50:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+354,Omar,2024-03-01T09:09:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+355,Omar,2024-03-01T09:14:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+356,Mom,2024-03-01T09:43:00,polyvocal,"People in North Station say the soldiers help them, people in North Station say they steal everything.",
+357,Omar,2024-03-01T10:15:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",27.0
+358,Omar,2024-03-01T10:33:00,polyvocal,"People in Riverside say the soldiers help them, people in Riverside say they steal everything.",50.0
+359,Leo,2024-03-01T10:44:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+360,Mom,2024-03-01T11:25:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",231.0
+361,Lena,2024-03-01T11:37:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+362,Sara,2024-03-01T12:09:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+363,Neighbor_3A,2024-03-01T12:54:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",322.0
+364,Leo,2024-03-01T13:15:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+365,Sara,2024-03-01T13:41:00,polyvocal,"People in Old Town say the soldiers help them, people in Industrial Park say they steal everything.",121.0
+366,Mom,2024-03-01T14:10:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+367,Mom,2024-03-01T14:39:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+368,Mom,2024-03-01T15:06:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+369,Ana,2024-03-01T15:26:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+370,Mom,2024-03-01T16:10:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+371,Omar,2024-03-01T16:35:00,polyvocal,"People in Old Town say the soldiers help them, people in Hilltop say they steal everything.",
+372,Neighbor_3A,2024-03-01T16:58:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",250.0
+373,Omar,2024-03-01T17:03:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+374,Leo,2024-03-01T17:11:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+375,Tarek,2024-03-01T17:56:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+376,Neighbor_3A,2024-03-01T18:13:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+377,Neighbor_3A,2024-03-01T18:46:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",349.0
+378,Mom,2024-03-01T19:02:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",72.0
+379,Sara,2024-03-01T19:22:00,polyvocal,"People in Riverside say the soldiers help them, people in Hilltop say they steal everything.",
+380,Leo,2024-03-01T20:00:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+381,Leo,2024-03-01T20:13:00,polyvocal,"People in Industrial Park say the soldiers help them, people in North Station say they steal everything.",91.0
+382,Mom,2024-03-01T20:53:00,polyvocal,"People in Old Town say the soldiers help them, people in Riverside say they steal everything.",
+383,Neighbor_3A,2024-03-01T21:22:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",292.0
+384,Leo,2024-03-01T22:02:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+385,Mom,2024-03-01T22:32:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+386,Miguel,2024-03-01T22:57:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",310.0
+387,Miguel,2024-03-01T23:34:00,polyvocal,"People in Industrial Park say the soldiers help them, people in Industrial Park say they steal everything.",
+388,Sara,2024-03-01T23:58:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",349.0
+389,Omar,2024-03-02T00:42:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+390,Sara,2024-03-02T01:06:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+391,Lena,2024-03-02T01:27:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",159.0
+392,Lena,2024-03-02T02:05:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",309.0
+393,Omar,2024-03-02T02:15:00,polyvocal,"People in Old Town say the soldiers help them, people in Riverside say they steal everything.",
+394,Ana,2024-03-02T02:22:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+395,Sara,2024-03-02T02:37:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+396,Tarek,2024-03-02T02:45:00,polyvocal,"People in Industrial Park say the soldiers help them, people in Riverside say they steal everything.",
+397,Miguel,2024-03-02T03:04:00,polyvocal,"People in Hilltop say the soldiers help them, people in Industrial Park say they steal everything.",
+398,Tarek,2024-03-02T03:26:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+399,Sara,2024-03-02T03:49:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+400,Omar,2024-03-02T04:21:00,polyvocal,"People in North Station say the soldiers help them, people in Industrial Park say they steal everything.",
+401,Ana,2024-03-02T05:02:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+402,Mom,2024-03-02T05:24:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+403,Sara,2024-03-02T06:05:00,polyvocal,"People in Riverside say the soldiers help them, people in Hilltop say they steal everything.",353.0
+404,Lena,2024-03-02T06:49:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+405,Mom,2024-03-02T06:59:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+406,Lena,2024-03-02T07:43:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+407,Leo,2024-03-02T08:27:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+408,Neighbor_3A,2024-03-02T08:54:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+409,Mom,2024-03-02T09:12:00,polyvocal,"People in Riverside say the soldiers help them, people in Old Town say they steal everything.",
+410,Leo,2024-03-02T09:37:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+411,Neighbor_3A,2024-03-02T10:16:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+412,Sara,2024-03-02T10:43:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+413,Sara,2024-03-02T11:12:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",190.0
+414,Mom,2024-03-02T11:36:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",406.0
+415,Miguel,2024-03-02T11:42:00,polyvocal,"People in Hilltop say the soldiers help them, people in Riverside say they steal everything.",122.0
+416,Leo,2024-03-02T12:00:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+417,Miguel,2024-03-02T12:38:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+418,Leo,2024-03-02T13:22:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+419,Mom,2024-03-02T13:49:00,polyvocal,"People in Hilltop say the soldiers help them, people in Industrial Park say they steal everything.",255.0
+420,Sara,2024-03-02T14:26:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",384.0
+421,Omar,2024-03-02T14:38:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+422,Tarek,2024-03-02T14:43:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+423,Leo,2024-03-02T15:27:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",138.0
+424,Omar,2024-03-02T15:44:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+425,Miguel,2024-03-02T15:50:00,polyvocal,"People in Hilltop say the soldiers help them, people in North Station say they steal everything.",
+426,Ana,2024-03-02T16:33:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+427,Sara,2024-03-02T17:10:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+428,Miguel,2024-03-02T17:16:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",138.0
+429,Lena,2024-03-02T17:28:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+430,Omar,2024-03-02T18:03:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+431,Tarek,2024-03-02T18:33:00,polyvocal,"People in Hilltop say the soldiers help them, people in North Station say they steal everything.",
+432,Mom,2024-03-02T19:12:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",265.0
+433,Sara,2024-03-02T19:41:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+434,Leo,2024-03-02T20:08:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+435,Mom,2024-03-02T20:25:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+436,Sara,2024-03-02T20:37:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+437,Miguel,2024-03-02T20:50:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+438,Ana,2024-03-02T21:27:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",314.0
+439,Miguel,2024-03-02T21:33:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+440,Leo,2024-03-02T21:59:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+441,Leo,2024-03-02T22:06:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+442,Omar,2024-03-02T22:13:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",4.0
+443,Neighbor_3A,2024-03-02T22:28:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",165.0
+444,Lena,2024-03-02T22:44:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+445,Miguel,2024-03-02T22:51:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",370.0
+446,Ana,2024-03-02T23:02:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+447,Sara,2024-03-02T23:24:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+448,Sara,2024-03-02T23:33:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+449,Miguel,2024-03-02T23:44:00,polyvocal,"People in Old Town say the soldiers help them, people in Old Town say they steal everything.",
+450,Omar,2024-03-03T00:26:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+451,Miguel,2024-03-03T01:08:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",44.0
+452,Lena,2024-03-03T01:21:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+453,Miguel,2024-03-03T01:32:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+454,Leo,2024-03-03T01:48:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+455,Lena,2024-03-03T02:29:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+456,Lena,2024-03-03T02:36:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+457,Lena,2024-03-03T02:55:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",18.0
+458,Sara,2024-03-03T03:19:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+459,Sara,2024-03-03T03:42:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+460,Omar,2024-03-03T03:52:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+461,Leo,2024-03-03T04:22:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+462,Tarek,2024-03-03T05:04:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+463,Miguel,2024-03-03T05:40:00,polyvocal,"People in North Station say the soldiers help them, people in Hilltop say they steal everything.",
+464,Lena,2024-03-03T06:18:00,polyvocal,"People in Riverside say the soldiers help them, people in Old Town say they steal everything.",
+465,Leo,2024-03-03T06:38:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+466,Ana,2024-03-03T07:20:00,polyvocal,"People in North Station say the soldiers help them, people in Old Town say they steal everything.",174.0
+467,Lena,2024-03-03T07:56:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+468,Miguel,2024-03-03T08:08:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+469,Leo,2024-03-03T08:27:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+470,Omar,2024-03-03T08:33:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",354.0
+471,Miguel,2024-03-03T09:10:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",106.0
+472,Ana,2024-03-03T09:51:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+473,Leo,2024-03-03T10:33:00,polyvocal,"People in Riverside say the soldiers help them, people in Riverside say they steal everything.",
+474,Miguel,2024-03-03T10:56:00,polyvocal,"People in Riverside say the soldiers help them, people in Hilltop say they steal everything.",
+475,Mom,2024-03-03T11:12:00,polyvocal,"People in North Station say the soldiers help them, people in Industrial Park say they steal everything.",
+476,Leo,2024-03-03T11:46:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+477,Neighbor_3A,2024-03-03T12:31:00,polyvocal,"People in Riverside say the soldiers help them, people in North Station say they steal everything.",
+478,Neighbor_3A,2024-03-03T12:59:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+479,Leo,2024-03-03T13:10:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+480,Lena,2024-03-03T13:46:00,polyvocal,"People in Hilltop say the soldiers help them, people in Industrial Park say they steal everything.",
+481,Neighbor_3A,2024-03-03T14:17:00,polyvocal,"People in North Station say the soldiers help them, people in Old Town say they steal everything.",
+482,Lena,2024-03-03T14:43:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+483,Omar,2024-03-03T15:28:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+484,Tarek,2024-03-03T15:49:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+485,Neighbor_3A,2024-03-03T16:04:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+486,Mom,2024-03-03T16:46:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+487,Leo,2024-03-03T17:26:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+488,Ana,2024-03-03T17:44:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+489,Leo,2024-03-03T18:04:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",17.0
+490,Miguel,2024-03-03T18:33:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+491,Miguel,2024-03-03T18:40:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+492,Omar,2024-03-03T19:09:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+493,Sara,2024-03-03T19:33:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+494,Lena,2024-03-03T19:57:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",161.0
+495,Ana,2024-03-03T20:08:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",153.0
+496,Tarek,2024-03-03T20:46:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+497,Omar,2024-03-03T21:12:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+498,Sara,2024-03-03T21:34:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+499,Ana,2024-03-03T21:52:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+500,Lena,2024-03-03T22:25:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+501,Sara,2024-03-03T22:59:00,polyvocal,"People in Hilltop say the soldiers help them, people in Riverside say they steal everything.",
+502,Sara,2024-03-03T23:23:00,polyvocal,"People in Hilltop say the soldiers help them, people in Riverside say they steal everything.",53.0
+503,Mom,2024-03-03T23:37:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",392.0
+504,Leo,2024-03-04T00:17:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",234.0
+505,Miguel,2024-03-04T00:42:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+506,Lena,2024-03-04T01:13:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",325.0
+507,Tarek,2024-03-04T01:18:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+508,Mom,2024-03-04T01:55:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",457.0
+509,Mom,2024-03-04T02:21:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+510,Miguel,2024-03-04T02:55:00,polyvocal,"People in Hilltop say the soldiers help them, people in North Station say they steal everything.",
+511,Lena,2024-03-04T03:27:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",131.0
+512,Miguel,2024-03-04T03:54:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+513,Ana,2024-03-04T04:33:00,polyvocal,"People in Hilltop say the soldiers help them, people in North Station say they steal everything.",
+514,Sara,2024-03-04T05:16:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+515,Sara,2024-03-04T05:31:00,polyvocal,"People in North Station say the soldiers help them, people in Industrial Park say they steal everything.",
+516,Tarek,2024-03-04T05:43:00,polyvocal,"People in Industrial Park say the soldiers help them, people in Hilltop say they steal everything.",
+517,Leo,2024-03-04T06:00:00,polyvocal,"People in Riverside say the soldiers help them, people in Riverside say they steal everything.",461.0
+518,Lena,2024-03-04T06:35:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+519,Leo,2024-03-04T06:43:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+520,Sara,2024-03-04T07:20:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+521,Tarek,2024-03-04T07:40:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+522,Neighbor_3A,2024-03-04T07:59:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+523,Ana,2024-03-04T08:21:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",173.0
+524,Tarek,2024-03-04T08:51:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",23.0
+525,Leo,2024-03-04T09:10:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+526,Ana,2024-03-04T09:42:00,polyvocal,"People in North Station say the soldiers help them, people in Old Town say they steal everything.",
+527,Omar,2024-03-04T10:22:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+528,Sara,2024-03-04T11:00:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+529,Tarek,2024-03-04T11:44:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+530,Sara,2024-03-04T12:01:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+531,Tarek,2024-03-04T12:39:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",76.0
+532,Lena,2024-03-04T13:13:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+533,Sara,2024-03-04T13:29:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+534,Leo,2024-03-04T13:38:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",166.0
+535,Omar,2024-03-04T14:17:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",208.0
+536,Leo,2024-03-04T14:52:00,polyvocal,"People in Industrial Park say the soldiers help them, people in Riverside say they steal everything.",
+537,Miguel,2024-03-04T15:30:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+538,Tarek,2024-03-04T15:49:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",369.0
+539,Leo,2024-03-04T16:07:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+540,Sara,2024-03-04T16:22:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",522.0
+541,Lena,2024-03-04T17:00:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+542,Ana,2024-03-04T17:38:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",209.0
+543,Omar,2024-03-04T18:07:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",284.0
+544,Lena,2024-03-04T18:47:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+545,Lena,2024-03-04T19:05:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+546,Sara,2024-03-04T19:32:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+547,Lena,2024-03-04T20:03:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+548,Miguel,2024-03-04T20:17:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",532.0
+549,Mom,2024-03-04T20:27:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+550,Mom,2024-03-04T20:56:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+551,Neighbor_3A,2024-03-04T21:09:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+552,Mom,2024-03-04T21:20:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+553,Sara,2024-03-04T22:05:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+554,Omar,2024-03-04T22:46:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+555,Mom,2024-03-04T23:04:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",266.0
+556,Miguel,2024-03-04T23:29:00,polyvocal,"People in North Station say the soldiers help them, people in Hilltop say they steal everything.",
+557,Leo,2024-03-04T23:44:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+558,Tarek,2024-03-04T23:51:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+559,Mom,2024-03-05T00:14:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+560,Omar,2024-03-05T00:29:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+561,Leo,2024-03-05T00:48:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+562,Sara,2024-03-05T01:33:00,polyvocal,"People in Riverside say the soldiers help them, people in Hilltop say they steal everything.",
+563,Neighbor_3A,2024-03-05T01:50:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",543.0
+564,Tarek,2024-03-05T02:13:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+565,Miguel,2024-03-05T02:53:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+566,Ana,2024-03-05T03:10:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+567,Mom,2024-03-05T03:25:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",222.0
+568,Omar,2024-03-05T03:58:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",366.0
+569,Miguel,2024-03-05T04:26:00,polyvocal,"People in North Station say the soldiers help them, people in Hilltop say they steal everything.",425.0
+570,Mom,2024-03-05T04:31:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",507.0
+571,Miguel,2024-03-05T04:50:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+572,Mom,2024-03-05T05:03:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+573,Mom,2024-03-05T05:46:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+574,Tarek,2024-03-05T06:21:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+575,Ana,2024-03-05T07:04:00,polyvocal,"People in Old Town say the soldiers help them, people in Hilltop say they steal everything.",62.0
+576,Mom,2024-03-05T07:33:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+577,Omar,2024-03-05T08:10:00,polyvocal,"People in Old Town say the soldiers help them, people in Riverside say they steal everything.",
+578,Neighbor_3A,2024-03-05T08:23:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+579,Miguel,2024-03-05T08:49:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+580,Mom,2024-03-05T09:26:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+581,Ana,2024-03-05T10:04:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+582,Sara,2024-03-05T10:48:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",32.0
+583,Miguel,2024-03-05T11:08:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+584,Sara,2024-03-05T11:40:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+585,Leo,2024-03-05T12:22:00,polyvocal,"People in Hilltop say the soldiers help them, people in Old Town say they steal everything.",
+586,Tarek,2024-03-05T12:51:00,polyvocal,"People in Industrial Park say the soldiers help them, people in North Station say they steal everything.",484.0
+587,Neighbor_3A,2024-03-05T13:30:00,polyvocal,"People in North Station say the soldiers help them, people in Old Town say they steal everything.",
+588,Neighbor_3A,2024-03-05T13:42:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",149.0
+589,Ana,2024-03-05T14:00:00,polyvocal,"People in Old Town say the soldiers help them, people in Industrial Park say they steal everything.",
+590,Omar,2024-03-05T14:29:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+591,Neighbor_3A,2024-03-05T14:48:00,polyvocal,"Some say the city is calm, others say it's burning. Which reality is true?",
+592,Lena,2024-03-05T15:03:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+593,Mom,2024-03-05T15:24:00,polyvocal,"People in Old Town say the soldiers help them, people in Riverside say they steal everything.",
+594,Leo,2024-03-05T15:57:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+595,Lena,2024-03-05T16:20:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",
+596,Tarek,2024-03-05T16:52:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+597,Miguel,2024-03-05T16:58:00,polyvocal,"They stayed because they had nowhere to go, stop judging them from abroad.",
+598,Leo,2024-03-05T17:28:00,polyvocal,"Look at the flags in that video, it feels staged to me. What do you see?",
+599,Miguel,2024-03-05T18:06:00,polyvocal,"Occupiers film themselves handing out food, but they bombed the bakery last week.",426.0
+600,Miguel,2024-03-05T18:49:00,polyvocal,"People in Hilltop say the soldiers help them, people in Riverside say they steal everything.",
+601,Tarek,2024-03-05T19:08:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+602,Omar,2024-03-05T19:40:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+603,Lena,2024-03-05T20:25:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+604,Omar,2024-03-05T20:30:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",180.0
+605,Ana,2024-03-05T20:45:00,emotional,I just want one day without checking if everyone is still alive.,
+606,Neighbor_3A,2024-03-05T21:15:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+607,Mom,2024-03-05T21:36:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",289.0
+608,Leo,2024-03-05T21:52:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",187.0
+609,Lena,2024-03-05T22:30:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",320.0
+610,Leo,2024-03-05T22:56:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+611,Omar,2024-03-05T23:28:00,emotional,I just want one day without checking if everyone is still alive.,
+612,Mom,2024-03-05T23:47:00,emotional,I'm so tired of hating and being scared at the same time.,
+613,Mom,2024-03-06T00:16:00,emotional,I'm so tired of hating and being scared at the same time.,
+614,Tarek,2024-03-06T00:33:00,emotional,I'm so tired of hating and being scared at the same time.,
+615,Mom,2024-03-06T01:02:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",2.0
+616,Leo,2024-03-06T01:30:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+617,Neighbor_3A,2024-03-06T02:03:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+618,Neighbor_3A,2024-03-06T02:27:00,emotional,I just want one day without checking if everyone is still alive.,
+619,Neighbor_3A,2024-03-06T02:47:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+620,Miguel,2024-03-06T03:29:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+621,Ana,2024-03-06T03:58:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",216.0
+622,Mom,2024-03-06T04:16:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+623,Sara,2024-03-06T04:25:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+624,Lena,2024-03-06T05:04:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",414.0
+625,Lena,2024-03-06T05:32:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+626,Miguel,2024-03-06T05:41:00,emotional,I just want one day without checking if everyone is still alive.,
+627,Tarek,2024-03-06T06:19:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+628,Neighbor_3A,2024-03-06T06:33:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",15.0
+629,Tarek,2024-03-06T06:38:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",623.0
+630,Omar,2024-03-06T07:22:00,emotional,I just want one day without checking if everyone is still alive.,
+631,Ana,2024-03-06T07:50:00,emotional,I'm so tired of hating and being scared at the same time.,
+632,Neighbor_3A,2024-03-06T08:00:00,emotional,I'm so tired of hating and being scared at the same time.,
+633,Lena,2024-03-06T08:08:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",619.0
+634,Lena,2024-03-06T08:29:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+635,Lena,2024-03-06T08:47:00,emotional,I'm so tired of hating and being scared at the same time.,
+636,Ana,2024-03-06T09:12:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+637,Miguel,2024-03-06T09:34:00,emotional,I just want one day without checking if everyone is still alive.,
+638,Miguel,2024-03-06T09:44:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+639,Lena,2024-03-06T10:12:00,emotional,I'm so tired of hating and being scared at the same time.,
+640,Omar,2024-03-06T10:49:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+641,Mom,2024-03-06T10:59:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+642,Omar,2024-03-06T11:28:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",433.0
+643,Omar,2024-03-06T12:04:00,emotional,I just want one day without checking if everyone is still alive.,231.0
+644,Miguel,2024-03-06T12:09:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+645,Sara,2024-03-06T12:40:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",243.0
+646,Miguel,2024-03-06T12:47:00,emotional,I just want one day without checking if everyone is still alive.,584.0
+647,Neighbor_3A,2024-03-06T12:57:00,emotional,I'm so tired of hating and being scared at the same time.,
+648,Sara,2024-03-06T13:37:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+649,Omar,2024-03-06T14:18:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",130.0
+650,Neighbor_3A,2024-03-06T14:35:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",356.0
+651,Sara,2024-03-06T14:41:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+652,Ana,2024-03-06T14:59:00,emotional,I just want one day without checking if everyone is still alive.,
+653,Tarek,2024-03-06T15:19:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",506.0
+654,Mom,2024-03-06T15:42:00,emotional,I just want one day without checking if everyone is still alive.,254.0
+655,Neighbor_3A,2024-03-06T15:52:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",563.0
+656,Neighbor_3A,2024-03-06T15:58:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",162.0
+657,Mom,2024-03-06T16:28:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+658,Mom,2024-03-06T16:34:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+659,Mom,2024-03-06T17:01:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",582.0
+660,Neighbor_3A,2024-03-06T17:14:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+661,Omar,2024-03-06T17:23:00,emotional,I just want one day without checking if everyone is still alive.,312.0
+662,Ana,2024-03-06T17:35:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",491.0
+663,Leo,2024-03-06T17:42:00,emotional,I'm so tired of hating and being scared at the same time.,235.0
+664,Neighbor_3A,2024-03-06T18:19:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+665,Tarek,2024-03-06T18:42:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+666,Omar,2024-03-06T19:03:00,emotional,I just want one day without checking if everyone is still alive.,
+667,Lena,2024-03-06T19:12:00,emotional,I just want one day without checking if everyone is still alive.,
+668,Sara,2024-03-06T19:22:00,emotional,I just want one day without checking if everyone is still alive.,136.0
+669,Ana,2024-03-06T20:01:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+670,Omar,2024-03-06T20:34:00,emotional,I just want one day without checking if everyone is still alive.,598.0
+671,Miguel,2024-03-06T20:39:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+672,Omar,2024-03-06T21:20:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+673,Miguel,2024-03-06T21:50:00,emotional,I'm so tired of hating and being scared at the same time.,
+674,Mom,2024-03-06T22:33:00,emotional,I just want one day without checking if everyone is still alive.,
+675,Mom,2024-03-06T22:59:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",3.0
+676,Omar,2024-03-06T23:11:00,emotional,I just want one day without checking if everyone is still alive.,
+677,Ana,2024-03-06T23:45:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+678,Lena,2024-03-07T00:19:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+679,Tarek,2024-03-07T00:46:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+680,Tarek,2024-03-07T01:09:00,emotional,I just want one day without checking if everyone is still alive.,
+681,Miguel,2024-03-07T01:51:00,emotional,I'm so tired of hating and being scared at the same time.,
+682,Sara,2024-03-07T02:04:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+683,Sara,2024-03-07T02:24:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+684,Omar,2024-03-07T02:48:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",212.0
+685,Mom,2024-03-07T03:23:00,emotional,I'm so tired of hating and being scared at the same time.,
+686,Neighbor_3A,2024-03-07T04:01:00,emotional,I just want one day without checking if everyone is still alive.,282.0
+687,Tarek,2024-03-07T04:08:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+688,Lena,2024-03-07T04:22:00,emotional,I'm so tired of hating and being scared at the same time.,186.0
+689,Lena,2024-03-07T04:30:00,emotional,I'm so tired of hating and being scared at the same time.,618.0
+690,Omar,2024-03-07T05:09:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",410.0
+691,Omar,2024-03-07T05:31:00,emotional,I'm so tired of hating and being scared at the same time.,
+692,Ana,2024-03-07T06:01:00,emotional,I'm so tired of hating and being scared at the same time.,566.0
+693,Lena,2024-03-07T06:34:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+694,Ana,2024-03-07T06:47:00,emotional,I just want one day without checking if everyone is still alive.,
+695,Sara,2024-03-07T07:27:00,emotional,I just want one day without checking if everyone is still alive.,
+696,Miguel,2024-03-07T07:36:00,emotional,I just want one day without checking if everyone is still alive.,269.0
+697,Omar,2024-03-07T08:18:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+698,Sara,2024-03-07T08:42:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+699,Mom,2024-03-07T08:59:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+700,Mom,2024-03-07T09:39:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+701,Omar,2024-03-07T10:16:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+702,Mom,2024-03-07T10:47:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+703,Miguel,2024-03-07T11:19:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+704,Leo,2024-03-07T11:44:00,emotional,I'm so tired of hating and being scared at the same time.,310.0
+705,Miguel,2024-03-07T12:14:00,emotional,I just want one day without checking if everyone is still alive.,
+706,Ana,2024-03-07T12:43:00,emotional,I just want one day without checking if everyone is still alive.,
+707,Omar,2024-03-07T13:05:00,emotional,I just want one day without checking if everyone is still alive.,
+708,Ana,2024-03-07T13:31:00,emotional,I just want one day without checking if everyone is still alive.,306.0
+709,Omar,2024-03-07T13:36:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+710,Tarek,2024-03-07T14:15:00,emotional,I just want one day without checking if everyone is still alive.,
+711,Sara,2024-03-07T14:42:00,emotional,I'm so tired of hating and being scared at the same time.,487.0
+712,Ana,2024-03-07T15:09:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+713,Neighbor_3A,2024-03-07T15:43:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+714,Mom,2024-03-07T16:07:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+715,Ana,2024-03-07T16:25:00,emotional,I just want one day without checking if everyone is still alive.,
+716,Omar,2024-03-07T16:32:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+717,Sara,2024-03-07T16:49:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+718,Leo,2024-03-07T16:55:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+719,Tarek,2024-03-07T17:20:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+720,Ana,2024-03-07T17:48:00,emotional,I just want one day without checking if everyone is still alive.,
+721,Omar,2024-03-07T18:20:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",392.0
+722,Ana,2024-03-07T19:03:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+723,Tarek,2024-03-07T19:08:00,emotional,I just want one day without checking if everyone is still alive.,
+724,Lena,2024-03-07T19:41:00,emotional,I just want one day without checking if everyone is still alive.,
+725,Omar,2024-03-07T20:24:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+726,Ana,2024-03-07T20:54:00,emotional,I'm so tired of hating and being scared at the same time.,
+727,Ana,2024-03-07T21:12:00,emotional,I just want one day without checking if everyone is still alive.,
+728,Mom,2024-03-07T21:42:00,emotional,I just want one day without checking if everyone is still alive.,
+729,Omar,2024-03-07T21:47:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+730,Mom,2024-03-07T22:18:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+731,Ana,2024-03-07T22:43:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+732,Tarek,2024-03-07T23:14:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+733,Neighbor_3A,2024-03-07T23:54:00,emotional,I'm so tired of hating and being scared at the same time.,
+734,Ana,2024-03-08T00:22:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",373.0
+735,Ana,2024-03-08T00:45:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+736,Mom,2024-03-08T01:20:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",5.0
+737,Leo,2024-03-08T01:30:00,emotional,I just want one day without checking if everyone is still alive.,
+738,Neighbor_3A,2024-03-08T01:56:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+739,Lena,2024-03-08T02:04:00,emotional,I just want one day without checking if everyone is still alive.,
+740,Ana,2024-03-08T02:24:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",579.0
+741,Ana,2024-03-08T02:52:00,emotional,I'm so tired of hating and being scared at the same time.,
+742,Ana,2024-03-08T02:58:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+743,Neighbor_3A,2024-03-08T03:21:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",683.0
+744,Mom,2024-03-08T03:45:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+745,Mom,2024-03-08T04:20:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+746,Miguel,2024-03-08T04:47:00,emotional,I'm so tired of hating and being scared at the same time.,
+747,Miguel,2024-03-08T05:03:00,emotional,I just want one day without checking if everyone is still alive.,
+748,Neighbor_3A,2024-03-08T05:42:00,emotional,I'm so tired of hating and being scared at the same time.,
+749,Mom,2024-03-08T06:22:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+750,Omar,2024-03-08T06:39:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+751,Ana,2024-03-08T07:10:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",614.0
+752,Neighbor_3A,2024-03-08T07:46:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+753,Tarek,2024-03-08T07:53:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+754,Lena,2024-03-08T08:10:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",109.0
+755,Sara,2024-03-08T08:29:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",422.0
+756,Omar,2024-03-08T09:14:00,emotional,I'm so tired of hating and being scared at the same time.,
+757,Sara,2024-03-08T09:22:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",473.0
+758,Leo,2024-03-08T09:30:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+759,Sara,2024-03-08T09:47:00,emotional,I just want one day without checking if everyone is still alive.,135.0
+760,Ana,2024-03-08T10:15:00,emotional,I'm so tired of hating and being scared at the same time.,
+761,Ana,2024-03-08T10:20:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+762,Neighbor_3A,2024-03-08T10:36:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",521.0
+763,Lena,2024-03-08T10:48:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+764,Sara,2024-03-08T11:02:00,emotional,I'm so tired of hating and being scared at the same time.,
+765,Omar,2024-03-08T11:19:00,emotional,I just want one day without checking if everyone is still alive.,137.0
+766,Omar,2024-03-08T11:52:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+767,Ana,2024-03-08T12:10:00,emotional,I'm so tired of hating and being scared at the same time.,
+768,Ana,2024-03-08T12:41:00,emotional,I just want one day without checking if everyone is still alive.,
+769,Mom,2024-03-08T13:07:00,emotional,I just want one day without checking if everyone is still alive.,
+770,Neighbor_3A,2024-03-08T13:25:00,emotional,I'm so tired of hating and being scared at the same time.,
+771,Tarek,2024-03-08T13:33:00,emotional,I just want one day without checking if everyone is still alive.,98.0
+772,Lena,2024-03-08T13:52:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+773,Sara,2024-03-08T14:06:00,emotional,I'm so tired of hating and being scared at the same time.,
+774,Tarek,2024-03-08T14:42:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+775,Mom,2024-03-08T15:27:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+776,Omar,2024-03-08T15:54:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+777,Mom,2024-03-08T16:28:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",631.0
+778,Miguel,2024-03-08T16:41:00,emotional,I just want one day without checking if everyone is still alive.,
+779,Tarek,2024-03-08T17:25:00,emotional,I'm so tired of hating and being scared at the same time.,
+780,Sara,2024-03-08T17:56:00,emotional,I'm so tired of hating and being scared at the same time.,
+781,Neighbor_3A,2024-03-08T18:12:00,emotional,I'm so tired of hating and being scared at the same time.,
+782,Neighbor_3A,2024-03-08T18:52:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+783,Sara,2024-03-08T19:10:00,emotional,I'm so tired of hating and being scared at the same time.,
+784,Mom,2024-03-08T19:33:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",712.0
+785,Leo,2024-03-08T20:08:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+786,Omar,2024-03-08T20:26:00,emotional,I just want one day without checking if everyone is still alive.,
+787,Mom,2024-03-08T21:09:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+788,Mom,2024-03-08T21:15:00,emotional,I'm so tired of hating and being scared at the same time.,
+789,Neighbor_3A,2024-03-08T21:55:00,emotional,I just want one day without checking if everyone is still alive.,
+790,Tarek,2024-03-08T22:37:00,emotional,I'm so tired of hating and being scared at the same time.,
+791,Sara,2024-03-08T22:58:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+792,Tarek,2024-03-08T23:15:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",596.0
+793,Omar,2024-03-08T23:33:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+794,Leo,2024-03-08T23:53:00,emotional,I'm so tired of hating and being scared at the same time.,
+795,Miguel,2024-03-08T23:58:00,emotional,I'm so tired of hating and being scared at the same time.,
+796,Mom,2024-03-09T00:18:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+797,Lena,2024-03-09T00:38:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+798,Omar,2024-03-09T00:59:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+799,Leo,2024-03-09T01:12:00,emotional,I just want one day without checking if everyone is still alive.,
+800,Mom,2024-03-09T01:54:00,emotional,I just want one day without checking if everyone is still alive.,580.0
+801,Lena,2024-03-09T02:36:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+802,Lena,2024-03-09T02:56:00,emotional,I just want one day without checking if everyone is still alive.,432.0
+803,Lena,2024-03-09T03:39:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+804,Mom,2024-03-09T03:44:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+805,Ana,2024-03-09T04:09:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",43.0
+806,Leo,2024-03-09T04:46:00,emotional,I'm so tired of hating and being scared at the same time.,
+807,Miguel,2024-03-09T05:31:00,emotional,I just want one day without checking if everyone is still alive.,374.0
+808,Tarek,2024-03-09T05:44:00,emotional,I'm so tired of hating and being scared at the same time.,
+809,Sara,2024-03-09T05:59:00,emotional,I'm so tired of hating and being scared at the same time.,58.0
+810,Omar,2024-03-09T06:44:00,emotional,I just want one day without checking if everyone is still alive.,138.0
+811,Neighbor_3A,2024-03-09T07:01:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+812,Tarek,2024-03-09T07:11:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+813,Tarek,2024-03-09T07:49:00,emotional,I just want one day without checking if everyone is still alive.,131.0
+814,Omar,2024-03-09T08:07:00,emotional,I'm so tired of hating and being scared at the same time.,
+815,Mom,2024-03-09T08:41:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+816,Leo,2024-03-09T08:46:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+817,Sara,2024-03-09T09:23:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+818,Mom,2024-03-09T09:46:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+819,Mom,2024-03-09T09:55:00,emotional,I just want one day without checking if everyone is still alive.,
+820,Ana,2024-03-09T10:37:00,emotional,I'm so tired of hating and being scared at the same time.,
+821,Sara,2024-03-09T11:07:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+822,Sara,2024-03-09T11:33:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+823,Sara,2024-03-09T11:40:00,emotional,I just want one day without checking if everyone is still alive.,557.0
+824,Neighbor_3A,2024-03-09T11:54:00,emotional,I just want one day without checking if everyone is still alive.,
+825,Miguel,2024-03-09T12:04:00,emotional,I just want one day without checking if everyone is still alive.,
+826,Sara,2024-03-09T12:20:00,emotional,I just want one day without checking if everyone is still alive.,
+827,Mom,2024-03-09T12:33:00,emotional,I'm so tired of hating and being scared at the same time.,
+828,Ana,2024-03-09T12:52:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+829,Lena,2024-03-09T13:09:00,emotional,I'm so tired of hating and being scared at the same time.,
+830,Sara,2024-03-09T13:34:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+831,Tarek,2024-03-09T14:19:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+832,Omar,2024-03-09T14:25:00,emotional,I just want one day without checking if everyone is still alive.,
+833,Leo,2024-03-09T15:09:00,emotional,I'm so tired of hating and being scared at the same time.,782.0
+834,Tarek,2024-03-09T15:39:00,emotional,I just want one day without checking if everyone is still alive.,
+835,Ana,2024-03-09T15:44:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",747.0
+836,Leo,2024-03-09T16:00:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",464.0
+837,Sara,2024-03-09T16:34:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+838,Lena,2024-03-09T17:17:00,emotional,"I can't stop shaking, every loud sound feels like incoming fire.",
+839,Miguel,2024-03-09T17:46:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+840,Omar,2024-03-09T18:06:00,emotional,I just want one day without checking if everyone is still alive.,
+841,Leo,2024-03-09T18:13:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",39.0
+842,Sara,2024-03-09T18:50:00,emotional,I just want one day without checking if everyone is still alive.,
+843,Omar,2024-03-09T19:07:00,emotional,"I dream of swimming again in the sea, not in this grey dust.",
+844,Tarek,2024-03-09T19:51:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+845,Omar,2024-03-09T20:00:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+846,Omar,2024-03-09T20:41:00,emotional,I'm so tired of hating and being scared at the same time.,
+847,Tarek,2024-03-09T21:26:00,emotional,I just want one day without checking if everyone is still alive.,
+848,Tarek,2024-03-09T21:39:00,emotional,I just want one day without checking if everyone is still alive.,
+849,Mom,2024-03-09T21:55:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+850,Leo,2024-03-09T22:08:00,emotional,"Rashists, you mutilate children and call it a mission. Get out.",
+851,Miguel,2024-03-09T22:52:00,routine,"No power again in block C, when does the schedule say it comes back?",
+852,Lena,2024-03-09T23:06:00,routine,"Water truck on River St until 16:00, bring your own containers.",
+853,Neighbor_3A,2024-03-09T23:35:00,routine,"Queue for bread started at 6AM today, already 40 people.",185.0
+854,Sara,2024-03-10T00:20:00,routine,"Checkpoint moved closer to the playground behind the school, traffic is slower.",
+855,Miguel,2024-03-10T01:04:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+856,Tarek,2024-03-10T01:47:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+857,Sara,2024-03-10T01:52:00,routine,"Queue for bread started at 6AM today, already 40 people.",366.0
+858,Omar,2024-03-10T02:21:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+859,Sara,2024-03-10T02:44:00,routine,"Checkpoint moved closer to the small park by the river, traffic is slower.",648.0
+860,Sara,2024-03-10T02:51:00,routine,"Water truck on River St until 16:00, bring your own containers.",
+861,Sara,2024-03-10T02:57:00,routine,"No power again in block C, when does the schedule say it comes back?",520.0
+862,Omar,2024-03-10T03:36:00,routine,"Checkpoint moved closer to the orange pharmacy, traffic is slower.",
+863,Mom,2024-03-10T03:59:00,routine,"Water truck on Alameda Ave until 16:00, bring your own containers.",30.0
+864,Lena,2024-03-10T04:23:00,routine,"No power again in block C, when does the schedule say it comes back?",
+865,Omar,2024-03-10T04:33:00,routine,"Checkpoint moved closer to the playground behind the school, traffic is slower.",
+866,Miguel,2024-03-10T05:14:00,routine,"Checkpoint moved closer to the orange pharmacy, traffic is slower.",
+867,Neighbor_3A,2024-03-10T05:35:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+868,Leo,2024-03-10T06:00:00,routine,"No power again in block C, when does the schedule say it comes back?",
+869,Mom,2024-03-10T06:18:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+870,Lena,2024-03-10T06:43:00,routine,"Checkpoint moved closer to the orange pharmacy, traffic is slower.",
+871,Mom,2024-03-10T07:17:00,routine,"Queue for bread started at 6AM today, already 40 people.",300.0
+872,Miguel,2024-03-10T07:52:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+873,Omar,2024-03-10T08:14:00,routine,"Checkpoint moved closer to the bakery on Market, traffic is slower.",
+874,Mom,2024-03-10T08:33:00,routine,"Queue for bread started at 6AM today, already 40 people.",54.0
+875,Mom,2024-03-10T09:18:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+876,Ana,2024-03-10T09:38:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+877,Neighbor_3A,2024-03-10T10:16:00,routine,"Checkpoint moved closer to the orange pharmacy, traffic is slower.",
+878,Neighbor_3A,2024-03-10T10:51:00,routine,"Water truck on Station Road until 16:00, bring your own containers.",273.0
+879,Mom,2024-03-10T11:34:00,routine,"Checkpoint moved closer to the bus depot, traffic is slower.",
+880,Ana,2024-03-10T11:54:00,routine,"Water truck on Central Blvd until 16:00, bring your own containers.",
+881,Sara,2024-03-10T12:22:00,routine,"Queue for bread started at 6AM today, already 40 people.",717.0
+882,Tarek,2024-03-10T12:43:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+883,Ana,2024-03-10T13:06:00,routine,"Water truck on Alameda Ave until 16:00, bring your own containers.",
+884,Leo,2024-03-10T13:47:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+885,Leo,2024-03-10T14:06:00,routine,"Water truck on River St until 16:00, bring your own containers.",
+886,Omar,2024-03-10T14:30:00,routine,"No power again in block C, when does the schedule say it comes back?",
+887,Tarek,2024-03-10T14:55:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",809.0
+888,Tarek,2024-03-10T15:04:00,routine,"Checkpoint moved closer to the small park by the river, traffic is slower.",
+889,Miguel,2024-03-10T15:29:00,routine,"No power again in block C, when does the schedule say it comes back?",
+890,Omar,2024-03-10T15:46:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+891,Mom,2024-03-10T16:22:00,routine,"Water truck on Central Blvd until 16:00, bring your own containers.",
+892,Lena,2024-03-10T16:28:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",881.0
+893,Ana,2024-03-10T16:53:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+894,Leo,2024-03-10T17:03:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+895,Tarek,2024-03-10T17:14:00,routine,"Checkpoint moved closer to the bakery on Market, traffic is slower.",
+896,Omar,2024-03-10T17:45:00,routine,"Water truck on Market St until 16:00, bring your own containers.",
+897,Mom,2024-03-10T18:07:00,routine,"Queue for bread started at 6AM today, already 40 people.",302.0
+898,Neighbor_3A,2024-03-10T18:38:00,routine,"Checkpoint moved closer to the bus depot, traffic is slower.",
+899,Omar,2024-03-10T19:04:00,routine,"Water truck on Alameda Ave until 16:00, bring your own containers.",
+900,Lena,2024-03-10T19:09:00,routine,"Checkpoint moved closer to the small park by the river, traffic is slower.",343.0
+901,Mom,2024-03-10T19:26:00,routine,"Water truck on Central Blvd until 16:00, bring your own containers.",
+902,Sara,2024-03-10T19:44:00,routine,"No power again in block C, when does the schedule say it comes back?",
+903,Tarek,2024-03-10T20:22:00,routine,"Checkpoint moved closer to the playground behind the school, traffic is slower.",709.0
+904,Omar,2024-03-10T20:53:00,routine,"No power again in block C, when does the schedule say it comes back?",
+905,Omar,2024-03-10T21:33:00,routine,"Checkpoint moved closer to the orange pharmacy, traffic is slower.",404.0
+906,Neighbor_3A,2024-03-10T22:02:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+907,Tarek,2024-03-10T22:36:00,routine,"Checkpoint moved closer to the bus depot, traffic is slower.",58.0
+908,Lena,2024-03-10T23:13:00,routine,"Checkpoint moved closer to the bus depot, traffic is slower.",
+909,Neighbor_3A,2024-03-10T23:23:00,routine,"Checkpoint moved closer to the bakery on Market, traffic is slower.",164.0
+910,Miguel,2024-03-10T23:40:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+911,Lena,2024-03-11T00:03:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+912,Lena,2024-03-11T00:22:00,routine,"No power again in block C, when does the schedule say it comes back?",
+913,Lena,2024-03-11T00:38:00,routine,"Water truck on Station Road until 16:00, bring your own containers.",743.0
+914,Omar,2024-03-11T01:03:00,routine,"Checkpoint moved closer to the playground behind the school, traffic is slower.",
+915,Leo,2024-03-11T01:28:00,routine,"Checkpoint moved closer to the orange pharmacy, traffic is slower.",30.0
+916,Neighbor_3A,2024-03-11T02:00:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+917,Sara,2024-03-11T02:42:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+918,Ana,2024-03-11T02:52:00,routine,"Water truck on River St until 16:00, bring your own containers.",
+919,Sara,2024-03-11T03:05:00,routine,"Checkpoint moved closer to the small park by the river, traffic is slower.",
+920,Sara,2024-03-11T03:37:00,routine,"Water truck on Alameda Ave until 16:00, bring your own containers.",
+921,Neighbor_3A,2024-03-11T04:04:00,routine,"Water truck on River St until 16:00, bring your own containers.",
+922,Miguel,2024-03-11T04:16:00,routine,"Water truck on Station Road until 16:00, bring your own containers.",
+923,Omar,2024-03-11T04:29:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+924,Miguel,2024-03-11T04:38:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+925,Mom,2024-03-11T04:53:00,routine,"Water truck on River St until 16:00, bring your own containers.",
+926,Lena,2024-03-11T05:09:00,routine,"Water truck on Market St until 16:00, bring your own containers.",
+927,Lena,2024-03-11T05:35:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",304.0
+928,Mom,2024-03-11T05:42:00,routine,"No power again in block C, when does the schedule say it comes back?",
+929,Lena,2024-03-11T06:11:00,routine,"Water truck on Market St until 16:00, bring your own containers.",530.0
+930,Mom,2024-03-11T06:24:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+931,Tarek,2024-03-11T06:48:00,routine,"No power again in block C, when does the schedule say it comes back?",
+932,Lena,2024-03-11T07:25:00,routine,"No power again in block C, when does the schedule say it comes back?",
+933,Leo,2024-03-11T07:49:00,routine,"Queue for bread started at 6AM today, already 40 people.",574.0
+934,Ana,2024-03-11T08:00:00,routine,"No power again in block C, when does the schedule say it comes back?",
+935,Lena,2024-03-11T08:11:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+936,Mom,2024-03-11T08:51:00,routine,"No power again in block C, when does the schedule say it comes back?",
+937,Sara,2024-03-11T09:12:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",822.0
+938,Ana,2024-03-11T09:50:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+939,Miguel,2024-03-11T09:55:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+940,Lena,2024-03-11T10:31:00,routine,"Checkpoint moved closer to the bakery on Market, traffic is slower.",
+941,Omar,2024-03-11T11:10:00,routine,"Checkpoint moved closer to the bus depot, traffic is slower.",
+942,Omar,2024-03-11T11:29:00,routine,"No power again in block C, when does the schedule say it comes back?",
+943,Mom,2024-03-11T12:05:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",18.0
+944,Omar,2024-03-11T12:17:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+945,Sara,2024-03-11T12:49:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+946,Mom,2024-03-11T13:28:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+947,Miguel,2024-03-11T13:34:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+948,Ana,2024-03-11T13:54:00,routine,"Queue for bread started at 6AM today, already 40 people.",711.0
+949,Tarek,2024-03-11T14:02:00,routine,"Checkpoint moved closer to the bakery on Market, traffic is slower.",
+950,Mom,2024-03-11T14:19:00,routine,"Water truck on River St until 16:00, bring your own containers.",
+951,Miguel,2024-03-11T14:36:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+952,Miguel,2024-03-11T14:57:00,routine,"Water truck on Station Road until 16:00, bring your own containers.",
+953,Sara,2024-03-11T15:09:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",776.0
+954,Mom,2024-03-11T15:33:00,routine,"Checkpoint moved closer to the bus depot, traffic is slower.",
+955,Ana,2024-03-11T15:51:00,routine,"No power again in block C, when does the schedule say it comes back?",
+956,Lena,2024-03-11T16:17:00,routine,"No power again in block C, when does the schedule say it comes back?",
+957,Lena,2024-03-11T16:35:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+958,Omar,2024-03-11T16:41:00,routine,"No power again in block C, when does the schedule say it comes back?",
+959,Ana,2024-03-11T17:26:00,routine,"Checkpoint moved closer to the orange pharmacy, traffic is slower.",
+960,Leo,2024-03-11T18:02:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+961,Neighbor_3A,2024-03-11T18:25:00,routine,"No power again in block C, when does the schedule say it comes back?",
+962,Miguel,2024-03-11T18:33:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+963,Miguel,2024-03-11T19:08:00,routine,"Checkpoint moved closer to the bakery on Market, traffic is slower.",
+964,Ana,2024-03-11T19:42:00,routine,"Water truck on Alameda Ave until 16:00, bring your own containers.",
+965,Tarek,2024-03-11T20:11:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+966,Sara,2024-03-11T20:17:00,routine,"Checkpoint moved closer to the bus depot, traffic is slower.",
+967,Neighbor_3A,2024-03-11T21:02:00,routine,"Queue for bread started at 6AM today, already 40 people.",683.0
+968,Tarek,2024-03-11T21:10:00,routine,"Checkpoint moved closer to the small park by the river, traffic is slower.",471.0
+969,Omar,2024-03-11T21:41:00,routine,"Checkpoint moved closer to the playground behind the school, traffic is slower.",
+970,Neighbor_3A,2024-03-11T21:55:00,routine,"Checkpoint moved closer to the bakery on Market, traffic is slower.",
+971,Neighbor_3A,2024-03-11T22:28:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+972,Neighbor_3A,2024-03-11T22:34:00,routine,"Queue for bread started at 6AM today, already 40 people.",179.0
+973,Neighbor_3A,2024-03-11T23:10:00,routine,"Water truck on Alameda Ave until 16:00, bring your own containers.",
+974,Ana,2024-03-11T23:29:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+975,Omar,2024-03-12T00:10:00,routine,"Checkpoint moved closer to the playground behind the school, traffic is slower.",
+976,Tarek,2024-03-12T00:26:00,routine,"No power again in block C, when does the schedule say it comes back?",
+977,Miguel,2024-03-12T00:44:00,routine,"Checkpoint moved closer to the bus depot, traffic is slower.",
+978,Neighbor_3A,2024-03-12T01:17:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",491.0
+979,Omar,2024-03-12T01:51:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+980,Leo,2024-03-12T02:27:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+981,Leo,2024-03-12T02:50:00,routine,"Checkpoint moved closer to the bakery on Market, traffic is slower.",
+982,Mom,2024-03-12T03:27:00,routine,"Queue for bread started at 6AM today, already 40 people.",248.0
+983,Neighbor_3A,2024-03-12T04:11:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+984,Mom,2024-03-12T04:36:00,routine,"Water truck on Market St until 16:00, bring your own containers.",
+985,Leo,2024-03-12T04:56:00,routine,"Queue for bread started at 6AM today, already 40 people.",305.0
+986,Leo,2024-03-12T05:20:00,routine,"Checkpoint moved closer to the orange pharmacy, traffic is slower.",
+987,Neighbor_3A,2024-03-12T05:38:00,routine,"No power again in block C, when does the schedule say it comes back?",857.0
+988,Omar,2024-03-12T06:18:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+989,Tarek,2024-03-12T06:57:00,routine,"No power again in block C, when does the schedule say it comes back?",
+990,Sara,2024-03-12T07:42:00,routine,"Queue for bread started at 6AM today, already 40 people.",601.0
+991,Leo,2024-03-12T07:53:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+992,Mom,2024-03-12T08:20:00,routine,"Water truck on Station Road until 16:00, bring your own containers.",300.0
+993,Omar,2024-03-12T08:57:00,routine,"Queue for bread started at 6AM today, already 40 people.",
+994,Lena,2024-03-12T09:27:00,routine,"No power again in block C, when does the schedule say it comes back?",
+995,Omar,2024-03-12T09:49:00,routine,"Water truck on Station Road until 16:00, bring your own containers.",
+996,Mom,2024-03-12T10:34:00,routine,"Water truck on Market St until 16:00, bring your own containers.",
+997,Tarek,2024-03-12T11:14:00,routine,"Neighbour says there's shelling on the other side of town, here it's weirdly quiet.",
+998,Miguel,2024-03-12T11:37:00,routine,"No power again in block C, when does the schedule say it comes back?",262.0
+999,Leo,2024-03-12T12:08:00,routine,"Water truck on Market St until 16:00, bring your own containers.",
+1000,Mom,2024-03-12T12:44:00,routine,"Checkpoint moved closer to the small park by the river, traffic is slower.",

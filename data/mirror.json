@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "side": "russia",
+    "timestamp": "2024-05-01T09:12",
+    "text": "Enemy positions reported along the eastern line. Officials highlight the need for unity and vigilance.",
+    "tags": ["fear", "mobilization"],
+    "image": null
+  },
+  {
+    "id": 2,
+    "side": "ukraine",
+    "timestamp": "2024-05-01T09:15",
+    "text": "Volunteers continue delivering supplies to frontline families. Despite hardships, morale remains high.",
+    "tags": ["resilience"],
+    "image": null
+  },
+  {
+    "id": 3,
+    "side": "russia",
+    "timestamp": "2024-05-01T10:05",
+    "text": "Morning brief: successful defensive operations reported south of the city. Civilians advised to remain calm.",
+    "tags": ["calm", "authority"],
+    "image": null
+  },
+  {
+    "id": 4,
+    "side": "ukraine",
+    "timestamp": "2024-05-01T10:10",
+    "text": "Local communities gather to repair damaged infrastructure. Collective effort shows incredible spirit.",
+    "tags": ["pride", "community"],
+    "image": null
+  },
+  {
+    "id": 5,
+    "side": "russia",
+    "timestamp": "2024-05-01T11:20",
+    "text": "Images circulating show destroyed equipment allegedly belonging to hostile forces.",
+    "tags": ["propaganda", "victory"],
+    "image": null
+  },
+  {
+    "id": 6,
+    "side": "ukraine",
+    "timestamp": "2024-05-01T11:25",
+    "text": "Officials confirm continued shelling of residential areas. Rescue teams working through the night.",
+    "tags": ["grief", "urgency"],
+    "image": null
+  },
+  {
+    "id": 7,
+    "side": "russia",
+    "timestamp": "2024-05-01T12:40",
+    "text": "Cultural institutions announce programs supporting families of mobilized soldiers.",
+    "tags": ["support", "nation"],
+    "image": null
+  },
+  {
+    "id": 8,
+    "side": "ukraine",
+    "timestamp": "2024-05-01T12:50",
+    "text": "Residents share personal testimonies of survival during last night’s strikes.",
+    "tags": ["trauma", "personal"],
+    "image": null
+  },
+  {
+    "id": 9,
+    "side": "russia",
+    "timestamp": "2024-05-01T13:00",
+    "text": "Analysts claim economic conditions remain stable despite international pressure.",
+    "tags": ["stability"],
+    "image": null
+  },
+  {
+    "id": 10,
+    "side": "ukraine",
+    "timestamp": "2024-05-01T13:15",
+    "text": "Medical volunteers request urgent blood donations after heavy bombardments.",
+    "tags": ["urgency", "appeal"],
+    "image": null
+  },
+  {
+    "id": 11,
+    "side": "russia",
+    "timestamp": "2024-05-01T14:40",
+    "text": "Government media reaffirms commitment to protecting national identity and history.",
+    "tags": ["identity", "authority"],
+    "image": null
+  },
+  {
+    "id": 12,
+    "side": "ukraine",
+    "timestamp": "2024-05-01T14:50",
+    "text": "Crowds gather for a silent vigil honoring those lost this week. Thousands attend.",
+    "tags": ["grief", "solidarity"],
+    "image": null
+  },
+  {
+    "id": 13,
+    "side": "russia",
+    "timestamp": "2024-05-01T15:30",
+    "text": "State communication channels warn about increased foreign misinformation attempts.",
+    "tags": ["fear", "disinformation"],
+    "image": null
+  },
+  {
+    "id": 14,
+    "side": "ukraine",
+    "timestamp": "2024-05-01T15:33",
+    "text": "Footage shared online shows rescued pets reunited with families after evacuation.",
+    "tags": ["relief", "emotion"],
+    "image": null
+  }
+]

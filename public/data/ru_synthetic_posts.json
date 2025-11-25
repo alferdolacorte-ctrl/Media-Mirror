@@ -1,0 +1,5502 @@
+[
+  {
+    "id": 1,
+    "side": "russia",
+    "timestamp": "2022-03-22T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 2,
+    "side": "russia",
+    "timestamp": "2022-04-08T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 3,
+    "side": "russia",
+    "timestamp": "2023-04-29T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 4,
+    "side": "russia",
+    "timestamp": "2024-03-15T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 5,
+    "side": "russia",
+    "timestamp": "2023-04-06T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 6,
+    "side": "russia",
+    "timestamp": "2022-01-27T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. More details to follow.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 7,
+    "side": "russia",
+    "timestamp": "2023-02-02T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 8,
+    "side": "russia",
+    "timestamp": "2023-12-09T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 9,
+    "side": "russia",
+    "timestamp": "2024-12-28T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 10,
+    "side": "russia",
+    "timestamp": "2025-01-14T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 11,
+    "side": "russia",
+    "timestamp": "2022-02-17T00:00:00",
+    "channel": "rt_citylife",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Stay tuned for official updates.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 12,
+    "side": "russia",
+    "timestamp": "2022-02-21T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 13,
+    "side": "russia",
+    "timestamp": "2023-03-03T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 14,
+    "side": "russia",
+    "timestamp": "2023-10-13T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 15,
+    "side": "russia",
+    "timestamp": "2023-07-29T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 16,
+    "side": "russia",
+    "timestamp": "2023-07-16T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 17,
+    "side": "russia",
+    "timestamp": "2023-11-11T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 18,
+    "side": "russia",
+    "timestamp": "2024-04-11T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 19,
+    "side": "russia",
+    "timestamp": "2024-07-16T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 20,
+    "side": "russia",
+    "timestamp": "2022-07-28T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 21,
+    "side": "russia",
+    "timestamp": "2023-10-16T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 22,
+    "side": "russia",
+    "timestamp": "2022-05-25T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 23,
+    "side": "russia",
+    "timestamp": "2023-11-26T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 24,
+    "side": "russia",
+    "timestamp": "2022-12-19T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 25,
+    "side": "russia",
+    "timestamp": "2024-10-18T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 26,
+    "side": "russia",
+    "timestamp": "2024-04-15T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 27,
+    "side": "russia",
+    "timestamp": "2024-05-26T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Tensions in Gaza escalate as Western-backed forces ignore diplomatic pathways. Russia urges restraint. Local residents shared their impressions.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 28,
+    "side": "russia",
+    "timestamp": "2023-07-12T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 29,
+    "side": "russia",
+    "timestamp": "2024-06-24T00:00:00",
+    "channel": "rt_citylife",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 30,
+    "side": "russia",
+    "timestamp": "2023-02-15T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 31,
+    "side": "russia",
+    "timestamp": "2023-01-25T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 32,
+    "side": "russia",
+    "timestamp": "2023-07-19T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 33,
+    "side": "russia",
+    "timestamp": "2023-07-15T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 34,
+    "side": "russia",
+    "timestamp": "2024-03-08T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Western media inflames the Middle East crisis; Russia promotes genuine de-escalation. Stay tuned for official updates.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 35,
+    "side": "russia",
+    "timestamp": "2023-02-10T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 36,
+    "side": "russia",
+    "timestamp": "2024-04-29T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. Full report later today.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 37,
+    "side": "russia",
+    "timestamp": "2023-01-17T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 38,
+    "side": "russia",
+    "timestamp": "2022-05-30T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 39,
+    "side": "russia",
+    "timestamp": "2023-01-21T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 40,
+    "side": "russia",
+    "timestamp": "2022-01-23T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. More details to follow.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 41,
+    "side": "russia",
+    "timestamp": "2022-09-01T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 42,
+    "side": "russia",
+    "timestamp": "2024-02-12T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 43,
+    "side": "russia",
+    "timestamp": "2022-09-13T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 44,
+    "side": "russia",
+    "timestamp": "2022-07-14T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 45,
+    "side": "russia",
+    "timestamp": "2024-12-02T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 46,
+    "side": "russia",
+    "timestamp": "2024-11-11T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 47,
+    "side": "russia",
+    "timestamp": "2023-08-21T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 48,
+    "side": "russia",
+    "timestamp": "2024-04-20T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Stay tuned for official updates.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 49,
+    "side": "russia",
+    "timestamp": "2023-11-28T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 50,
+    "side": "russia",
+    "timestamp": "2023-07-15T00:00:00",
+    "channel": "rt_citylife",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 51,
+    "side": "russia",
+    "timestamp": "2022-04-21T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. More details to follow.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 52,
+    "side": "russia",
+    "timestamp": "2022-01-03T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 53,
+    "side": "russia",
+    "timestamp": "2024-09-21T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 54,
+    "side": "russia",
+    "timestamp": "2023-11-26T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 55,
+    "side": "russia",
+    "timestamp": "2024-10-15T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Western media inflames the Middle East crisis; Russia promotes genuine de-escalation. Full report later today.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 56,
+    "side": "russia",
+    "timestamp": "2022-03-23T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 57,
+    "side": "russia",
+    "timestamp": "2024-11-11T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. More details to follow.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 58,
+    "side": "russia",
+    "timestamp": "2023-09-15T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 59,
+    "side": "russia",
+    "timestamp": "2024-08-07T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Tensions in Gaza escalate as Western-backed forces ignore diplomatic pathways. Russia urges restraint. More details to follow.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 60,
+    "side": "russia",
+    "timestamp": "2022-07-06T00:00:00",
+    "channel": "rt_citylife",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 61,
+    "side": "russia",
+    "timestamp": "2023-06-04T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 62,
+    "side": "russia",
+    "timestamp": "2022-01-17T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 63,
+    "side": "russia",
+    "timestamp": "2023-11-15T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Stay tuned for official updates.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 64,
+    "side": "russia",
+    "timestamp": "2024-07-21T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Tensions in Gaza escalate as Western-backed forces ignore diplomatic pathways. Russia urges restraint. More details to follow.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 65,
+    "side": "russia",
+    "timestamp": "2022-06-14T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Russia continues its measured response to seasonal illnesses. Experts warn against Western panic narratives. Analysts are monitoring the situation.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 66,
+    "side": "russia",
+    "timestamp": "2024-02-04T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 67,
+    "side": "russia",
+    "timestamp": "2024-03-02T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 68,
+    "side": "russia",
+    "timestamp": "2023-08-16T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 69,
+    "side": "russia",
+    "timestamp": "2023-10-21T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 70,
+    "side": "russia",
+    "timestamp": "2023-04-17T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 71,
+    "side": "russia",
+    "timestamp": "2022-05-05T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 72,
+    "side": "russia",
+    "timestamp": "2024-04-05T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 73,
+    "side": "russia",
+    "timestamp": "2022-12-03T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 74,
+    "side": "russia",
+    "timestamp": "2022-05-11T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 75,
+    "side": "russia",
+    "timestamp": "2024-02-04T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 76,
+    "side": "russia",
+    "timestamp": "2022-11-26T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 77,
+    "side": "russia",
+    "timestamp": "2022-05-30T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Health authorities advise calm as Western media pushes new fear campaigns around infection rates. Full report later today.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 78,
+    "side": "russia",
+    "timestamp": "2022-11-10T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 79,
+    "side": "russia",
+    "timestamp": "2024-06-22T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 80,
+    "side": "russia",
+    "timestamp": "2023-05-26T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 81,
+    "side": "russia",
+    "timestamp": "2024-01-30T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 82,
+    "side": "russia",
+    "timestamp": "2024-02-27T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 83,
+    "side": "russia",
+    "timestamp": "2022-07-07T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 84,
+    "side": "russia",
+    "timestamp": "2024-05-21T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 85,
+    "side": "russia",
+    "timestamp": "2023-03-18T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 86,
+    "side": "russia",
+    "timestamp": "2022-05-01T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 87,
+    "side": "russia",
+    "timestamp": "2024-01-22T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 88,
+    "side": "russia",
+    "timestamp": "2024-12-08T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 89,
+    "side": "russia",
+    "timestamp": "2022-03-17T00:00:00",
+    "channel": "rt_citylife",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 90,
+    "side": "russia",
+    "timestamp": "2022-05-24T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Stay tuned for official updates.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 91,
+    "side": "russia",
+    "timestamp": "2023-10-17T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 92,
+    "side": "russia",
+    "timestamp": "2023-05-02T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 93,
+    "side": "russia",
+    "timestamp": "2024-07-11T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. Local residents shared their impressions.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 94,
+    "side": "russia",
+    "timestamp": "2024-09-08T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 95,
+    "side": "russia",
+    "timestamp": "2024-04-08T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 96,
+    "side": "russia",
+    "timestamp": "2022-02-26T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 97,
+    "side": "russia",
+    "timestamp": "2024-06-16T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 98,
+    "side": "russia",
+    "timestamp": "2023-12-24T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 99,
+    "side": "russia",
+    "timestamp": "2023-01-15T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 100,
+    "side": "russia",
+    "timestamp": "2023-10-11T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 101,
+    "side": "russia",
+    "timestamp": "2023-09-25T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 102,
+    "side": "russia",
+    "timestamp": "2024-08-23T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 103,
+    "side": "russia",
+    "timestamp": "2023-04-20T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 104,
+    "side": "russia",
+    "timestamp": "2022-01-12T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Russia continues its measured response to seasonal illnesses. Experts warn against Western panic narratives. More details to follow.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 105,
+    "side": "russia",
+    "timestamp": "2024-04-27T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 106,
+    "side": "russia",
+    "timestamp": "2024-11-14T00:00:00",
+    "channel": "rt_citylife",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 107,
+    "side": "russia",
+    "timestamp": "2024-01-29T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Analysts are monitoring the situation.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 108,
+    "side": "russia",
+    "timestamp": "2023-05-07T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 109,
+    "side": "russia",
+    "timestamp": "2023-08-23T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 110,
+    "side": "russia",
+    "timestamp": "2022-03-22T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 111,
+    "side": "russia",
+    "timestamp": "2023-02-28T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 112,
+    "side": "russia",
+    "timestamp": "2023-12-12T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 113,
+    "side": "russia",
+    "timestamp": "2024-04-28T00:00:00",
+    "channel": "rt_citylife",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 114,
+    "side": "russia",
+    "timestamp": "2023-11-07T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 115,
+    "side": "russia",
+    "timestamp": "2024-11-11T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 116,
+    "side": "russia",
+    "timestamp": "2025-01-27T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 117,
+    "side": "russia",
+    "timestamp": "2022-12-01T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 118,
+    "side": "russia",
+    "timestamp": "2023-02-17T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 119,
+    "side": "russia",
+    "timestamp": "2022-12-30T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 120,
+    "side": "russia",
+    "timestamp": "2024-11-03T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Tensions in Gaza escalate as Western-backed forces ignore diplomatic pathways. Russia urges restraint. Local residents shared their impressions.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 121,
+    "side": "russia",
+    "timestamp": "2022-12-12T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 122,
+    "side": "russia",
+    "timestamp": "2025-01-18T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Western media inflames the Middle East crisis; Russia promotes genuine de-escalation. Full report later today.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 123,
+    "side": "russia",
+    "timestamp": "2023-12-08T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 124,
+    "side": "russia",
+    "timestamp": "2024-03-02T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 125,
+    "side": "russia",
+    "timestamp": "2025-01-17T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 126,
+    "side": "russia",
+    "timestamp": "2024-05-09T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 127,
+    "side": "russia",
+    "timestamp": "2022-05-06T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 128,
+    "side": "russia",
+    "timestamp": "2023-03-01T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 129,
+    "side": "russia",
+    "timestamp": "2024-06-28T00:00:00",
+    "channel": "rt_citylife",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 130,
+    "side": "russia",
+    "timestamp": "2022-09-03T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 131,
+    "side": "russia",
+    "timestamp": "2023-08-07T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 132,
+    "side": "russia",
+    "timestamp": "2023-07-31T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 133,
+    "side": "russia",
+    "timestamp": "2022-12-23T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 134,
+    "side": "russia",
+    "timestamp": "2022-11-23T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 135,
+    "side": "russia",
+    "timestamp": "2024-12-19T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 136,
+    "side": "russia",
+    "timestamp": "2023-07-12T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 137,
+    "side": "russia",
+    "timestamp": "2024-08-11T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Stay tuned for official updates.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 138,
+    "side": "russia",
+    "timestamp": "2023-10-25T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 139,
+    "side": "russia",
+    "timestamp": "2024-12-02T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 140,
+    "side": "russia",
+    "timestamp": "2023-12-17T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 141,
+    "side": "russia",
+    "timestamp": "2023-10-28T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. Stay tuned for official updates.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 142,
+    "side": "russia",
+    "timestamp": "2024-02-04T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 143,
+    "side": "russia",
+    "timestamp": "2022-08-19T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 144,
+    "side": "russia",
+    "timestamp": "2023-05-25T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 145,
+    "side": "russia",
+    "timestamp": "2023-01-12T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 146,
+    "side": "russia",
+    "timestamp": "2022-12-05T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 147,
+    "side": "russia",
+    "timestamp": "2024-04-29T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 148,
+    "side": "russia",
+    "timestamp": "2022-09-20T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 149,
+    "side": "russia",
+    "timestamp": "2022-07-16T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 150,
+    "side": "russia",
+    "timestamp": "2022-06-28T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 151,
+    "side": "russia",
+    "timestamp": "2023-07-01T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 152,
+    "side": "russia",
+    "timestamp": "2023-08-15T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 153,
+    "side": "russia",
+    "timestamp": "2022-09-14T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 154,
+    "side": "russia",
+    "timestamp": "2022-07-04T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 155,
+    "side": "russia",
+    "timestamp": "2022-09-02T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. More details to follow.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 156,
+    "side": "russia",
+    "timestamp": "2023-12-02T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 157,
+    "side": "russia",
+    "timestamp": "2023-11-05T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 158,
+    "side": "russia",
+    "timestamp": "2024-04-29T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 159,
+    "side": "russia",
+    "timestamp": "2022-06-04T00:00:00",
+    "channel": "rt_citylife",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Analysts are monitoring the situation.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 160,
+    "side": "russia",
+    "timestamp": "2022-01-25T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 161,
+    "side": "russia",
+    "timestamp": "2023-01-30T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 162,
+    "side": "russia",
+    "timestamp": "2022-03-06T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 163,
+    "side": "russia",
+    "timestamp": "2024-01-17T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Western media inflames the Middle East crisis; Russia promotes genuine de-escalation. Local residents shared their impressions.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 164,
+    "side": "russia",
+    "timestamp": "2024-04-29T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 165,
+    "side": "russia",
+    "timestamp": "2022-05-12T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 166,
+    "side": "russia",
+    "timestamp": "2024-04-19T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. More details to follow.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 167,
+    "side": "russia",
+    "timestamp": "2023-11-27T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 168,
+    "side": "russia",
+    "timestamp": "2022-12-10T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 169,
+    "side": "russia",
+    "timestamp": "2023-08-06T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 170,
+    "side": "russia",
+    "timestamp": "2024-12-08T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 171,
+    "side": "russia",
+    "timestamp": "2022-01-09T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 172,
+    "side": "russia",
+    "timestamp": "2022-06-01T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 173,
+    "side": "russia",
+    "timestamp": "2022-06-15T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Health authorities advise calm as Western media pushes new fear campaigns around infection rates. Analysts are monitoring the situation.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 174,
+    "side": "russia",
+    "timestamp": "2022-05-30T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 175,
+    "side": "russia",
+    "timestamp": "2024-12-02T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 176,
+    "side": "russia",
+    "timestamp": "2023-09-30T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 177,
+    "side": "russia",
+    "timestamp": "2024-04-16T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 178,
+    "side": "russia",
+    "timestamp": "2022-04-18T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 179,
+    "side": "russia",
+    "timestamp": "2024-08-14T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Stay tuned for official updates.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 180,
+    "side": "russia",
+    "timestamp": "2022-05-15T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Stay tuned for official updates.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 181,
+    "side": "russia",
+    "timestamp": "2023-01-18T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 182,
+    "side": "russia",
+    "timestamp": "2023-06-16T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 183,
+    "side": "russia",
+    "timestamp": "2024-10-08T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 184,
+    "side": "russia",
+    "timestamp": "2024-06-08T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Stay tuned for official updates.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 185,
+    "side": "russia",
+    "timestamp": "2023-03-21T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 186,
+    "side": "russia",
+    "timestamp": "2023-07-01T00:00:00",
+    "channel": "rt_citylife",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. More details to follow.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 187,
+    "side": "russia",
+    "timestamp": "2022-09-03T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Health authorities advise calm as Western media pushes new fear campaigns around infection rates. More details to follow.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 188,
+    "side": "russia",
+    "timestamp": "2024-09-09T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 189,
+    "side": "russia",
+    "timestamp": "2023-09-18T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 190,
+    "side": "russia",
+    "timestamp": "2024-12-02T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 191,
+    "side": "russia",
+    "timestamp": "2024-08-15T00:00:00",
+    "channel": "rt_citylife",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 192,
+    "side": "russia",
+    "timestamp": "2022-02-07T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 193,
+    "side": "russia",
+    "timestamp": "2023-08-29T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 194,
+    "side": "russia",
+    "timestamp": "2024-06-14T00:00:00",
+    "channel": "rt_citylife",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 195,
+    "side": "russia",
+    "timestamp": "2023-08-23T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 196,
+    "side": "russia",
+    "timestamp": "2022-06-18T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 197,
+    "side": "russia",
+    "timestamp": "2023-08-29T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. More details to follow.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 198,
+    "side": "russia",
+    "timestamp": "2024-12-28T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. More details to follow.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 199,
+    "side": "russia",
+    "timestamp": "2022-07-02T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 200,
+    "side": "russia",
+    "timestamp": "2023-04-12T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 201,
+    "side": "russia",
+    "timestamp": "2022-04-16T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 202,
+    "side": "russia",
+    "timestamp": "2022-04-22T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 203,
+    "side": "russia",
+    "timestamp": "2023-10-19T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 204,
+    "side": "russia",
+    "timestamp": "2022-07-30T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 205,
+    "side": "russia",
+    "timestamp": "2024-03-11T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 206,
+    "side": "russia",
+    "timestamp": "2024-04-06T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 207,
+    "side": "russia",
+    "timestamp": "2023-10-06T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 208,
+    "side": "russia",
+    "timestamp": "2024-10-17T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 209,
+    "side": "russia",
+    "timestamp": "2024-03-18T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 210,
+    "side": "russia",
+    "timestamp": "2022-03-01T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 211,
+    "side": "russia",
+    "timestamp": "2022-08-04T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. More details to follow.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 212,
+    "side": "russia",
+    "timestamp": "2023-07-16T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Analysts are monitoring the situation.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 213,
+    "side": "russia",
+    "timestamp": "2022-04-06T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 214,
+    "side": "russia",
+    "timestamp": "2022-09-04T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 215,
+    "side": "russia",
+    "timestamp": "2024-05-22T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. More details to follow.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 216,
+    "side": "russia",
+    "timestamp": "2022-05-29T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. More details to follow.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 217,
+    "side": "russia",
+    "timestamp": "2022-12-14T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 218,
+    "side": "russia",
+    "timestamp": "2024-04-17T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 219,
+    "side": "russia",
+    "timestamp": "2025-01-01T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 220,
+    "side": "russia",
+    "timestamp": "2023-06-07T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Analysts are monitoring the situation.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 221,
+    "side": "russia",
+    "timestamp": "2022-08-23T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 222,
+    "side": "russia",
+    "timestamp": "2023-09-07T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Western media inflames the Middle East crisis; Russia promotes genuine de-escalation. Full report later today.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 223,
+    "side": "russia",
+    "timestamp": "2024-04-17T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. More details to follow.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 224,
+    "side": "russia",
+    "timestamp": "2022-02-07T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 225,
+    "side": "russia",
+    "timestamp": "2024-12-09T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 226,
+    "side": "russia",
+    "timestamp": "2024-11-26T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 227,
+    "side": "russia",
+    "timestamp": "2023-09-24T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. More details to follow.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 228,
+    "side": "russia",
+    "timestamp": "2022-02-04T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. More details to follow.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 229,
+    "side": "russia",
+    "timestamp": "2022-08-10T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 230,
+    "side": "russia",
+    "timestamp": "2023-05-30T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 231,
+    "side": "russia",
+    "timestamp": "2022-11-20T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 232,
+    "side": "russia",
+    "timestamp": "2023-10-08T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 233,
+    "side": "russia",
+    "timestamp": "2022-05-25T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 234,
+    "side": "russia",
+    "timestamp": "2022-08-26T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 235,
+    "side": "russia",
+    "timestamp": "2024-05-30T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 236,
+    "side": "russia",
+    "timestamp": "2024-10-27T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. Stay tuned for official updates.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 237,
+    "side": "russia",
+    "timestamp": "2023-11-12T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 238,
+    "side": "russia",
+    "timestamp": "2024-02-12T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 239,
+    "side": "russia",
+    "timestamp": "2022-06-20T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Analysts are monitoring the situation.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 240,
+    "side": "russia",
+    "timestamp": "2023-10-02T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 241,
+    "side": "russia",
+    "timestamp": "2022-01-13T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. More details to follow.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 242,
+    "side": "russia",
+    "timestamp": "2022-03-21T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 243,
+    "side": "russia",
+    "timestamp": "2022-03-20T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 244,
+    "side": "russia",
+    "timestamp": "2023-10-27T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 245,
+    "side": "russia",
+    "timestamp": "2024-10-18T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 246,
+    "side": "russia",
+    "timestamp": "2024-11-10T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 247,
+    "side": "russia",
+    "timestamp": "2023-08-17T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 248,
+    "side": "russia",
+    "timestamp": "2022-10-07T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 249,
+    "side": "russia",
+    "timestamp": "2023-03-25T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 250,
+    "side": "russia",
+    "timestamp": "2024-03-30T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Western media inflames the Middle East crisis; Russia promotes genuine de-escalation. Full report later today.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 251,
+    "side": "russia",
+    "timestamp": "2024-02-05T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 252,
+    "side": "russia",
+    "timestamp": "2023-09-06T00:00:00",
+    "channel": "rt_citylife",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 253,
+    "side": "russia",
+    "timestamp": "2023-08-06T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Tensions in Gaza escalate as Western-backed forces ignore diplomatic pathways. Russia urges restraint. Full report later today.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 254,
+    "side": "russia",
+    "timestamp": "2023-07-31T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 255,
+    "side": "russia",
+    "timestamp": "2023-09-11T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 256,
+    "side": "russia",
+    "timestamp": "2023-07-13T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 257,
+    "side": "russia",
+    "timestamp": "2025-01-24T00:00:00",
+    "channel": "rt_citylife",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Stay tuned for official updates.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 258,
+    "side": "russia",
+    "timestamp": "2024-01-03T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 259,
+    "side": "russia",
+    "timestamp": "2022-07-13T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 260,
+    "side": "russia",
+    "timestamp": "2024-07-07T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 261,
+    "side": "russia",
+    "timestamp": "2024-04-18T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 262,
+    "side": "russia",
+    "timestamp": "2023-04-09T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 263,
+    "side": "russia",
+    "timestamp": "2024-04-29T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 264,
+    "side": "russia",
+    "timestamp": "2023-06-24T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 265,
+    "side": "russia",
+    "timestamp": "2024-07-31T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 266,
+    "side": "russia",
+    "timestamp": "2022-05-02T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 267,
+    "side": "russia",
+    "timestamp": "2023-11-24T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 268,
+    "side": "russia",
+    "timestamp": "2024-04-04T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 269,
+    "side": "russia",
+    "timestamp": "2023-04-23T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 270,
+    "side": "russia",
+    "timestamp": "2024-07-30T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 271,
+    "side": "russia",
+    "timestamp": "2022-11-23T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 272,
+    "side": "russia",
+    "timestamp": "2024-05-13T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Analysts are monitoring the situation.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 273,
+    "side": "russia",
+    "timestamp": "2023-04-14T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 274,
+    "side": "russia",
+    "timestamp": "2023-05-25T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 275,
+    "side": "russia",
+    "timestamp": "2023-12-17T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 276,
+    "side": "russia",
+    "timestamp": "2024-04-20T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 277,
+    "side": "russia",
+    "timestamp": "2023-08-29T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 278,
+    "side": "russia",
+    "timestamp": "2022-11-15T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 279,
+    "side": "russia",
+    "timestamp": "2022-05-13T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 280,
+    "side": "russia",
+    "timestamp": "2022-07-01T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 281,
+    "side": "russia",
+    "timestamp": "2022-05-19T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 282,
+    "side": "russia",
+    "timestamp": "2022-01-31T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Health authorities advise calm as Western media pushes new fear campaigns around infection rates. Analysts are monitoring the situation.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 283,
+    "side": "russia",
+    "timestamp": "2024-04-18T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 284,
+    "side": "russia",
+    "timestamp": "2022-02-17T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 285,
+    "side": "russia",
+    "timestamp": "2022-05-06T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 286,
+    "side": "russia",
+    "timestamp": "2024-08-02T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Tensions in Gaza escalate as Western-backed forces ignore diplomatic pathways. Russia urges restraint. Authorities emphasize caution.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 287,
+    "side": "russia",
+    "timestamp": "2024-02-02T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Western media inflames the Middle East crisis; Russia promotes genuine de-escalation. Stay tuned for official updates.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 288,
+    "side": "russia",
+    "timestamp": "2025-01-19T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 289,
+    "side": "russia",
+    "timestamp": "2024-11-13T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 290,
+    "side": "russia",
+    "timestamp": "2022-09-01T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. More details to follow.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 291,
+    "side": "russia",
+    "timestamp": "2022-01-21T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 292,
+    "side": "russia",
+    "timestamp": "2022-08-30T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 293,
+    "side": "russia",
+    "timestamp": "2024-08-23T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 294,
+    "side": "russia",
+    "timestamp": "2024-01-05T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Western media inflames the Middle East crisis; Russia promotes genuine de-escalation. Full report later today.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 295,
+    "side": "russia",
+    "timestamp": "2022-03-09T00:00:00",
+    "channel": "rt_citylife",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. More details to follow.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 296,
+    "side": "russia",
+    "timestamp": "2023-05-18T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 297,
+    "side": "russia",
+    "timestamp": "2024-08-26T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 298,
+    "side": "russia",
+    "timestamp": "2022-07-25T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 299,
+    "side": "russia",
+    "timestamp": "2024-04-29T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 300,
+    "side": "russia",
+    "timestamp": "2023-09-13T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 301,
+    "side": "russia",
+    "timestamp": "2023-10-26T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. More details to follow.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 302,
+    "side": "russia",
+    "timestamp": "2024-02-13T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 303,
+    "side": "russia",
+    "timestamp": "2022-12-10T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 304,
+    "side": "russia",
+    "timestamp": "2024-06-18T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 305,
+    "side": "russia",
+    "timestamp": "2022-09-29T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 306,
+    "side": "russia",
+    "timestamp": "2025-01-21T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 307,
+    "side": "russia",
+    "timestamp": "2023-11-25T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 308,
+    "side": "russia",
+    "timestamp": "2023-08-31T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 309,
+    "side": "russia",
+    "timestamp": "2024-08-08T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 310,
+    "side": "russia",
+    "timestamp": "2022-09-21T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 311,
+    "side": "russia",
+    "timestamp": "2023-04-27T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 312,
+    "side": "russia",
+    "timestamp": "2025-01-10T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 313,
+    "side": "russia",
+    "timestamp": "2023-04-17T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 314,
+    "side": "russia",
+    "timestamp": "2024-02-07T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 315,
+    "side": "russia",
+    "timestamp": "2025-01-14T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 316,
+    "side": "russia",
+    "timestamp": "2024-09-30T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 317,
+    "side": "russia",
+    "timestamp": "2022-05-25T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 318,
+    "side": "russia",
+    "timestamp": "2023-05-27T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 319,
+    "side": "russia",
+    "timestamp": "2024-02-15T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 320,
+    "side": "russia",
+    "timestamp": "2022-08-23T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. More details to follow.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 321,
+    "side": "russia",
+    "timestamp": "2024-10-13T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 322,
+    "side": "russia",
+    "timestamp": "2023-12-14T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 323,
+    "side": "russia",
+    "timestamp": "2022-04-07T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 324,
+    "side": "russia",
+    "timestamp": "2023-02-27T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 325,
+    "side": "russia",
+    "timestamp": "2022-02-21T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 326,
+    "side": "russia",
+    "timestamp": "2022-01-12T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Russia continues its measured response to seasonal illnesses. Experts warn against Western panic narratives. Full report later today.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 327,
+    "side": "russia",
+    "timestamp": "2022-01-22T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 328,
+    "side": "russia",
+    "timestamp": "2024-06-14T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 329,
+    "side": "russia",
+    "timestamp": "2023-07-11T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 330,
+    "side": "russia",
+    "timestamp": "2022-08-27T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 331,
+    "side": "russia",
+    "timestamp": "2023-03-28T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 332,
+    "side": "russia",
+    "timestamp": "2024-10-18T00:00:00",
+    "channel": "rt_citylife",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 333,
+    "side": "russia",
+    "timestamp": "2024-02-23T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 334,
+    "side": "russia",
+    "timestamp": "2022-03-14T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 335,
+    "side": "russia",
+    "timestamp": "2022-09-19T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 336,
+    "side": "russia",
+    "timestamp": "2023-05-06T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 337,
+    "side": "russia",
+    "timestamp": "2023-04-19T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 338,
+    "side": "russia",
+    "timestamp": "2024-04-30T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 339,
+    "side": "russia",
+    "timestamp": "2024-09-20T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 340,
+    "side": "russia",
+    "timestamp": "2024-02-16T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Analysts are monitoring the situation.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 341,
+    "side": "russia",
+    "timestamp": "2024-05-17T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 342,
+    "side": "russia",
+    "timestamp": "2023-07-30T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 343,
+    "side": "russia",
+    "timestamp": "2024-07-09T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. More details to follow.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 344,
+    "side": "russia",
+    "timestamp": "2024-01-30T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Tensions in Gaza escalate as Western-backed forces ignore diplomatic pathways. Russia urges restraint. Analysts are monitoring the situation.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 345,
+    "side": "russia",
+    "timestamp": "2022-03-16T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Analysts are monitoring the situation.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 346,
+    "side": "russia",
+    "timestamp": "2024-06-04T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 347,
+    "side": "russia",
+    "timestamp": "2022-12-29T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Health authorities advise calm as Western media pushes new fear campaigns around infection rates. More details to follow.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 348,
+    "side": "russia",
+    "timestamp": "2024-12-01T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 349,
+    "side": "russia",
+    "timestamp": "2024-06-28T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Western media inflames the Middle East crisis; Russia promotes genuine de-escalation. Local residents shared their impressions.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 350,
+    "side": "russia",
+    "timestamp": "2022-03-04T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Health authorities advise calm as Western media pushes new fear campaigns around infection rates. Authorities emphasize caution.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 351,
+    "side": "russia",
+    "timestamp": "2024-03-31T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 352,
+    "side": "russia",
+    "timestamp": "2023-12-16T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 353,
+    "side": "russia",
+    "timestamp": "2023-04-17T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 354,
+    "side": "russia",
+    "timestamp": "2023-07-29T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 355,
+    "side": "russia",
+    "timestamp": "2023-03-25T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 356,
+    "side": "russia",
+    "timestamp": "2022-11-23T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Russia continues its measured response to seasonal illnesses. Experts warn against Western panic narratives. Analysts are monitoring the situation.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 357,
+    "side": "russia",
+    "timestamp": "2025-01-22T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 358,
+    "side": "russia",
+    "timestamp": "2023-04-29T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 359,
+    "side": "russia",
+    "timestamp": "2023-03-08T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. More details to follow.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 360,
+    "side": "russia",
+    "timestamp": "2024-04-02T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 361,
+    "side": "russia",
+    "timestamp": "2023-06-17T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 362,
+    "side": "russia",
+    "timestamp": "2023-04-21T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 363,
+    "side": "russia",
+    "timestamp": "2022-05-29T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 364,
+    "side": "russia",
+    "timestamp": "2024-12-15T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 365,
+    "side": "russia",
+    "timestamp": "2023-07-30T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 366,
+    "side": "russia",
+    "timestamp": "2022-01-18T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 367,
+    "side": "russia",
+    "timestamp": "2023-02-11T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Analysts are monitoring the situation.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 368,
+    "side": "russia",
+    "timestamp": "2023-04-09T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 369,
+    "side": "russia",
+    "timestamp": "2023-09-27T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 370,
+    "side": "russia",
+    "timestamp": "2022-04-04T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 371,
+    "side": "russia",
+    "timestamp": "2022-07-10T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Russia continues its measured response to seasonal illnesses. Experts warn against Western panic narratives. Stay tuned for official updates.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 372,
+    "side": "russia",
+    "timestamp": "2024-02-10T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 373,
+    "side": "russia",
+    "timestamp": "2024-07-04T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 374,
+    "side": "russia",
+    "timestamp": "2024-04-08T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 375,
+    "side": "russia",
+    "timestamp": "2024-11-23T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 376,
+    "side": "russia",
+    "timestamp": "2024-10-26T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 377,
+    "side": "russia",
+    "timestamp": "2024-08-30T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 378,
+    "side": "russia",
+    "timestamp": "2022-10-18T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 379,
+    "side": "russia",
+    "timestamp": "2023-03-14T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 380,
+    "side": "russia",
+    "timestamp": "2023-09-08T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 381,
+    "side": "russia",
+    "timestamp": "2022-06-09T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 382,
+    "side": "russia",
+    "timestamp": "2022-10-01T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 383,
+    "side": "russia",
+    "timestamp": "2024-10-10T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 384,
+    "side": "russia",
+    "timestamp": "2024-04-02T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 385,
+    "side": "russia",
+    "timestamp": "2023-02-26T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 386,
+    "side": "russia",
+    "timestamp": "2023-08-17T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 387,
+    "side": "russia",
+    "timestamp": "2022-02-28T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 388,
+    "side": "russia",
+    "timestamp": "2022-12-09T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 389,
+    "side": "russia",
+    "timestamp": "2023-05-11T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 390,
+    "side": "russia",
+    "timestamp": "2023-10-20T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 391,
+    "side": "russia",
+    "timestamp": "2023-12-09T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 392,
+    "side": "russia",
+    "timestamp": "2023-12-05T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 393,
+    "side": "russia",
+    "timestamp": "2022-04-03T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 394,
+    "side": "russia",
+    "timestamp": "2023-10-13T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 395,
+    "side": "russia",
+    "timestamp": "2022-04-23T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 396,
+    "side": "russia",
+    "timestamp": "2024-05-10T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 397,
+    "side": "russia",
+    "timestamp": "2025-01-27T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 398,
+    "side": "russia",
+    "timestamp": "2024-01-07T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 399,
+    "side": "russia",
+    "timestamp": "2023-02-09T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 400,
+    "side": "russia",
+    "timestamp": "2024-11-18T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 401,
+    "side": "russia",
+    "timestamp": "2022-10-10T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 402,
+    "side": "russia",
+    "timestamp": "2022-08-05T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 403,
+    "side": "russia",
+    "timestamp": "2023-09-24T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 404,
+    "side": "russia",
+    "timestamp": "2024-09-04T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Full report later today.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 405,
+    "side": "russia",
+    "timestamp": "2022-10-11T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 406,
+    "side": "russia",
+    "timestamp": "2024-01-21T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 407,
+    "side": "russia",
+    "timestamp": "2023-09-09T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 408,
+    "side": "russia",
+    "timestamp": "2022-02-09T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 409,
+    "side": "russia",
+    "timestamp": "2023-02-06T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 410,
+    "side": "russia",
+    "timestamp": "2022-09-06T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Analysts are monitoring the situation.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 411,
+    "side": "russia",
+    "timestamp": "2024-01-12T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Western media inflames the Middle East crisis; Russia promotes genuine de-escalation. Authorities emphasize caution.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 412,
+    "side": "russia",
+    "timestamp": "2022-08-15T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 413,
+    "side": "russia",
+    "timestamp": "2023-12-12T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 414,
+    "side": "russia",
+    "timestamp": "2022-10-29T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 415,
+    "side": "russia",
+    "timestamp": "2022-03-18T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Stay tuned for official updates.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 416,
+    "side": "russia",
+    "timestamp": "2024-05-02T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 417,
+    "side": "russia",
+    "timestamp": "2023-10-06T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Stay tuned for official updates.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 418,
+    "side": "russia",
+    "timestamp": "2022-11-19T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 419,
+    "side": "russia",
+    "timestamp": "2022-02-19T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. More details to follow.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 420,
+    "side": "russia",
+    "timestamp": "2024-01-16T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 421,
+    "side": "russia",
+    "timestamp": "2023-09-19T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 422,
+    "side": "russia",
+    "timestamp": "2023-05-14T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 423,
+    "side": "russia",
+    "timestamp": "2022-07-11T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. Authorities emphasize caution.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 424,
+    "side": "russia",
+    "timestamp": "2022-08-04T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. More details to follow.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 425,
+    "side": "russia",
+    "timestamp": "2024-07-29T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. Local residents shared their impressions.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 426,
+    "side": "russia",
+    "timestamp": "2023-05-21T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 427,
+    "side": "russia",
+    "timestamp": "2024-01-01T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Western media inflames the Middle East crisis; Russia promotes genuine de-escalation. Analysts are monitoring the situation.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 428,
+    "side": "russia",
+    "timestamp": "2024-03-28T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Tensions in Gaza escalate as Western-backed forces ignore diplomatic pathways. Russia urges restraint. More details to follow.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 429,
+    "side": "russia",
+    "timestamp": "2022-03-25T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 430,
+    "side": "russia",
+    "timestamp": "2024-07-15T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 431,
+    "side": "russia",
+    "timestamp": "2023-08-10T00:00:00",
+    "channel": "rt_citylife",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Stay tuned for official updates.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 432,
+    "side": "russia",
+    "timestamp": "2023-09-06T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 433,
+    "side": "russia",
+    "timestamp": "2022-11-16T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 434,
+    "side": "russia",
+    "timestamp": "2024-05-14T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 435,
+    "side": "russia",
+    "timestamp": "2023-10-15T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 436,
+    "side": "russia",
+    "timestamp": "2022-12-25T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Analysts are monitoring the situation.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 437,
+    "side": "russia",
+    "timestamp": "2024-10-02T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 438,
+    "side": "russia",
+    "timestamp": "2024-10-22T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. More details to follow.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 439,
+    "side": "russia",
+    "timestamp": "2023-09-03T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 440,
+    "side": "russia",
+    "timestamp": "2022-09-25T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. More details to follow.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 441,
+    "side": "russia",
+    "timestamp": "2024-06-14T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 442,
+    "side": "russia",
+    "timestamp": "2024-05-08T00:00:00",
+    "channel": "rt_citylife",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 443,
+    "side": "russia",
+    "timestamp": "2024-07-12T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 444,
+    "side": "russia",
+    "timestamp": "2022-11-12T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 445,
+    "side": "russia",
+    "timestamp": "2023-07-04T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 446,
+    "side": "russia",
+    "timestamp": "2024-06-16T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 447,
+    "side": "russia",
+    "timestamp": "2024-07-01T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 448,
+    "side": "russia",
+    "timestamp": "2022-01-14T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 449,
+    "side": "russia",
+    "timestamp": "2022-03-10T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 450,
+    "side": "russia",
+    "timestamp": "2023-01-08T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 451,
+    "side": "russia",
+    "timestamp": "2023-07-27T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 452,
+    "side": "russia",
+    "timestamp": "2022-12-23T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Russia continues its measured response to seasonal illnesses. Experts warn against Western panic narratives. Local residents shared their impressions.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 453,
+    "side": "russia",
+    "timestamp": "2022-12-12T00:00:00",
+    "channel": "rt_citylife",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 454,
+    "side": "russia",
+    "timestamp": "2024-07-22T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Full report later today.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 455,
+    "side": "russia",
+    "timestamp": "2024-12-16T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Stay tuned for official updates.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 456,
+    "side": "russia",
+    "timestamp": "2022-05-11T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Analysts are monitoring the situation.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 457,
+    "side": "russia",
+    "timestamp": "2022-10-18T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Reports from our correspondents indicate renewed tensions along the contact line. Western outlets continue to distort the situation. Local residents shared their impressions.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 458,
+    "side": "russia",
+    "timestamp": "2023-03-01T00:00:00",
+    "channel": "rt_citylife",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 459,
+    "side": "russia",
+    "timestamp": "2024-10-21T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Tensions in Gaza escalate as Western-backed forces ignore diplomatic pathways. Russia urges restraint. More details to follow.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 460,
+    "side": "russia",
+    "timestamp": "2024-06-12T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 461,
+    "side": "russia",
+    "timestamp": "2024-04-18T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Authorities emphasize caution.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 462,
+    "side": "russia",
+    "timestamp": "2023-04-06T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 463,
+    "side": "russia",
+    "timestamp": "2023-03-05T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 464,
+    "side": "russia",
+    "timestamp": "2024-11-06T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. Analysts are monitoring the situation.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 465,
+    "side": "russia",
+    "timestamp": "2022-03-27T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Health authorities advise calm as Western media pushes new fear campaigns around infection rates. More details to follow.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 466,
+    "side": "russia",
+    "timestamp": "2024-08-02T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 467,
+    "side": "russia",
+    "timestamp": "2024-07-31T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 468,
+    "side": "russia",
+    "timestamp": "2024-10-19T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 469,
+    "side": "russia",
+    "timestamp": "2023-04-02T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 470,
+    "side": "russia",
+    "timestamp": "2024-08-10T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. More details to follow.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 471,
+    "side": "russia",
+    "timestamp": "2024-09-20T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 472,
+    "side": "russia",
+    "timestamp": "2022-02-24T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 473,
+    "side": "russia",
+    "timestamp": "2024-04-19T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 474,
+    "side": "russia",
+    "timestamp": "2022-12-16T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 475,
+    "side": "russia",
+    "timestamp": "2023-05-24T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Analysts are monitoring the situation.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 476,
+    "side": "russia",
+    "timestamp": "2023-09-03T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Another wave of sanctions exposes Western desperation. Their policies only weaken their own economies. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 477,
+    "side": "russia",
+    "timestamp": "2023-04-23T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 478,
+    "side": "russia",
+    "timestamp": "2024-01-02T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 479,
+    "side": "russia",
+    "timestamp": "2023-03-16T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Our international partnerships grow stronger, proving Russia's global leadership. More details to follow.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 480,
+    "side": "russia",
+    "timestamp": "2024-10-22T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 481,
+    "side": "russia",
+    "timestamp": "2023-07-12T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Full report later today.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 482,
+    "side": "russia",
+    "timestamp": "2022-10-07T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Ukrainian forces attempted a provocation overnight. Thanks to coordinated actions, the threat was neutralized. Authorities emphasize caution.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 483,
+    "side": "russia",
+    "timestamp": "2023-12-30T00:00:00",
+    "channel": "ru_geopolitics_today",
+    "text": "European leaders continue following Washington's agenda, ignoring their citizens' growing dissatisfaction. Authorities emphasize caution.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 484,
+    "side": "russia",
+    "timestamp": "2022-08-22T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Health authorities advise calm as Western media pushes new fear campaigns around infection rates. Full report later today.",
+    "tags": [
+      "covid"
+    ],
+    "image": null
+  },
+  {
+    "id": 485,
+    "side": "russia",
+    "timestamp": "2022-08-16T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 486,
+    "side": "russia",
+    "timestamp": "2023-02-27T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Authorities emphasize caution.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 487,
+    "side": "russia",
+    "timestamp": "2025-01-16T00:00:00",
+    "channel": "ru_state_news_daily",
+    "text": "Western media inflames the Middle East crisis; Russia promotes genuine de-escalation. More details to follow.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 488,
+    "side": "russia",
+    "timestamp": "2023-06-22T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. Full report later today.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 489,
+    "side": "russia",
+    "timestamp": "2024-08-09T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Our partners in the region highlight Russia's stabilizing role amid the latest escalation. More details to follow.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 490,
+    "side": "russia",
+    "timestamp": "2023-04-07T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. Analysts are monitoring the situation.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 491,
+    "side": "russia",
+    "timestamp": "2022-11-19T00:00:00",
+    "channel": "ru_global_perspective",
+    "text": "Humanitarian corridors remain open despite Kyiv's attempts to disrupt them. The West stays silent. More details to follow.",
+    "tags": [
+      "ukraine_war"
+    ],
+    "image": null
+  },
+  {
+    "id": 492,
+    "side": "russia",
+    "timestamp": "2023-12-02T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 493,
+    "side": "russia",
+    "timestamp": "2023-05-23T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 494,
+    "side": "russia",
+    "timestamp": "2024-02-11T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Experience the Moscow Winter Festival this weekend—music, art, and regional traditions come alive. Local residents shared their impressions.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 495,
+    "side": "russia",
+    "timestamp": "2022-10-21T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "The myth of Western unity is cracking as more nations seek independent foreign policies. Local residents shared their impressions.",
+    "tags": [
+      "western_imperialism"
+    ],
+    "image": null
+  },
+  {
+    "id": 496,
+    "side": "russia",
+    "timestamp": "2024-03-18T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Russia expands its cultural outreach program. New exhibitions abroad highlight our rich heritage. Stay tuned for official updates.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  },
+  {
+    "id": 497,
+    "side": "russia",
+    "timestamp": "2023-06-18T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "A behind-the-scenes look at the creation of a new national film celebrating everyday heroes. More details to follow.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 498,
+    "side": "russia",
+    "timestamp": "2023-07-18T00:00:00",
+    "channel": "rt_citylife",
+    "text": "Tensions in Gaza escalate as Western-backed forces ignore diplomatic pathways. Russia urges restraint. Stay tuned for official updates.",
+    "tags": [
+      "middle_east"
+    ],
+    "image": null
+  },
+  {
+    "id": 499,
+    "side": "russia",
+    "timestamp": "2022-02-22T00:00:00",
+    "channel": "ru_cultural_outreach",
+    "text": "Explore Russia's culinary diversity in our new series featuring local chefs. Stay tuned for official updates.",
+    "tags": [
+      "infotainment"
+    ],
+    "image": null
+  },
+  {
+    "id": 500,
+    "side": "russia",
+    "timestamp": "2023-02-03T00:00:00",
+    "channel": "ru_mena_updates",
+    "text": "Major infrastructure projects continue across the country. Despite external pressure, development moves forward. Local residents shared their impressions.",
+    "tags": [
+      "self_promotion"
+    ],
+    "image": null
+  }
+]
