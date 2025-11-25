@@ -338,9 +338,9 @@ export default function Home() {
 
         margin: 0,
 
-        backgroundColor: "#020617",
+        backgroundColor: "#e5e5e5",
 
-        color: "#e5e7eb",
+        color: "#000000",
 
         fontFamily: "system-ui, -apple-system, BlinkMacSystemFont, sans-serif",
 
@@ -368,7 +368,13 @@ export default function Home() {
 
             inset: 0,
 
-            backgroundColor: "rgba(2,6,23,0.96)",
+            backgroundImage: "url('/Photos/the_longer_you_bleed%20%289%29.jpg')",
+
+            backgroundSize: "cover",
+
+            backgroundPosition: "center",
+
+            backgroundRepeat: "no-repeat",
 
             display: "flex",
 
@@ -382,6 +388,22 @@ export default function Home() {
 
         >
 
+          {/* Dark overlay for readability */}
+
+          <div
+
+            style={{
+
+              position: "absolute",
+
+              inset: 0,
+
+              backgroundColor: "rgba(2,6,23,0.85)",
+
+            }}
+
+          />
+
           <div
 
             style={{
@@ -392,15 +414,21 @@ export default function Home() {
 
               borderRadius: 24,
 
-              border: "1px solid #111827",
+              border: "1px solid rgba(255,255,255,0.1)",
 
               background:
 
-                "radial-gradient(circle at top, #020617 0, #020617 45%, #020617 100%)",
+                "radial-gradient(circle at top, rgba(2,6,23,0.95) 0, rgba(2,6,23,0.9) 100%)",
 
               boxShadow: "0 30px 90px rgba(0,0,0,0.8)",
 
               padding: "1.8rem 2rem 1.6rem",
+
+              position: "relative",
+
+              zIndex: 1,
+
+              fontFamily: "var(--font-inter), 'Inter', system-ui, sans-serif",
 
             }}
 
@@ -416,6 +444,10 @@ export default function Home() {
 
                 marginBottom: "0.6rem",
 
+                color: "#ffffff",
+
+                fontWeight: 600,
+
               }}
 
             >
@@ -430,9 +462,11 @@ export default function Home() {
 
                 fontSize: "0.9rem",
 
-                opacity: 0.8,
-
                 marginBottom: "0.9rem",
+
+                color: "#d1d1d1",
+
+                lineHeight: 1.6,
 
               }}
 
@@ -456,9 +490,9 @@ export default function Home() {
 
                 fontSize: "0.85rem",
 
-                opacity: 0.78,
-
                 marginBottom: "0.7rem",
+
+                color: "#d1d1d1",
 
               }}
 
@@ -476,13 +510,15 @@ export default function Home() {
 
                 fontSize: "0.82rem",
 
-                opacity: 0.8,
-
                 paddingLeft: "1.1rem",
 
                 marginTop: 0,
 
                 marginBottom: "0.9rem",
+
+                color: "#d1d1d1",
+
+                lineHeight: 1.6,
 
               }}
 
@@ -490,7 +526,7 @@ export default function Home() {
 
               <li>
 
-                <strong>Shock / Pereklychka</strong> – people locate danger and
+                <strong style={{ color: "#7dd3fc" }}>Shock / Pereklychka</strong> – people locate danger and
 
                 check if others are alive.
 
@@ -498,7 +534,7 @@ export default function Home() {
 
               <li>
 
-                <strong>Negotiation &amp; Safety</strong> – the group decides what
+                <strong style={{ color: "#7dd3fc" }}>Negotiation &amp; Safety</strong> – the group decides what
 
                 is safe to post and how to avoid helping the enemy.
 
@@ -506,7 +542,7 @@ export default function Home() {
 
               <li>
 
-                <strong>Polyvocal Narratives</strong> – competing stories,
+                <strong style={{ color: "#7dd3fc" }}>Polyvocal Narratives</strong> – competing stories,
 
                 interpretations and critiques of the occupation appear.
 
@@ -514,7 +550,7 @@ export default function Home() {
 
               <li>
 
-                <strong>Emotional Surge</strong> – anger, grief, nostalgia and
+                <strong style={{ color: "#7dd3fc" }}>Emotional Surge</strong> – anger, grief, nostalgia and
 
                 insults flood the feed.
 
@@ -522,7 +558,7 @@ export default function Home() {
 
               <li>
 
-                <strong>Routine Crisis</strong> – queues, outages and checkpoints
+                <strong style={{ color: "#7dd3fc" }}>Routine Crisis</strong> – queues, outages and checkpoints
 
                 become everyday background.
 
@@ -538,9 +574,11 @@ export default function Home() {
 
                 fontSize: "0.8rem",
 
-                opacity: 0.7,
-
                 marginBottom: "1.1rem",
+
+                color: "#d1d1d1",
+
+                lineHeight: 1.5,
 
               }}
 
@@ -562,13 +600,13 @@ export default function Home() {
 
                 fontSize: "0.75rem",
 
-                opacity: 0.55,
-
                 marginTop: "1.4rem",
 
                 marginBottom: "1.1rem",
 
                 lineHeight: 1.4,
+
+                color: "#d1d1d1",
 
               }}
 
@@ -576,7 +614,7 @@ export default function Home() {
 
               This project is inspired by the research described in:<br />
 
-              <em>
+              <em style={{ color: "#d1d1d1" }}>
 
                 Bareikytė, T. &amp; Makhortykh, A. (2024). Materiality of Wartime
 
@@ -612,17 +650,37 @@ export default function Home() {
 
                   borderRadius: 999,
 
-                  border: "1px solid #374151",
+                  border: "1px solid #7dd3fc",
 
                   backgroundColor: "transparent",
 
-                  color: "#e5e7eb",
+                  color: "#7dd3fc",
 
                   padding: "0.35rem 0.9rem",
 
                   fontSize: "0.8rem",
 
                   cursor: "pointer",
+
+                  fontFamily: "var(--font-inter), 'Inter', system-ui, sans-serif",
+
+                  transition: "all 0.2s ease",
+
+                }}
+
+                onMouseEnter={(e) => {
+
+                  e.currentTarget.style.backgroundColor = "#7dd3fc";
+
+                  e.currentTarget.style.color = "#000000";
+
+                }}
+
+                onMouseLeave={(e) => {
+
+                  e.currentTarget.style.backgroundColor = "transparent";
+
+                  e.currentTarget.style.color = "#7dd3fc";
 
                 }}
 
@@ -654,7 +712,7 @@ export default function Home() {
 
           borderRadius: 24,
 
-          border: "1px solid #111827",
+          border: "1px solid #d1d1d1",
 
           overflow: "hidden",
 
@@ -664,7 +722,7 @@ export default function Home() {
 
           flexDirection: "column",
 
-          backgroundColor: "#020617",
+          backgroundColor: "#ffffff",
 
         }}
 
@@ -678,9 +736,9 @@ export default function Home() {
 
             padding: "0.8rem 1rem",
 
-            borderBottom: "1px solid #0f172a",
+            borderBottom: "1px solid #d1d1d1",
 
-            background: cfg.bgHeader,
+            background: "#ffffff",
 
             display: "flex",
 
@@ -702,9 +760,9 @@ export default function Home() {
 
               borderRadius: "50%",
 
-              backgroundColor: "#020617",
+              backgroundColor: "#4a90e2",
 
-              boxShadow: "0 0 0 1px #111827 inset",
+              color: "#ffffff",
 
               display: "flex",
 
@@ -726,13 +784,13 @@ export default function Home() {
 
           <div style={{ flex: 1 }}>
 
-            <div style={{ fontSize: 14, fontWeight: 600 }}>
+            <div style={{ fontSize: 14, fontWeight: 600, color: "#000000" }}>
 
               Crisis Chat · City Channel
 
             </div>
 
-            <div style={{ fontSize: 11, opacity: 0.65 }}>
+            <div style={{ fontSize: 11, opacity: 0.65, color: "#666666" }}>
 
               synthetic reconstruction of a wartime Telegram chat
 
@@ -778,9 +836,9 @@ export default function Home() {
 
             padding: "0.6rem 1rem 0.4rem",
 
-            borderBottom: "1px solid #0f172a",
+            borderBottom: "1px solid #d1d1d1",
 
-            backgroundColor: "#020617",
+            backgroundColor: "#f5f5f5",
 
           }}
 
@@ -795,6 +853,8 @@ export default function Home() {
               opacity: 0.8,
 
               margin: 0,
+
+              color: "#333333",
 
             }}
 
@@ -820,9 +880,9 @@ export default function Home() {
 
             padding: "0.9rem 1.1rem 1.2rem",
 
-            backgroundImage:
+            backgroundColor: "#e5e5e5",
 
-              "radial-gradient(circle at top, rgba(15,23,42,0.7), #020617 55%)",
+            backgroundImage: "none",
 
           }}
 
@@ -858,6 +918,8 @@ export default function Home() {
 
                 opacity: 0.7,
 
+                color: "#666666",
+
               }}
 
             >
@@ -880,9 +942,9 @@ export default function Home() {
 
             padding: "0.6rem 1rem",
 
-            borderTop: "1px solid #0f172a",
+            borderTop: "1px solid #d1d1d1",
 
-            backgroundColor: "#020617",
+            backgroundColor: "#ffffff",
 
             display: "flex",
 
@@ -902,15 +964,15 @@ export default function Home() {
 
               borderRadius: 999,
 
-              backgroundColor: "#020617",
+              backgroundColor: "#f0f0f0",
 
-              boxShadow: "0 0 0 1px #111827 inset",
+              boxShadow: "0 0 0 1px #d1d1d1 inset",
 
               padding: "0.4rem 0.8rem",
 
               fontSize: 12,
 
-              opacity: 0.6,
+              color: "#666666",
 
               whiteSpace: "nowrap",
 
@@ -1004,9 +1066,9 @@ function MessageBubble({ msg, isSelf }: { msg: Message; isSelf: boolean }) {
 
             borderRadius: "50%",
 
-            backgroundColor: "#020617",
+            backgroundColor: "#4a90e2",
 
-            boxShadow: "0 0 0 1px #111827 inset",
+            color: "#ffffff",
 
             display: "flex",
 
@@ -1062,6 +1124,8 @@ function MessageBubble({ msg, isSelf }: { msg: Message; isSelf: boolean }) {
 
               marginBottom: 1,
 
+              color: "#333333",
+
             }}
 
           >
@@ -1076,9 +1140,9 @@ function MessageBubble({ msg, isSelf }: { msg: Message; isSelf: boolean }) {
 
           style={{
 
-            backgroundColor: isSelf ? "#0ea5e9" : cfg.bgBubble,
+            backgroundColor: isSelf ? "#4a90e2" : "#ffffff",
 
-            color: isSelf ? "#020617" : "#e5e7eb",
+            color: isSelf ? "#ffffff" : "#000000",
 
             padding: "0.45rem 0.7rem",
 
@@ -1088,9 +1152,9 @@ function MessageBubble({ msg, isSelf }: { msg: Message; isSelf: boolean }) {
 
             lineHeight: 1.35,
 
-            boxShadow: "0 10px 22px rgba(0,0,0,0.35)",
+            boxShadow: "0 1px 2px rgba(0,0,0,0.1)",
 
-            border: isSelf ? "none" : "1px solid #020617",
+            border: isSelf ? "none" : "1px solid #e0e0e0",
 
           }}
 
@@ -1109,6 +1173,8 @@ function MessageBubble({ msg, isSelf }: { msg: Message; isSelf: boolean }) {
             opacity: 0.55,
 
             marginTop: 2,
+
+            color: "#666666",
 
           }}
 
