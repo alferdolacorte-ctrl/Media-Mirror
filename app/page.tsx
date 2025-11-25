@@ -288,6 +288,16 @@ export default function Home() {
 
 
 
+  const visibleMessages = useMemo(
+
+    () => sortedMessages.slice(0, visibleIndex + 1),
+
+    [sortedMessages, visibleIndex]
+
+  );
+
+
+
   // Auto-scroll to bottom when new messages arrive
 
   useEffect(() => {
@@ -299,16 +309,6 @@ export default function Home() {
     }
 
   }, [visibleMessages.length]);
-
-
-
-  const visibleMessages = useMemo(
-
-    () => sortedMessages.slice(0, visibleIndex + 1),
-
-    [sortedMessages, visibleIndex]
-
-  );
 
 
 
