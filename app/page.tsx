@@ -1,140 +1,22 @@
 "use client";
 
-
-
+import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
-
-import crisisTimelineData from "../data/crisis_timeline.json";
-
-
-
-type Phase = "shock" | "negotiation" | "polyvocal" | "emotional" | "routine";
-
-
-
-type Message = {
-
-  id: number;
-
-  author: string;
-
-  timestamp: string;
-
-  phase: Phase;
-
-  text: string;
-
-  reply_to_id: number | null;
-
-};
-
-
-
-const allMessages = crisisTimelineData as Message[];
-
-
-
-const CURRENT_USER = "Miguel";
-
-
-
-const MONTHS_SHORT = [
-
-  "Jan",
-
-  "Feb",
-
-  "Mar",
-
-  "Apr",
-
-  "May",
-
-  "Jun",
-
-  "Jul",
-
-  "Aug",
-
-  "Sep",
-
-  "Oct",
-
-  "Nov",
-
-  "Dec",
-
-];
-
-
-
-function pad2(n: number) {
-
-  return n.toString().padStart(2, "0");
-
-}
-
-
-
-function formatTime(ts: string) {
-
-  const d = new Date(ts);
-
-  const month = MONTHS_SHORT[d.getMonth()];
-
-  const day = d.getDate();
-
-  const h = pad2(d.getHours());
-
-  const m = pad2(d.getMinutes());
-
-  return `${month} ${day}, ${h}:${m}`;
-
-}
-
-
-
-function initials(name: string) {
-
-  return name
-
-    .split(" ")
-
-    .map((p) => p[0])
-
-    .join("")
-
-    .toUpperCase()
-
-    .slice(0, 2);
-
-}
-
-
-
-// Real-time mapping config
-// Venezuela time: November 25, 2025, 13:36 (UTC-4 = 17:36 UTC)
-const SIM_START = new Date("2025-11-25T17:36:00Z").getTime();
-// One message every 30s of real time (change if you want faster/slower)
-const STEP_MS = 30_000;
-
-
-
-function computeVisibleIndex(total: number): number {
-
-  if (total === 0) return 0;
-
-  const now = Date.now();
-
-  const elapsed = Math.max(0, now - SIM_START);
-
-  const rawIndex = Math.floor(elapsed / STEP_MS);
-
-  // loop forever
-
-  return rawIndex % total;
-
-}
+import type { Event, MessageEventPayload, PromptEventPayload } from "../types/event";
+import type { Phase } from "../types/message";
+import { loadEpisode } from "../lib/episodes/loadEpisode";
+import { mapEpisodeToEvents } from "../lib/episodes/mapEpisodeToEvents";
+import { useEpisode } from "../lib/episode/EpisodeProvider";
+import { getStageById, getNextStage, getStageIndex, getTotalStages } from "../lib/stages";
+import type { BibliographyEntryId } from "../lib/bibliography";
+import { buildReveal } from "../lib/witnessing/revealLogic";
+import EventRenderer from "../components/EventRenderer";
+import StageTransitionInterstitial from "../components/StageTransitionInterstitial";
+import StageContextDrawer from "../components/StageContextDrawer";
+
+
+
+// Helper functions and constants moved to MessageBubble component
 
 
 
@@ -237,68 +119,54 @@ const stageDescriptions: Record<Phase, string> = {
 
 
 export default function Home() {
+  const {
+    visibleEvents,
+    answersByPromptId,
+    selectChoice,
+    advance,
+    events,
+    dispatch,
+    episodeId,
+    currentStageId,
+    stageStatus,
+    isTransitionOpen,
+    isContextOpen,
+    openTransition,
+    closeTransition,
+    startNextStage,
+    openContext,
+    closeContext,
+  } = useEpisode();
 
-  // sort once, stable order
-
-  const sortedMessages = useMemo(
-
-    () =>
-
-      [...allMessages].sort(
-
-        (a, b) => new Date(a.timestamp).getTime() - new Date(b.timestamp).getTime()
-
-      ),
-
-    []
-
-  );
-
-
-
-  const [visibleIndex, setVisibleIndex] = useState(0);
-
-  const [showIntro, setShowIntro] = useState(true);
-
-  const messagesEndRef = useRef<HTMLDivElement>(null);
-
-
+  const currentStage = getStageById(currentStageId) ?? getStageById("stage-1")!;
+  const nextStage = getNextStage(currentStageId);
 
   useEffect(() => {
+    const episodeFile = currentStage.episodeFile;
+    loadEpisode(episodeFile).then((episode) => {
+      const events = mapEpisodeToEvents(episode);
+      dispatch({ type: "LOAD_EPISODE", episodeId: episode.id, events });
+    });
+  }, [currentStageId, dispatch]);
 
-    if (sortedMessages.length === 0) return;
-
-
-
-    const updateIndex = () => {
-
-      setVisibleIndex(computeVisibleIndex(sortedMessages.length));
-
-    };
-
-
-
-    updateIndex(); // initial sync
-
-    const id = setInterval(updateIndex, 2000);
-
+  useEffect(() => {
+    if (events.length === 0) return;
+    const id = setInterval(advance, 2000);
     return () => clearInterval(id);
+  }, [events.length, advance]);
 
-  }, [sortedMessages.length]);
+  const [showIntro, setShowIntro] = useState(true);
+  const [scrollToRefId, setScrollToRefId] = useState<BibliographyEntryId | null>(null);
+  const messagesEndRef = useRef<HTMLDivElement>(null);
 
-
-
-  const visibleMessages = useMemo(
-
-    () => sortedMessages.slice(0, visibleIndex + 1),
-
-    [sortedMessages, visibleIndex]
-
-  );
+  const handleScrollToRef = (entryId: BibliographyEntryId) => {
+    openContext();
+    setScrollToRefId(entryId);
+  };
 
 
 
-  // Auto-scroll to bottom when new messages arrive
+  // Auto-scroll to bottom when new events arrive
 
   useEffect(() => {
 
@@ -308,26 +176,37 @@ export default function Home() {
 
     }
 
-  }, [visibleMessages.length]);
+  }, [visibleEvents.length]);
 
 
 
-  const currentPhase: Phase =
+  // Determine current phase from the last message event
 
-    visibleMessages.length > 0
+  // Future: Phase could also be determined from checkpoint events
 
-      ? visibleMessages[visibleMessages.length - 1].phase
+  const currentPhase: Phase = useMemo(() => {
 
-      : "shock";
+    const lastMessageEvent = [...visibleEvents]
+
+      .reverse()
+
+      .find((e): e is Event & { type: "message"; payload: MessageEventPayload } => e.type === "message");
+
+    if (lastMessageEvent) {
+
+      return lastMessageEvent.payload.message.phase;
+
+    }
+
+    return "shock";
+
+  }, [visibleEvents]);
 
 
 
   const cfg = phaseConfig[currentPhase];
 
-
-
   return (
-
     <main
 
       style={{
@@ -705,25 +584,16 @@ export default function Home() {
         style={{
 
           width: "100%",
-
           maxWidth: 900,
-
           height: "100%",
-
           borderRadius: 24,
-
           border: "1px solid #d1d1d1",
-
           overflow: "hidden",
-
           boxShadow: "0 26px 80px rgba(0,0,0,0.65)",
-
           display: "flex",
-
           flexDirection: "column",
-
           backgroundColor: "#ffffff",
-
+          position: "relative",
         }}
 
       >
@@ -783,47 +653,62 @@ export default function Home() {
           </div>
 
           <div style={{ flex: 1 }}>
-
             <div style={{ fontSize: 14, fontWeight: 600, color: "#000000" }}>
-
               Crisis Chat · City Channel
-
             </div>
-
             <div style={{ fontSize: 11, opacity: 0.65, color: "#666666" }}>
-
               synthetic reconstruction of a wartime Telegram chat
-
             </div>
-
           </div>
-
-          <div
-
-            style={{
-
-              fontSize: 10,
-
-              textTransform: "uppercase",
-
-              letterSpacing: "0.12em",
-
-              padding: "2px 8px",
-
-              borderRadius: 999,
-
-              border: `1px solid ${cfg.accent}80`,
-
-              color: cfg.accent,
-
-            }}
-
-          >
-
-            {cfg.label}
-
+          <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+            <span
+              style={{
+                fontSize: 10,
+                color: "#666666",
+              }}
+            >
+              Stage {getStageIndex(currentStageId) + 1} of {getTotalStages()}
+            </span>
+            <div
+              style={{
+                fontSize: 10,
+                textTransform: "uppercase",
+                letterSpacing: "0.12em",
+                padding: "2px 8px",
+                borderRadius: 999,
+                border: `1px solid ${cfg.accent}80`,
+                color: cfg.accent,
+              }}
+            >
+              {currentStage.badgeLabel}
+            </div>
+            <button
+              type="button"
+              onClick={openContext}
+              style={{
+                fontSize: 11,
+                color: "#4a90e2",
+                background: "none",
+                border: "none",
+                cursor: "pointer",
+                textDecoration: "underline",
+                padding: "2px 4px",
+              }}
+            >
+              Stage Context
+            </button>
+            <Link
+              href="/methodology"
+              style={{
+                fontSize: 11,
+                color: "#4a90e2",
+                textDecoration: "underline",
+                padding: "2px 4px",
+              }}
+            >
+              Methodology
+            </Link>
           </div>
-
         </div>
 
 
@@ -888,23 +773,54 @@ export default function Home() {
 
         >
 
-          {visibleMessages.map((msg) => (
-
-            <MessageBubble
-
-              key={msg.id}
-
-              msg={msg}
-
-              isSelf={msg.author === CURRENT_USER}
-
-            />
-
-          ))}
+          {visibleEvents.map((event, i) => {
+            const prev = i > 0 ? visibleEvents[i - 1] : null;
+            const isRevealAfterAnsweredPrompt =
+              event.type === "reveal" &&
+              prev?.type === "prompt" &&
+              episodeId &&
+              answersByPromptId[(prev.payload as PromptEventPayload).promptId];
+            const answer =
+              prev?.type === "prompt"
+                ? answersByPromptId[(prev.payload as PromptEventPayload).promptId]
+                : null;
+            const revealOverride =
+              isRevealAfterAnsweredPrompt && answer && episodeId
+                ? buildReveal({
+                    tag: answer.tag,
+                    episodeId,
+                    promptId: (prev!.payload as PromptEventPayload).promptId,
+                    choiceId: answer.choiceId,
+                  })
+                : undefined;
+            return (
+              <EventRenderer
+                key={event.id}
+                event={event}
+                promptSelectedAnswer={
+                  event.type === "prompt"
+                    ? answersByPromptId[(event.payload as PromptEventPayload).promptId] ?? null
+                    : undefined
+                }
+                promptOnSelectChoice={
+                  event.type === "prompt"
+                    ? (choice) =>
+                        selectChoice(
+                          (event.payload as PromptEventPayload).promptId,
+                          choice
+                        )
+                    : undefined
+                }
+                revealOverride={event.type === "reveal" ? revealOverride : undefined}
+                currentStageId={currentStageId}
+                onScrollToRef={handleScrollToRef}
+              />
+            );
+          })}
 
           <div ref={messagesEndRef} />
 
-          {visibleMessages.length === 0 && (
+          {visibleEvents.length === 0 && (
 
             <div
 
@@ -934,267 +850,97 @@ export default function Home() {
 
 
 
-        {/* fake input bar */}
-
-        <div
-
-          style={{
-
-            padding: "0.6rem 1rem",
-
-            borderTop: "1px solid #d1d1d1",
-
-            backgroundColor: "#ffffff",
-
-            display: "flex",
-
-            alignItems: "center",
-
-            gap: 8,
-
-          }}
-
-        >
-
-          <div
-
-            style={{
-
-              flex: 1,
-
-              borderRadius: 999,
-
-              backgroundColor: "#f0f0f0",
-
-              boxShadow: "0 0 0 1px #d1d1d1 inset",
-
-              padding: "0.4rem 0.8rem",
-
-              fontSize: 12,
-
-              color: "#666666",
-
-              whiteSpace: "nowrap",
-
-              overflow: "hidden",
-
-              textOverflow: "ellipsis",
-
+        {/* Stage transition interstitial (overlay inside chat frame) */}
+        {isTransitionOpen && nextStage && (
+          <StageTransitionInterstitial
+            nextStage={nextStage}
+            onStart={startNextStage}
+            onOpenContext={() => {
+              closeTransition();
+              openContext();
             }}
-
-          >
-
-            Type a message… (simulation)
-
-          </div>
-
-          <div
-
-            style={{
-
-              width: 30,
-
-              height: 30,
-
-              borderRadius: "50%",
-
-              backgroundColor: "#0ea5e9",
-
-              display: "flex",
-
-              alignItems: "center",
-
-              justifyContent: "center",
-
-              fontSize: 16,
-
-              fontWeight: 600,
-
-              color: "#020617",
-
-            }}
-
-          >
-
-            ↗︎
-
-          </div>
-
-        </div>
-
-      </div>
-
-    </main>
-
-  );
-
-}
-
-
-
-function MessageBubble({ msg, isSelf }: { msg: Message; isSelf: boolean }) {
-
-  const cfg = phaseConfig[msg.phase];
-
-
-
-  return (
-
-    <div
-
-      style={{
-
-        display: "flex",
-
-        justifyContent: isSelf ? "flex-end" : "flex-start",
-
-        marginBottom: 6,
-
-      }}
-
-    >
-
-      {!isSelf && (
-
-        <div
-
-          style={{
-
-            width: 28,
-
-            height: 28,
-
-            borderRadius: "50%",
-
-            backgroundColor: "#4a90e2",
-
-            color: "#ffffff",
-
-            display: "flex",
-
-            alignItems: "center",
-
-            justifyContent: "center",
-
-            fontSize: 11,
-
-            fontWeight: 600,
-
-            marginRight: 8,
-
-            marginTop: 4,
-
-          }}
-
-        >
-
-          {initials(msg.author)}
-
-        </div>
-
-      )}
-
-
-
-      <div
-
-        style={{
-
-          maxWidth: "70%",
-
-          display: "flex",
-
-          flexDirection: "column",
-
-          alignItems: isSelf ? "flex-end" : "flex-start",
-
-        }}
-
-      >
-
-        {!isSelf && (
-
-          <span
-
-            style={{
-
-              fontSize: 11,
-
-              opacity: 0.7,
-
-              marginBottom: 1,
-
-              color: "#333333",
-
-            }}
-
-          >
-
-            {msg.author}
-
-          </span>
-
+            onClose={closeTransition}
+          />
         )}
 
-        <div
-
-          style={{
-
-            backgroundColor: isSelf ? "#4a90e2" : "#ffffff",
-
-            color: isSelf ? "#ffffff" : "#000000",
-
-            padding: "0.45rem 0.7rem",
-
-            borderRadius: isSelf ? "14px 14px 4px 14px" : "14px 14px 14px 4px",
-
-            fontSize: 13,
-
-            lineHeight: 1.35,
-
-            boxShadow: "0 1px 2px rgba(0,0,0,0.1)",
-
-            border: isSelf ? "none" : "1px solid #e0e0e0",
-
-          }}
-
-        >
-
-          {msg.text}
-
-        </div>
-
-        <span
-
-          style={{
-
-            fontSize: 10,
-
-            opacity: 0.55,
-
-            marginTop: 2,
-
-            color: "#666666",
-
-          }}
-
-        >
-
-          {formatTime(msg.timestamp)}
-
-        </span>
-
+        {/* Bottom bar: CTA when stage completed, else disabled input */}
+        {!isTransitionOpen && (
+          <div
+            style={{
+              padding: "0.6rem 1rem",
+              borderTop: "1px solid #d1d1d1",
+              backgroundColor: "#ffffff",
+              display: "flex",
+              alignItems: "center",
+              gap: 8,
+            }}
+          >
+            {stageStatus === "completed" && nextStage ? (
+              <button
+                type="button"
+                onClick={openTransition}
+                style={{
+                  flex: 1,
+                  padding: "0.5rem 1rem",
+                  fontSize: 14,
+                  fontWeight: 600,
+                  color: "#fff",
+                  backgroundColor: "#4a90e2",
+                  border: "none",
+                  borderRadius: 999,
+                  cursor: "pointer",
+                }}
+              >
+                Continue to {nextStage.title} →
+              </button>
+            ) : (
+              <>
+                <div
+                  style={{
+                    flex: 1,
+                    borderRadius: 999,
+                    backgroundColor: "#f0f0f0",
+                    boxShadow: "0 0 0 1px #d1d1d1 inset",
+                    padding: "0.4rem 0.8rem",
+                    fontSize: 12,
+                    color: "#666666",
+                    whiteSpace: "nowrap",
+                    overflow: "hidden",
+                    textOverflow: "ellipsis",
+                  }}
+                >
+                  Type a message… (simulation)
+                </div>
+                <div
+                  style={{
+                    width: 30,
+                    height: 30,
+                    borderRadius: "50%",
+                    backgroundColor: "#0ea5e9",
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                    fontSize: 16,
+                    fontWeight: 600,
+                    color: "#020617",
+                  }}
+                >
+                  ↗︎
+                </div>
+              </>
+            )}
+          </div>
+        )}
       </div>
 
-
-
-      {isSelf && (
-
-        <div style={{ width: 28, height: 28, marginLeft: 8, marginTop: 4 }} />
-
-      )}
-
-    </div>
+      <StageContextDrawer
+        stage={currentStage}
+        isOpen={isContextOpen}
+        onClose={closeContext}
+        scrollToRefId={scrollToRefId}
+        onScrolledToRef={() => setScrollToRefId(null)}
+      />
+    </main>
 
   );
 

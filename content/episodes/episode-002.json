@@ -1,0 +1,22 @@
+{
+  "episode": {
+    "id": "episode-002",
+    "title": "Narratives Form",
+    "timeWindowLabel": "Day 2–3 (compressed)",
+    "phases": ["MN_C"],
+    "events": [
+      {"id": "e1", "type": "message", "ts": "00:01", "speaker": "channel", "text": "That photo from the square is from 2019. Same fountain.", "tags": ["MN"], "safety": "none"},
+      {"id": "e2", "type": "message", "ts": "00:02", "speaker": "channel", "text": "Does it matter? People need to see something.", "tags": ["MN"], "safety": "none"},
+      {"id": "e3", "type": "message", "ts": "00:03", "speaker": "channel", "text": "It matters. We're not a propaganda feed.", "tags": ["C"], "safety": "none"},
+      {"id": "e4", "type": "message", "ts": "00:04", "speaker": "channel", "text": "Nobody said we are. Just saying context gets lost.", "tags": ["MN"], "safety": "none"},
+      {"id": "e5", "type": "message", "ts": "00:05", "speaker": "channel", "text": "New image going around. Building on fire. No location in caption.", "tags": ["MN"], "safety": "none"},
+      {"id": "e6", "type": "prompt", "ts": "00:06", "speaker": "system", "question": "A photo appears; is it staged? what do you do?", "choices": [{"id": "c1", "text": "Share it with a question mark", "tag": "MN", "onSelect": "e7"}, {"id": "c2", "text": "Ask for source and date", "tag": "SI", "onSelect": "e7"}, {"id": "c3", "text": "Call it out if you know it's old", "tag": "C", "onSelect": "e7"}], "safety": "none"},
+      {"id": "e7", "type": "reveal", "ts": "00:07", "speaker": "system", "text": "Insight placeholder.", "tags": ["MN"], "safety": "none"},
+      {"id": "e8", "type": "message", "ts": "00:08", "speaker": "channel", "text": "People who stayed are either brave or complicit. No in-between.", "tags": ["C"], "safety": "none"},
+      {"id": "e9", "type": "message", "ts": "00:09", "speaker": "channel", "text": "That's not fair. Some couldn't leave.", "tags": ["C"], "safety": "none"},
+      {"id": "e10", "type": "prompt", "ts": "00:10", "speaker": "system", "question": "People judge those who stayed; condemn, contextualize, or disengage?", "choices": [{"id": "c4", "text": "Condemn the framing", "tag": "C", "onSelect": "e11"}, {"id": "c5", "text": "Contextualize why people stayed", "tag": "MN", "onSelect": "e11"}, {"id": "c6", "text": "Disengage from the thread", "tag": "F", "onSelect": "e11"}], "safety": "none"},
+      {"id": "e11", "type": "reveal", "ts": "00:11", "speaker": "system", "text": "Insight placeholder.", "tags": ["C"], "safety": "none"},
+      {"id": "e12", "type": "checkpoint", "ts": "00:12", "speaker": "system", "text": "Reflection: How narratives and critique shape the channel.", "tags": ["MN"], "safety": "none"}
+    ]
+  }
+}

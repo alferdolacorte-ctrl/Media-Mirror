@@ -1,0 +1,21 @@
+{
+  "episode": {
+    "id": "episode-001",
+    "title": "Day 1: Information Scarcity",
+    "timeWindowLabel": "Day 1 (compressed)",
+    "phases": ["SI_SA", "MN_C", "EM_C"],
+    "events": [
+      {"id": "e1", "type": "message", "ts": "00:01", "speaker": "channel", "text": "Has anyone heard from the northern district? No signal since morning.", "tags": ["SI"], "safety": "none"},
+      {"id": "e2", "type": "message", "ts": "00:02", "speaker": "channel", "text": "Avoid posting exact addresses. We don't know who's reading.", "tags": ["SA"], "safety": "none"},
+      {"id": "e3", "type": "message", "ts": "00:03", "speaker": "channel", "text": "Trying to reach my sister. Phone dead for 6 hours.", "tags": ["SI"], "safety": "none"},
+      {"id": "e4", "type": "message", "ts": "00:04", "speaker": "channel", "text": "Check-in thread: reply with district if you're safe.", "tags": ["CC"], "safety": "none"},
+      {"id": "e5", "type": "message", "ts": "00:05", "speaker": "channel", "text": "No names or exact buildings. General area only.", "tags": ["SA"], "safety": "none"},
+      {"id": "e6", "type": "prompt", "ts": "00:06", "speaker": "system", "question": "What do you do when you can't reach family?", "choices": [{"id": "c1", "text": "Ask the channel for check-ins", "tag": "SI", "onSelect": "e7"}, {"id": "c2", "text": "Post a general area update", "tag": "SA", "onSelect": "e7"}, {"id": "c3", "text": "Remind others about safety rules", "tag": "CC", "onSelect": "e7"}], "safety": "none"},
+      {"id": "e7", "type": "reveal", "ts": "00:07", "speaker": "system", "text": "Insight placeholder.", "tags": ["SI"], "safety": "none", "refIds": ["bareikyte2024"]},
+      {"id": "e8", "type": "message", "ts": "00:08", "speaker": "channel", "text": "Someone posted a photo with a street name visible. Already deleted but screenshots spread.", "tags": ["SA"], "safety": "none"},
+      {"id": "e9", "type": "prompt", "ts": "00:09", "speaker": "system", "question": "Someone posts a location + damage photo: amplify, verify, or warn?", "choices": [{"id": "c4", "text": "Amplify so people know", "tag": "SA", "onSelect": "e10"}, {"id": "c5", "text": "Ask for verification first", "tag": "SI", "onSelect": "e10"}, {"id": "c6", "text": "Warn: no locations", "tag": "CC", "onSelect": "e10"}], "safety": "none"},
+      {"id": "e10", "type": "reveal", "ts": "00:10", "speaker": "system", "text": "Insight placeholder.", "tags": ["SA"], "safety": "none", "refIds": ["tacticalTech"]},
+      {"id": "e11", "type": "checkpoint", "ts": "00:11", "speaker": "system", "text": "Reflection: Information scarcity and coordination under pressure.", "tags": ["CC"], "safety": "none"}
+    ]
+  }
+}

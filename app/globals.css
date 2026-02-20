@@ -34,3 +34,13 @@ body {
   transform: translateY(-2px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
 }
+
+@media print {
+  .education-print {
+    max-width: 100%;
+    padding: 1rem;
+  }
+  .education-print section {
+    break-inside: avoid;
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "episode": {
+    "id": "episode-003",
+    "title": "Emotionalization",
+    "timeWindowLabel": "Week 2+ (compressed)",
+    "phases": ["EM_C", "MN"],
+    "events": [
+      {"id": "e1", "type": "message", "ts": "00:01", "speaker": "channel", "text": "Why are we still posting in Russian. This is our channel.", "tags": ["EM"], "safety": "none"},
+      {"id": "e2", "type": "message", "ts": "00:02", "speaker": "channel", "text": "Not everyone has Ukrainian. We need to reach people.", "tags": ["CC"], "safety": "none"},
+      {"id": "e3", "type": "message", "ts": "00:03", "speaker": "channel", "text": "I'm just so tired. And angry.", "tags": ["EM"], "safety": "none"},
+      {"id": "e4", "type": "message", "ts": "00:04", "speaker": "channel", "text": "Same. But we keep going.", "tags": ["EM"], "safety": "none"},
+      {"id": "e5", "type": "message", "ts": "00:05", "speaker": "channel", "text": "Language isn't the enemy. The enemy is the enemy.", "tags": ["MN"], "safety": "none"},
+      {"id": "e6", "type": "prompt", "ts": "00:06", "speaker": "system", "question": "A language debate erupts; what intervention helps?", "choices": [{"id": "c1", "text": "Redirect to practical info", "tag": "SI", "onSelect": "e7"}, {"id": "c2", "text": "Acknowledge emotion, suggest pause", "tag": "EM", "onSelect": "e7"}, {"id": "c3", "text": "Propose a channel rule", "tag": "CC", "onSelect": "e7"}], "safety": "none"},
+      {"id": "e7", "type": "reveal", "ts": "00:07", "speaker": "system", "text": "Insight placeholder.", "tags": ["EM"], "safety": "none"},
+      {"id": "e8", "type": "message", "ts": "00:08", "speaker": "channel", "text": "That last message was way over the line. Who do we report to?", "tags": ["CC"], "safety": "none"},
+      {"id": "e9", "type": "message", "ts": "00:09", "speaker": "channel", "text": "Admins are overwhelmed. We moderate each other.", "tags": ["CC"], "safety": "none"},
+      {"id": "e10", "type": "prompt", "ts": "00:10", "speaker": "system", "question": "A message is hateful; what does chat governance look like?", "choices": [{"id": "c4", "text": "Call it out publicly", "tag": "C", "onSelect": "e11"}, {"id": "c5", "text": "Ask admins to remove", "tag": "CC", "onSelect": "e11"}, {"id": "c6", "text": "Offer counter-narrative", "tag": "MN", "onSelect": "e11"}], "safety": "none"},
+      {"id": "e11", "type": "reveal", "ts": "00:11", "speaker": "system", "text": "Insight placeholder.", "tags": ["CC"], "safety": "none"},
+      {"id": "e12", "type": "checkpoint", "ts": "00:12", "speaker": "system", "text": "Reflection: Emotion, language, and governance in the channel.", "tags": ["EM"], "safety": "none"}
+    ]
+  }
+}
