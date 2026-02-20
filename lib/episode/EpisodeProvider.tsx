@@ -40,7 +40,7 @@ export function EpisodeProvider({ children }: { children: ReactNode }) {
   const [state, dispatch] = useReducer(episodeReducer, initialEpisodeState);
   const episodeStartedRef = useRef(false);
   const completedRef = useRef(false);
-  const segmentStartRef = useRef(Date.now());
+  const segmentStartRef = useRef<number>(0);
   const prevProgressRef = useRef(0);
   const lastPromptShownRef = useRef<string | null>(null);
 
@@ -61,9 +61,12 @@ export function EpisodeProvider({ children }: { children: ReactNode }) {
   ]);
 
   useEffect(() => {
-    if (state.episodeId && state.events.length > 0 && !episodeStartedRef.current) {
-      episodeStartedRef.current = true;
-      track("EPISODE_STARTED", { episodeId: state.episodeId, ts: Date.now() });
+    if (state.episodeId && state.events.length > 0) {
+      if (segmentStartRef.current === 0) segmentStartRef.current = Date.now();
+      if (!episodeStartedRef.current) {
+        episodeStartedRef.current = true;
+        track("EPISODE_STARTED", { episodeId: state.episodeId, ts: Date.now() });
+      }
     }
     if (state.episodeId && state.events.length > 0 && state.progressIndex >= state.events.length - 1 && !completedRef.current) {
       completedRef.current = true;
